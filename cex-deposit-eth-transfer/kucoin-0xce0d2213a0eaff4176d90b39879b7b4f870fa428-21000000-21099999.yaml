@@ -1,0 +1,51 @@
+title: 'Kucoin Deposit Wallets (Funder: 0xce0d2213a0eaff4176d90b39879b7b4f870fa428)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Kucoin funded by 0xce0d2213a0eaff4176d90b39879b7b4f870fa428
+  with first transactions in blocks 21000000-21099999
+lastmod: '2025-11-19'
+category: exchange
+actor: kucoin
+label: Kucoin Deposit Wallet
+source: 'Funder: 0xce0d2213a0eaff4176d90b39879b7b4f870fa428'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x533dc4aea07eb67004b4632009e97de937f379b6'
+- address: '0x69a7174e6725f1c8c531cbc76eeea2298e3bf72a'
+- address: '0xcb813afc7698a43f68a502406bfe9bf8b5ec09e1'
+- address: '0x504525122a8924965a0643584ff3262567232744'
+- address: '0x5b474d5c565c1e063a1041daabb0e5efc6bef74b'
+- address: '0xf552478d634089a974e50c21b7986904fb21356c'
+- address: '0x45152c5b590f8656c3dff1f5fde0a3860dcfa42d'
+- address: '0xaef0913feca107b7e97db3ff78ae08756e963be8'
+- address: '0x1c8a6b87dc1706e4a8e7dee772c6b6a2eee4cd6f'
+- address: '0xb14d901ca45abe7e0a0ad705608713c13899f7f1'
+- address: '0x2d58d131250e6162c127f28a81f9b95c73d3ad70'
+- address: '0xe7ec8e519b750e685a92a8b42b5829febcb70df0'
+- address: '0xa6380f17508947a9343d90e1e6655bbe998eba37'
+- address: '0x74eb3d75b66219cff94e76dac68af99357ef3af3'
+- address: '0x96965ff627472bfa5931bbdebb8e61cbc1af5246'
+- address: '0xb297786c365a0bc6b6063a2dd88f1df68a2b14ef'
+- address: '0x1c6526f23bbcd19fcf227d4e01634b2f5d172ce4'
+- address: '0x8ca478513603ea71850df144f97b41170c4dc247'
+- address: '0x55089180e62dd09f2699a0c92e223db1487e7449'
+- address: '0xa46f6f035d9d3d3a9d11e4b355db281738196410'
+- address: '0xd6de562ae8c46a9b50f00c1595509598e39cc879'
+- address: '0x07fc5fa6025e03d0a9d9b30a55aa17169b7f6768'
+- address: '0x55ab038e7bba6ed03457d83fedac1927daaf342a'
+- address: '0x689f162e74ae7478247dc40a6d0089632327f65c'
+- address: '0x7f2e010bc704dfb9c153c5de164e2d11573c0097'
+- address: '0xb0cf5a0f8d8b3142f716a424ccbb6045d0719a3a'
+- address: '0xfa96b2843c7d58233e114bdcf64250af62a9d103'
+- address: '0x90abaf5f0ba403f850958a19d2257569462a132e'
+- address: '0x2961ba512d3bc12f37d80d6c7e9f11ba02f65e51'
+- address: '0x38146dbe68165f85fb3cd437982516e1434b65ee'
+- address: '0x53ee8a28c8ceb467fc5c99c780abbafe3bff7078'
+- address: '0x60ab329a6ce703f37495a81a7b26b5d4913e3fc9'
+- address: '0xada74d9fa729391cb117649bb3582af87ab0d1e1'
+- address: '0xaf7fa5c0c4de704cf9105ff267ab000e83f32c3f'
+- address: '0x5c9cb4a45d34c073b3b8d6d8ef5113289120621a'
+- address: '0x660ece8565920f5dd911c22c18d956fdfa0b1909'
+- address: '0x84a64baa0fcb53963a7e158cc32c8d3ec6fc476e'
+- address: '0xc83b7b787473f71af8929eb2b48dcef809fe520b'
+- address: '0xc9fbaf835f9718a5c6e13892e57c657bfdc670ce'
