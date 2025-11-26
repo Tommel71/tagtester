@@ -1,0 +1,15 @@
+title: 'Osl Deposit Wallets (Funder: 0x969a480f68d8cf8fea037eb6c9d73d1d30cb1c75)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Osl funded by 0x969a480f68d8cf8fea037eb6c9d73d1d30cb1c75
+  with first transactions in blocks 23200000-23299999
+lastmod: '2025-11-19'
+category: exchange
+actor: osl
+label: Osl Deposit Wallet
+source: 'Funder: 0x969a480f68d8cf8fea037eb6c9d73d1d30cb1c75'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x79ed33c4cad1e1a6b3658c0c83ee2298260da157'
+- address: '0xd1b2efe872872ea97643dd452e6a798e01738d77'
+- address: '0xa4aace872d67ad4c7e575870c5db53f49a922aba'

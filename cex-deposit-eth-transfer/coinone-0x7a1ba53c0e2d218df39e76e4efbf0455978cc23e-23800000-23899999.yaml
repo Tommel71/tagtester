@@ -1,0 +1,38 @@
+title: 'Coinone Deposit Wallets (Funder: 0x7a1ba53c0e2d218df39e76e4efbf0455978cc23e)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Coinone funded by 0x7a1ba53c0e2d218df39e76e4efbf0455978cc23e
+  with first transactions in blocks 23800000-23899999
+lastmod: '2025-11-18'
+category: exchange
+actor: coinone
+label: Coinone Deposit Wallet
+source: 'Funder: 0x7a1ba53c0e2d218df39e76e4efbf0455978cc23e'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x1d40a28328f070dcf956b1d90d3e8b6188398a5b'
+- address: '0xd27d009e69e3af80492668019ce7d521228a8c02'
+- address: '0xe9d3f930781872da9f80efc021f3d21ee8e17489'
+- address: '0x3ef9a142108b1ba95a1358436d339be7c8c372bd'
+- address: '0xf67741225b665f7a609b5ace016f78e55756c288'
+- address: '0x6fbb4a32aaec787be6b06dc4977888b0dbdd3374'
+- address: '0x939f7ba8d1cce4d8d5e85671d58cad41a88d99e4'
+- address: '0xf669250f41d36a4605cf0242863a58ed39e548f5'
+- address: '0x346855cc811657e16dc30dc238c63dda71d428d2'
+- address: '0x10b036e9000ecdfdf6c2fe62a5a07a2479913a68'
+- address: '0x79f30674b252119ed646c2a51cca63fc94aff515'
+- address: '0x6905eae6f06e3a7f8771f885af6d823adb8542ea'
+- address: '0x99d8232e040081ebe68c3729a3e318b497d1c233'
+- address: '0x58e88d140bc63e6e2f1b5302be12dca06f0f5eec'
+- address: '0xdd3b9284b58c52e3e2020ec2c59b1d7ae209e50f'
+- address: '0xd5b75dd0438ad297972db2484c68e0ad4145c1bb'
+- address: '0x5ec85a6792fe25a5a3389ca1bac619a3f4e53987'
+- address: '0x2230b3b9475cc8a761597edf78e929839b062ac0'
+- address: '0xce678e1df3375852d18c27af855a7e66643a38fe'
+- address: '0xa963a252d220e35ebf3e8840d0f138b5d7c10670'
+- address: '0x879833dd657dd52f6d426f3546d7bc526153fc8b'
+- address: '0x62c8323d6f1aaab0c231ec312a0668848cacc2bb'
+- address: '0x0d6cb9b5175fa050aefcaf2c320615c611f22c67'
+- address: '0x0d67823b488320bb90371160969cf0c9d9112c67'
+- address: '0x1e91bbc5320f741bbb8c91bb958c29cf7f823e4f'
+- address: '0x6596e6f19dbc3a0ee049380fc84d96e9abff89ae'

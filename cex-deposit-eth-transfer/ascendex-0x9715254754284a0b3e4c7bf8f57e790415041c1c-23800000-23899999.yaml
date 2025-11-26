@@ -1,0 +1,43 @@
+title: 'Ascendex Deposit Wallets (Funder: 0x9715254754284a0b3e4c7bf8f57e790415041c1c)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Ascendex funded by 0x9715254754284a0b3e4c7bf8f57e790415041c1c
+  with first transactions in blocks 23800000-23899999
+lastmod: '2025-11-18'
+category: exchange
+actor: ascendex
+label: Ascendex Deposit Wallet
+source: 'Funder: 0x9715254754284a0b3e4c7bf8f57e790415041c1c'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0xbf40db5422365b603c235a192bce4b1ec6f9565e'
+- address: '0x7e87d093479ac8c3be9b25470869b493a2d36fd7'
+- address: '0x2640e92b8b25615c5c848b636ca2285c80f8d107'
+- address: '0x5e888ac52b5e5ea6ad2ffc497d1baf3069a793c3'
+- address: '0x6ad9706b43ddd59a05cf04aef2031d7bda70a4d1'
+- address: '0x89377de45a98895127824d105f06a02c7b83c84d'
+- address: '0x9cfc4b84c1124d7717bbb7cbcf220136dddf6260'
+- address: '0x5a4160fc636575fe898bc5c231889bf7f3ade0d0'
+- address: '0x3c272d15ed4eab77edef6a373bd1867ba25a2a74'
+- address: '0xda4c3f5ef9aa129753c37a82f140fc10481af866'
+- address: '0xfa4ed13b96362a124207f95eea9d7003e6c61413'
+- address: '0x7cb7cf0227ccec9d69599d313027eae055fd213e'
+- address: '0xcff9c91a0971bc98ac7b989ca16da3023ca4f07f'
+- address: '0xe5768993ed98f754f85f8b1c8fc6b5087a136db6'
+- address: '0x338e0744fb7df20b38eb49736e5a09ca1a21ec43'
+- address: '0x5812a1d1237520722b600da71b66eab59e7afb2f'
+- address: '0x3b5bbe8a0c77b83871137e1f7c6080633245667c'
+- address: '0x31cec27ef8180209a0e1629be340155ce05931aa'
+- address: '0xb719ec31e9baf8806b75b76b8e3c5f8ca4e585db'
+- address: '0xe3dc59b9370ef6deb4c2e50dd528ed351b3bc72a'
+- address: '0xc6d54410f38f2c510690b9298daaf0ed3c3e93bb'
+- address: '0xd6aa3063e95527de2dcebe2ddab96da9662f959c'
+- address: '0xfb3c3f3936398637df70014ff13bbd326976e91d'
+- address: '0x4e1e3ad3163379401bd45dfdbd7c8e75eeefe3d7'
+- address: '0x28d4e416b7ed6285c041e3e5d96561809b93be6f'
+- address: '0x61d9af9d44860c9168fb6d31d80de60d94880d55'
+- address: '0x5a78f64e821a43ee506e51c926120cc1ccd57f51'
+- address: '0x44eb0abee3961cde4d94dab1370e8b89675db756'
+- address: '0x1b709728f974720d9e2074dd6b21b3963a5744ff'
+- address: '0x6627ae55273a7ea4cb8dcee7c18ff7639d504519'
+- address: '0xf4f5af11fe10c96f2897cdf66b3f0ccb955b6d76'
