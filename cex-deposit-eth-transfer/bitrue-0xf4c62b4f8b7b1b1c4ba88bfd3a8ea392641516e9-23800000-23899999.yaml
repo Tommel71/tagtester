@@ -1,0 +1,42 @@
+title: 'Bitrue Deposit Wallets (Funder: 0xf4c62b4f8b7b1b1c4ba88bfd3a8ea392641516e9)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bitrue funded by 0xf4c62b4f8b7b1b1c4ba88bfd3a8ea392641516e9
+  with first transactions in blocks 23800000-23899999
+lastmod: '2025-11-18'
+category: exchange
+actor: bitrue
+label: Bitrue Deposit Wallet
+source: 'Funder: 0xf4c62b4f8b7b1b1c4ba88bfd3a8ea392641516e9'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x793aee950f3f0469c2c291472eb6222365a72d00'
+- address: '0x93b8d361201c637a0212aaa95b921653a3c370e0'
+- address: '0xdbef6d203440dad97a2e841aad0c0bfbe8c96efa'
+- address: '0xf7af68526e482b01201fc9eb8d1b2d11446093b7'
+- address: '0xed6ae9a28b4e2c71b2434338d1dce73a707ccec0'
+- address: '0xabeb672d1c346d9cfda7dc01b8f54db52c857fde'
+- address: '0x82b3960cab5e905acf3b805d06f54d477d6d61c4'
+- address: '0xf60a083aefcc6347ed3612aa88f6ec3821dab4b9'
+- address: '0xd36c7e2d83b09d301cb3a56497c6f1323fda894c'
+- address: '0x231caffd6ddd117992891960d3e23abb42ae9800'
+- address: '0xd852b3dc3593dce0831d277635433139e1c2cba1'
+- address: '0xc59647a8159856acf45aa1822e43166264a8f717'
+- address: '0x9ed48d003f476d0ff06bea2c902e2364b6dad5cb'
+- address: '0x83c130c55c49b1b897bcec1463d80451b3ccc2e8'
+- address: '0xce526bbddf3ad4ad3f09b8362661ba26d8b9c106'
+- address: '0x0261e4854da6039660c938faa774337075091e77'
+- address: '0x4f33b3ac3ff04065ad24bec3e7a62593a21003b4'
+- address: '0xb2bef6d0d3d109588760997ba153bb2094ea2a31'
+- address: '0xd0d8e3e46adf8777b8817d60d2294a7d958702ec'
+- address: '0x6a27228ecba039ec7d0a572af3792cb0576b6151'
+- address: '0x03263c3dc43878ef3a0d2cd9c208f2ded51f2f7b'
+- address: '0x480b841eca80d82b315b4e501c5ac3f054428616'
+- address: '0x9c611a20b7aaf030b9b6edf3d102d70ccc6fe359'
+- address: '0x46ba37fb642c607b02a535669878e34789a990fd'
+- address: '0xf66cc4b67a8e3624543d4afbf6a6a70d1335efa2'
+- address: '0x1dc2cf83a1b62a7538a9eefd68927ebbf554269c'
+- address: '0x42a1fedde7f331f1d033da6012901f2d2aa4a1b7'
+- address: '0x1c14c3394ab13fb3d61be633880900e92956007e'
+- address: '0x9b7f2f2c7de04e0f7a8cb70fa5dd2a2e649c375f'
+- address: '0xec459337cada97939c4339e0057b5c33c3bce267'
