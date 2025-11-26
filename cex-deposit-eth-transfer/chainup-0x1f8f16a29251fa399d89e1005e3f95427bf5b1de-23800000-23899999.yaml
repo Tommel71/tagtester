@@ -1,0 +1,38 @@
+title: 'Chainup Deposit Wallets (Funder: 0x1f8f16a29251fa399d89e1005e3f95427bf5b1de)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Chainup funded by 0x1f8f16a29251fa399d89e1005e3f95427bf5b1de
+  with first transactions in blocks 23800000-23899999
+lastmod: '2025-11-18'
+category: exchange
+actor: chainup
+label: Chainup Deposit Wallet
+source: 'Funder: 0x1f8f16a29251fa399d89e1005e3f95427bf5b1de'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x6de7e8d8b2e49cd53187226431cf404f6bc328f5'
+- address: '0x793fd2bf6c59e4a8776185b327bae632c3615dc2'
+- address: '0x9258af366633064ba115ea299f215d207cc38d1b'
+- address: '0x0aadc1217fe499a9a60cdadd3da2d90e8a6daccd'
+- address: '0x36f8fdb943396414b14089c2cd28e07d8fabe01a'
+- address: '0xee5578b901938ec47058ff06ac4ba34263a8f2f9'
+- address: '0xd0f776e59974b56efea9d78c5c0f2d66db75e640'
+- address: '0xea474a02844eece91aa7ff50186781e54ff1fab8'
+- address: '0x4d45aacfb8a1ddd27f07e09cbd70d68e20a3217e'
+- address: '0xa38c46783ad13b04b630c5d84dfeb0eabd3e993e'
+- address: '0x354ee1ddfb51f30ffeb23c86c91ad0472150b273'
+- address: '0x2d323a85dd793dff817c4851c5806853250494c3'
+- address: '0x6646d36deae95a62b915fec4a03741c944895292'
+- address: '0x060d4e6d1f7a02caa584ba103df97a7ffa04a6a4'
+- address: '0x28190d7535d243f4600daa070ee78dbbadf9bbab'
+- address: '0x6f9e40715a7606463edc5e1f795844955c8600dc'
+- address: '0x26e3c16dba0976e3f6364448bb14d6356ac01124'
+- address: '0x4589c92ed70a03497740e44ce9b5b8851f9b8d39'
+- address: '0xb59d7b255bc57055afe8c48017bc5f0681e73472'
+- address: '0x01a2248474e43bd6628196e95991ed88f50943cb'
+- address: '0x6ee727c4ab9be444b5cad7f766032da34b93945e'
+- address: '0x16b5d2118b05a2be8cde23fffdc630f9e7f66e39'
+- address: '0x70e5cf34de7a11af5370b753093281d80232d136'
+- address: '0x356e75ff678b3c4e124109c4ad9fc2394cdbaebb'
+- address: '0xc1b4f9a97f5476f69089ab0d03f71459edf0df93'
+- address: '0x5214cc5459dc06e1d665a0a5d9029648fc90244a'
