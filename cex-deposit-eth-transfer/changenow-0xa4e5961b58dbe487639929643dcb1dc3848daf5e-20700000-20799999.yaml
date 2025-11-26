@@ -1,0 +1,14 @@
+title: 'Changenow Deposit Wallets (Funder: 0xa4e5961b58dbe487639929643dcb1dc3848daf5e)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Changenow funded by 0xa4e5961b58dbe487639929643dcb1dc3848daf5e
+  with first transactions in blocks 20700000-20799999
+lastmod: '2025-11-19'
+category: exchange
+actor: changenow
+label: Changenow Deposit Wallet
+source: 'Funder: 0xa4e5961b58dbe487639929643dcb1dc3848daf5e'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0xd72cd83afba0dcfeff95d463adcb2b8def6aa623'
+- address: '0xdac17f958d2ee523a2206206994597c13d831ec7'
