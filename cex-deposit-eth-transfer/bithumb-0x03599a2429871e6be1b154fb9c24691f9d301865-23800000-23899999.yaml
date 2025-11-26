@@ -1,0 +1,33 @@
+title: 'Bithumb Deposit Wallets (Funder: 0x03599a2429871e6be1b154fb9c24691f9d301865)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bithumb funded by 0x03599a2429871e6be1b154fb9c24691f9d301865
+  with first transactions in blocks 23800000-23899999
+lastmod: '2025-11-18'
+category: exchange
+actor: bithumb
+label: Bithumb Deposit Wallet
+source: 'Funder: 0x03599a2429871e6be1b154fb9c24691f9d301865'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0xad95769affac909d70f75967fd2002569a4d3372'
+- address: '0x91bc14a47a1e4150f1badf2386dd595dec060e7c'
+- address: '0x89605021c88134b84f62859dfd6b01489b151533'
+- address: '0x427ec70dc746c48b9c4fe65de949379c0c2dbfbc'
+- address: '0x714f23ea51ebf2f25e9aad0ac57c6870c8104347'
+- address: '0x5875f06c492e42858c6e744d2a38a07ec2903a36'
+- address: '0x9360084a23330a8236366fc0871db6e5d2e7e574'
+- address: '0x9b61f12ae28bca570c257b050a8111423d7e334e'
+- address: '0xf3846925154ddb84573c90d8772519e8878a2697'
+- address: '0xcbd19c69df89b70ac7ee479a34fe3c7bcdc4e0ab'
+- address: '0xe3aec6cf9e1777707fd3f7ef05786fec5b13fdfe'
+- address: '0xe5cc1193f95cf9fac65d805e87c3db0779dc6352'
+- address: '0xb812be58ebde1c89c4b34f420a496d2c7c0af5a3'
+- address: '0x0ce8746d9157b61c898d7a6c13fdada8bf10fee9'
+- address: '0x4274bd7a8fa371013b55a518a54ad62ec3a5bfbc'
+- address: '0x1d21d8f0e89e4774265ca699cdeaed3c11abae29'
+- address: '0x9fac55818307fb39872595d5dad6245eb282ef00'
+- address: '0x3c1204a9c2836b24d08f305fe763aa435df40290'
+- address: '0x38df47e539ccbe6df621c52198c31f8007c63ceb'
+- address: '0x7f1b37b7cc5f604f23cc995bc3ea3c4d49b1b2c1'
+- address: '0x535c4dcb54cb9807a94695ce15d9cdf2fe7523b6'
