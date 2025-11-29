@@ -1,0 +1,28 @@
+title: 'Lbank Deposit Wallets (Funder: 0x9c4fe1c3d5975e5c5e493f24352969aa280b7cfc)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Lbank funded by 0x9c4fe1c3d5975e5c5e493f24352969aa280b7cfc
+  with first transactions in blocks 23900000-23999999
+lastmod: '2025-11-29'
+category: exchange
+actor: lbank
+label: Lbank Deposit Wallet
+source: 'Funder: 0x9c4fe1c3d5975e5c5e493f24352969aa280b7cfc'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x8653624a7bc3905a555428e2eb1eb398a84732a2'
+- '0x1f39987a09664afe0d64847d9cdfdbc531fcf2a2'
+- '0x73ffee9626c409694852cc15dfea3bd01b2c1af2'
+- '0x9041113ae0aaa779cf4b1e80553b1c945a488e94'
+- '0x78da38ccbf114c7c057281d1b5bb46f091eec0d2'
+- '0xfb08271d6bc5e6f9d24713568107b8e4147def8b'
+- '0x7211ccfcb7a728ce8d898e787b7ca90e3e6400f8'
+- '0xbb9037a4fd3878323ae7fa25eeca39417f6e2a57'
+- '0x3b2c2cf432e80d0d7c28ccd5f8a42bbd0d4a19aa'
+- '0x4f668743f5fd804f895fa466ec5c57f4e23faac5'
+- '0x5c68647ede70b5ab175208cb7c58a5496a0b1ef6'
+- '0x3fd891cd58dbc8275f9dd4ae9435c7e37af9562d'
+- '0xedf439c64f049d87a28717f59158c45484ee685a'
+- '0x0fb4d8d0e9d4d3ffe7bcb8825ddec77e0a883bae'
+- '0xe8630b0ca818921b66771bfcedad3759fe129b58'
+- '0xf338309efa488c3658a097015a529c3447555527'

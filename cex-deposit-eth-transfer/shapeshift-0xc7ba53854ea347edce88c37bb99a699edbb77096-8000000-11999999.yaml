@@ -1,0 +1,13 @@
+title: 'Shapeshift Deposit Wallets (Funder: 0xc7ba53854ea347edce88c37bb99a699edbb77096)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Shapeshift funded by 0xc7ba53854ea347edce88c37bb99a699edbb77096
+  with first transactions in blocks 8000000-11999999
+lastmod: '2025-11-29'
+category: exchange
+actor: shapeshift
+label: Shapeshift Deposit Wallet
+source: 'Funder: 0xc7ba53854ea347edce88c37bb99a699edbb77096'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0xdf69de4a2a58866afebb7713e3dd10c2153ff27c'

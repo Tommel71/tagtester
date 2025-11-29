@@ -1,0 +1,13 @@
+title: 'Poloniex Deposit Wallets (Funder: 0xb42b20ddbeabdc2a288be7ff847ff94fb48d2579)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Poloniex funded by 0xb42b20ddbeabdc2a288be7ff847ff94fb48d2579
+  with first transactions in blocks 23400000-23499999
+lastmod: '2025-11-29'
+category: exchange
+actor: poloniex
+label: Poloniex Deposit Wallet
+source: 'Funder: 0xb42b20ddbeabdc2a288be7ff847ff94fb48d2579'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x514910771af9ca656af840dff83e8264ecf986ca'

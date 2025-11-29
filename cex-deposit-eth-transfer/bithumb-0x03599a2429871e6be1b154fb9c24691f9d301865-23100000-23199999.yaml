@@ -1,0 +1,17 @@
+title: 'Bithumb Deposit Wallets (Funder: 0x03599a2429871e6be1b154fb9c24691f9d301865)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bithumb funded by 0x03599a2429871e6be1b154fb9c24691f9d301865
+  with first transactions in blocks 23100000-23199999
+lastmod: '2025-11-29'
+category: exchange
+actor: bithumb
+label: Bithumb Deposit Wallet
+source: 'Funder: 0x03599a2429871e6be1b154fb9c24691f9d301865'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x6e37744be698bd96f5020d1fe6f6a85af24a35ca'
+- '0xb9b72879f0e4fe8f55da7daec5e0f112a2bd516d'
+- '0xdd5c2f518408681ee965bcc1524cf8ef235ba29a'
+- '0xc0140cfc3988101a7c1ac769af92fb1ffca80f58'
+- '0x7bcdd8a1b9969a55ac066cf2c0bf756877355693'
