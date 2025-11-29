@@ -1,0 +1,13 @@
+title: 'Bilaxy Deposit Wallets (Funder: 0x20dbb3496eba23337f68461b6ecc3c79d4c78fd9)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bilaxy funded by 0x20dbb3496eba23337f68461b6ecc3c79d4c78fd9
+  with first transactions in blocks 12000000-15999999
+lastmod: '2025-11-29'
+category: exchange
+actor: bilaxy
+label: Bilaxy Deposit Wallet
+source: 'Funder: 0x20dbb3496eba23337f68461b6ecc3c79d4c78fd9'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x3f550c2ea34850652164db71b4677cb4e0eb06a1'
