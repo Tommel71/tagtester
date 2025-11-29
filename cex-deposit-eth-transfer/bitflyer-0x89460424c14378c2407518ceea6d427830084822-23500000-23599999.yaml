@@ -1,0 +1,38 @@
+title: 'Bitflyer Deposit Wallets (Funder: 0x89460424c14378c2407518ceea6d427830084822)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bitflyer funded by 0x89460424c14378c2407518ceea6d427830084822
+  with first transactions in blocks 23500000-23599999
+lastmod: '2025-11-29'
+category: exchange
+actor: bitflyer
+label: Bitflyer Deposit Wallet
+source: 'Funder: 0x89460424c14378c2407518ceea6d427830084822'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0xa1ee6dacfc09af5a0e61b72bebb12a95bbcc1ed8'
+- '0x1943235a14d86aaab5ab1e577d5ccfedfdacc714'
+- '0x9ad91e15a0b95dfe2b91ae876085e01ffaa47481'
+- '0x79da7298e9aa5b58dfba0accc50949da397c4306'
+- '0xc3928a0ad24205476acfeb0f68b77179ff50fb98'
+- '0x12e0c1267f399b1520deb8ee1ec52c7290ec9c2c'
+- '0xd6050e90d24a0eed1074a04fa972bceabdeb25f6'
+- '0x959f144adae92cbc9a429c82ac5af80222a7e550'
+- '0x42da445fe0c6b36d65fe893c897e18abf598a818'
+- '0x2197e1fd5fb439101fad3b76a507f418592c21a1'
+- '0x3331d4c29d2d30da5686c4a92f9e34a800e5ffe3'
+- '0x1c7e84abd5485c79c705a1612b4a4ef205cd4705'
+- '0x93db5dac28fb8f9642f3edf02c1d0315750c70d2'
+- '0xbe857defc3ce25679c6a96779b368040deac9c84'
+- '0x6eaf6c62ead0b6af42c0f105ad0467b77f17e56f'
+- '0x1caa8d8d88be525b9308c8162339edbe0ac58ac3'
+- '0x81b6ac5d7017ec7da09b17ffcd43df1c76e6cb3b'
+- '0x91304e84ef1674bd552a39ac15ac17f781b44502'
+- '0xc948c063cd3818cffac62ad5c95b414d3859fb1d'
+- '0x1a00339675411b2fdbd7bc2061871d6625f3ae39'
+- '0x0b309babb07bdf3fb8c1bb680f13fc58afe5db92'
+- '0xdc8d5f3a6d1c2d451924f25bfafae8a6558f7f65'
+- '0x64e08297a69900e95c6756ad0dd11ab095bd7741'
+- '0x298c18f23acbaef7ac700b5e59b5451cca85af13'
+- '0x85cd53275eed4ca881f461ccd4d9afeab34483ce'
+- '0x08d43ecdfd0684aed4fa5720aee6c658df128c66'

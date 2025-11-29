@@ -1,0 +1,17 @@
+title: 'Chainup Deposit Wallets (Funder: 0x1f8f16a29251fa399d89e1005e3f95427bf5b1de)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Chainup funded by 0x1f8f16a29251fa399d89e1005e3f95427bf5b1de
+  with first transactions in blocks 23900000-23999999
+lastmod: '2025-11-29'
+category: exchange
+actor: chainup
+label: Chainup Deposit Wallet
+source: 'Funder: 0x1f8f16a29251fa399d89e1005e3f95427bf5b1de'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x2aa5aaac58f86ee68eacb9067e3c5c1b8130c93e'
+- '0xa35adf850888389deeb0b583cec0a3901f0e096b'
+- '0xf639d9dc389de0281d088369edffa63fb354ff0b'
+- '0x9163fe85bf708b8e48d55bc3cfa8dce0f6e32239'
+- '0x2a89685d74132e06e49b024c413a5dbc72ec0efe'

@@ -1,0 +1,13 @@
+title: 'Cointiger Deposit Wallets (Funder: 0x0e58a7652143a0a275750e5ac57a4fb14eb4a18d)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Cointiger funded by 0x0e58a7652143a0a275750e5ac57a4fb14eb4a18d
+  with first transactions in blocks 16000000-19999999
+lastmod: '2025-11-29'
+category: exchange
+actor: cointiger
+label: Cointiger Deposit Wallet
+source: 'Funder: 0x0e58a7652143a0a275750e5ac57a4fb14eb4a18d'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x5dd697c77e80c7fda3da1cccd5214c3a75503727'

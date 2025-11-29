@@ -1,0 +1,13 @@
+title: 'Phemex Deposit Wallets (Funder: 0xc7ec1a730f718fb6931d10caebd85742184ee359)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Phemex funded by 0xc7ec1a730f718fb6931d10caebd85742184ee359
+  with first transactions in blocks 8000000-11999999
+lastmod: '2025-11-29'
+category: exchange
+actor: phemex
+label: Phemex Deposit Wallet
+source: 'Funder: 0xc7ec1a730f718fb6931d10caebd85742184ee359'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x01eb561315d947275b7551dd98fe81af41bafc3e'
