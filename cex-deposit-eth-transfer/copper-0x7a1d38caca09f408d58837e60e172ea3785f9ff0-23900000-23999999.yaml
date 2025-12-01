@@ -2,7 +2,7 @@ title: 'Copper Deposit Wallets (Funder: 0x7a1d38caca09f408d58837e60e172ea3785f9f
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Copper funded by 0x7a1d38caca09f408d58837e60e172ea3785f9ff0
   with first transactions in blocks 23900000-23999999
-lastmod: '2025-11-29'
+lastmod: '2025-12-01'
 category: exchange
 actor: copper
 label: Copper Deposit Wallet
@@ -11,3 +11,11 @@ confidence: heuristic
 currency: ETH
 addresses:
 - '0x89dbd49cd144a6d173734fadb4b41ccec5fa1836'
+- '0xe9169448a55181c19c6d6ef593862fedd46a30fa'
+- '0x03ff08e154210e65913333b3c623c85c64ae5b3e'
+- '0x63cd2389115d4f7aefebd6f4b63c8dc11aa0b45e'
+- '0xff4c73b06cbece6b6ababf60e7d178ee099488f3'
+- '0x5c8577efb1e68dfedb172f830f7dc068f4543155'
+- '0x61e9446d33a1a066bddb2b49ff516f9048e73b04'
+- '0x4ec6f11012e9cb3ab44855fc57c4814db21ed72c'
+- '0x752b66b78789692564d7b43083f6224c6363cb8a'
