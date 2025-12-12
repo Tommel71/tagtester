@@ -8,7 +8,7 @@ description: Addresses from telegram chat report automatically scraped (2025)
 currency: eth
 tags:
 - address: '0x00000009d0BbBf697Fd5fb1bF17D4c2C9266ab55'
-  category: phishing
+  category: abuse
 - address: '0x000001457AAf3562CB305f1c4154AA07ed600000'
   category: abuse
 - address: '0x0000030e261C8Af26C2cd5A95c68f57507500000'
@@ -910,7 +910,7 @@ tags:
 - address: '0x0D73Fc090266d173c952D3e53C33B67E212350d4'
   category: abuse
 - address: '0x0D776E931cb650CF0ABe95C8f3aA80B08cbd07F7'
-  category: abuse
+  category: phishing
 - address: '0x0D83F2770B5bDC0ccd9F09728B3eBF195cf890e2'
   category: abuse
 - address: '0x0D8BB3Cd639399A77170d92511DFd54b5f372AAe'
@@ -1216,6 +1216,8 @@ tags:
 - address: '0x0ea1BB0F36e56B29477ddcB29DDee5626A1C5dDb'
   category: abuse
 - address: '0x0ea8c1bfcc101f8e76506d57b0443c054036e32e'
+  category: abuse
+- address: '0x0ef568271eb1192a5ebe2c7dfdec9b5a4fb14300'
   category: abuse
 - address: '0x0efEAd0647252A4a8ee3F70E5eFAEdD76A3a5FF4'
   category: phishing
@@ -5362,7 +5364,7 @@ tags:
 - address: '0x431743129b2bca76638a240380de9a3677f6b048'
   category: abuse
 - address: '0x43190909180323aECEE834e84C2fAF32FB0f92f9'
-  category: scam
+  category: abuse
 - address: '0x43272fbB7D77E2da54d546E7620b2f27f73d9B56'
   category: abuse
 - address: '0x43392eA11138Db8DeD624f13e50ed56838783472'
@@ -7573,6 +7575,8 @@ tags:
   category: abuse
 - address: '0x5e3f8f8d92ae5daca0cbb6cc462fe0c34a9a5026'
   category: abuse
+- address: '0x5e4ad745c117eecacbc416f8e1b98bc4419f7c1a'
+  category: abuse
 - address: '0x5e59ff76Bd1CBF1694B3C378576f726405166615'
   category: abuse
 - address: '0x5e5c06cf3cce909de08a01939a8407d4d91f1d2a'
@@ -9182,7 +9186,7 @@ tags:
 - address: '0x743A85f8397281e2ee241ab9fE255086f83b1D54'
   category: abuse
 - address: '0x74406ffc5C65157F347847CD3745997fbE23b287'
-  category: abuse
+  category: scam
 - address: '0x74413d402A78336945F7eB19E7fef2B0EdBd1390'
   category: abuse
 - address: '0x7447E95D08344C4A0BB57e6B7215b90191Bf5a19'
@@ -10056,7 +10060,7 @@ tags:
 - address: '0x7fD999f778c1867eDa9A4026fE7D4BbB33A45272'
   category: abuse
 - address: '0x7fE37417B727Be5CDe96Fb2EfEefc51EA42DfAD8'
-  category: scam
+  category: abuse
 - address: '0x7fECFaF2a4B2b4FC5A0C7D147ec79b6a8b0b23E7'
   category: abuse
 - address: '0x7fF85a5cde1F986F34AC232bfec3688cf8B02A08'
@@ -10190,6 +10194,8 @@ tags:
 - address: '0x8190e8e79dbfbd15284245e70f840a7edfb7548b'
   category: abuse
 - address: '0x8196B3ddEEd3Aef030e113767ecBb1E4bC611C24'
+  category: abuse
+- address: '0x81971C1e25313dDeE7B52e34411C14346219afa8'
   category: abuse
 - address: '0x81BA76b3f0dc073e19A9A8Fb19609462eAD20744'
   category: abuse
@@ -12014,7 +12020,7 @@ tags:
 - address: '0x9A4Ea4FDC30A24B45691ea15b94108f5e69d342A'
   category: abuse
 - address: '0x9A53B480b809fb0a24CB4605E28737a9D058ECDB'
-  category: scam
+  category: abuse
 - address: '0x9A98813bF0E7520272768eA3c47D88aCA3b88724'
   category: abuse
 - address: '0x9AA06057eC518F988eE0F893502B6D9Ae3B7af0C'
@@ -12938,7 +12944,7 @@ tags:
 - address: '0xAfFf04DfAfB28190c2Afc05fF19e5bCbB889f94A'
   category: abuse
 - address: '0xB00402A97Cc1aB353051E79f0f0f238d9975864e'
-  category: scam
+  category: abuse
 - address: '0xB00A433e1A5Fc40D825676e713E5E351416e6C26'
   category: abuse
 - address: '0xB00B6fB841c6Df68214A662E9cfB6223b32F0c49'
@@ -16980,7 +16986,7 @@ tags:
 - address: '0xc611DF7dFe1a76D3d7cd12de59a5D6407e1e1632'
   category: abuse
 - address: '0xc6210042226948C7E32E9d48C70265e708808f3a'
-  category: scam
+  category: abuse
 - address: '0xc64bd007ee6957c44dfd32af5c12d08d6102970f'
   category: abuse
 - address: '0xc64eaec8a9769598b635741f2b65de538fc3964c'

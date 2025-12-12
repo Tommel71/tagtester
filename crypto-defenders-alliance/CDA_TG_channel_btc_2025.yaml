@@ -1774,7 +1774,7 @@ tags:
 - address: 34bL4jxvWF4FyDwNWXrzwXt9DXPFVA5QET
   category: abuse
 - address: 34bVoiLkMqi6vDA35n8ygEzJt65Jg33d6U
-  category: abuse
+  category: scam
 - address: 34e4foFPVh2jmVyLD7T7tQwC6vddQ6AAPh
   category: abuse
 - address: 34enGMqvzHwPKAxK4c6fm2keefZKKg9Ucw
@@ -1978,7 +1978,7 @@ tags:
 - address: 3DGYCEebvLr7db2H8C7gK2WMAzPHEHj22U
   category: abuse
 - address: 3DLxg3bvQ5jpKcJggW8Qz8YSH5kq8sUEMo
-  category: scam
+  category: abuse
 - address: 3DUBf6HKQ4V1iQvtcCnGHJsFh9ub1uX4wK
   category: abuse
 - address: 3DeVNYK3iT2pFaBPSxJHfhjjsq4QZW9pqP
@@ -2202,7 +2202,7 @@ tags:
 - address: 3NQvdy3cLqVXtWb4MR7UrTi15mUxG5jDPR
   category: abuse
 - address: 3NWGK7FB5m7nYxRhu5rzge98656ZU49Uf9
-  category: scam
+  category: abuse
 - address: 3Nb5cMdfEasMS9jAFoWkyY3SfeaNrnmg3W
   category: abuse
 - address: 3NbSjH89T5TC39djxwZDsevVdfbtJGpJ4r
@@ -3091,6 +3091,8 @@ tags:
   category: abuse
 - address: bc1q0kgmlllgns04xg6kqvdn297qccs3k6rw7lmn38
   category: abuse
+- address: bc1q0kh49gjmhaqdwf9eh65twk9y4zk3u25g3g056f
+  category: abuse
 - address: bc1q0kh8dmymhgps4dxwe0el2gkgwzplfp5enysqxu
   category: abuse
 - address: bc1q0kkfnl4n8325fkaddag3ltpvhzj2jr2mmc3zc5
@@ -3140,6 +3142,8 @@ tags:
 - address: bc1q0n4xsnqt76m675gdue5c3u4sxrlq5elztwdrnn
   category: abuse
 - address: bc1q0n56a2wn60dt6t90vsly0g45c3xq25e6vj62yj
+  category: abuse
+- address: bc1q0ncgsl26he2y7vqypuuwvzztm6y7qqpa90ej99
   category: abuse
 - address: bc1q0nfy07j3ckxhlpntcj5s6sckdv6c52zhert4rm
   category: abuse
@@ -3971,6 +3975,8 @@ tags:
   category: abuse
 - address: bc1q3gpsxwhr6tdtygtcetvycemn003e0y2n7cjkmk
   category: abuse
+- address: bc1q3gv7h0s04xj0vr6hum2w06e0atjr4rjw40nv6v
+  category: abuse
 - address: bc1q3h2tgl0rw5gvhznlhkhu5u50tfx64whmx7gcxd
   category: abuse
 - address: bc1q3h776gf7a6qveznu6peed33utrtcsa5r8z655x
@@ -4202,6 +4208,8 @@ tags:
 - address: bc1q3zpp934fugw462qc0c0wt58rh6e3ejexz4h2yy
   category: abuse
 - address: bc1q3zrhhu8583xfsfpe55depp2tp2vs8mw9h55gvq
+  category: abuse
+- address: bc1q3ztaymnq3x230n6355986gfkzyuq9m7hf8tyr2
   category: abuse
 - address: bc1q3zzjxqlcdaft5ydxc35dt7r48533xtzhxp4p9m
   category: abuse
@@ -4724,6 +4732,8 @@ tags:
 - address: bc1q5462ve4cgwyfw7gtp3nyeq7c7yryuu24mxzawd
   category: abuse
 - address: bc1q548jeqwcwadhg4xqyh9wz4yhpvc5y7w4nc09u4
+  category: abuse
+- address: bc1q54e8hrl9p549xm6zvd7pu5exyc09c2h5wjrwgz
   category: abuse
 - address: bc1q54hczkyuvcppnjm6uweq3svmqt89tdrf7gwgqe
   category: abuse
@@ -5315,6 +5325,8 @@ tags:
   category: abuse
 - address: bc1q6gp836tnznlqetnqmxvpde9ppp46cp6cgz2770
   category: abuse
+- address: bc1q6grfnhn9fglx7fm6u5jayh579h2rh0xsf773nj
+  category: abuse
 - address: bc1q6gv8vmcap4dj8zn3sweasld7acg9l3qnq3c4nm
   category: abuse
 - address: bc1q6h33d3xm2slgactgtrdxftgpqme84krrkhufg5
@@ -5778,6 +5790,8 @@ tags:
 - address: bc1q7k3d2pkzndlxa85j08855ax6y7w5hhcefxxwc2
   category: abuse
 - address: bc1q7k8xrjh3az8mmealzsxwatfs6tqdefyzzgmlpe
+  category: abuse
+- address: bc1q7kchhk9uch7vnyhle409s9f6tfm8sz3lx5n2he
   category: abuse
 - address: bc1q7kd0ld533ygqsankrkeezq47cnk2xk6n8rkzgc
   category: abuse
@@ -6783,6 +6797,8 @@ tags:
   category: abuse
 - address: bc1q9pt4gnvuge7dp7enhdlpvn8qmya5l7ks8tukjv
   category: abuse
+- address: bc1q9pvgavhz37cqaj3td03h6zz0dr8jnu0ecnlxff
+  category: abuse
 - address: bc1q9pzclgvjh3v20a0fw34rggvd5d3k3mg42vpek9
   category: abuse
 - address: bc1q9q5ukfgfuazrsv02kutmeqpzdcccs5q5pvgpzh
@@ -6940,6 +6956,8 @@ tags:
 - address: bc1q9ytsyre66yz56x3gufhqks7gqd8sa8uk4tv5fh
   category: abuse
 - address: bc1q9yvcmzxkawv3mmf6kdgzk3j2m3mtemwhr0f6j6
+  category: abuse
+- address: bc1q9z0eu9nlg046hcenr4j80f9f6hdp4zgtdrcr85
   category: abuse
 - address: bc1q9z97l5zwg7s7n5h2um5gt2ggejpl444glhc0j7
   category: abuse
@@ -9256,6 +9274,8 @@ tags:
 - address: bc1qfvgep66vaerhr4247a96euf87mn7lz8pygh8uv
   category: abuse
 - address: bc1qfvkp50xqgs0nd4mphxaasrqlls76f0msuf27kf
+  category: abuse
+- address: bc1qfvmvdwd47g8h443mkpgmmwrp5r766rl3je9qsk
   category: abuse
 - address: bc1qfvnukmykr8khqc5466pmpvhanp35hulsj2kzng
   category: abuse
@@ -12055,6 +12075,8 @@ tags:
   category: abuse
 - address: bc1qmpm3pwfxlarr5g5hmvr05tkpm2s5nz9ru23k8u
   category: abuse
+- address: bc1qmppsyvptp55xm63dpxqz0tgsuttwxcfqy66amm
+  category: abuse
 - address: bc1qmpx47n23pqunvzk3q36y5pxntw23a8y3m7rpqm
   category: abuse
 - address: bc1qmq6y0w6l0zdrxu3yzq7pcyy9v24ena4grcm422
@@ -13363,6 +13385,8 @@ tags:
   category: abuse
 - address: bc1qqa6wzpk490u2pjj9eykr9gkcq5jwfw2tqmj2vu
   category: abuse
+- address: bc1qqaayjcanaltvlkqpv7hvt353jf7sgdvju7n3up
+  category: abuse
 - address: bc1qqasyg0j6nhdjxxxjtqamv49q989cl5hqtur62z
   category: abuse
 - address: bc1qqat5wdr5xv4m6e803szpkdsd07cfm8cx7awngu
@@ -14032,6 +14056,8 @@ tags:
 - address: bc1qrn8s6apydyv9yj86z4ptn7wcdxxtdk43zkavy9
   category: abuse
 - address: bc1qrnklyjg03z9465jaq0vnnfy6af95d4ks4y5d8m
+  category: abuse
+- address: bc1qrp56rfn6d8drn9d7nw2h9n4fhf5m0qsy0t79q2
   category: abuse
 - address: bc1qrpay7t205atjjzgeya7785yj85u9w88s07wmxg
   category: abuse
@@ -15157,6 +15183,8 @@ tags:
   category: abuse
 - address: bc1qu4r564ke07md9yjyyvmsaprj55d47pjhmzmug8
   category: abuse
+- address: bc1qu4rnlvkpfw5hjza2aw0fw8j9qjc8ph6s3px9mp
+  category: abuse
 - address: bc1qu53pngefv2npcpm8auefq64cj6chjrczlvppjz
   category: abuse
 - address: bc1qu53trmnnrezrm366ulggklhf63d5544t0ryy2y
@@ -15310,6 +15338,8 @@ tags:
 - address: bc1quea4pst4v4l6gvhuutjz7fk29hszr7mvvjlu8j
   category: abuse
 - address: bc1queed23h9pen6zmwe4k6gttfdspe6n08v90k2xf
+  category: abuse
+- address: bc1quel3kfeqs2mqrzmqdget87wnns5tsqdzkuf045
   category: abuse
 - address: bc1quevaekpwpeufcepuu5qpeeuhdt0xse8a029aqv
   category: abuse
@@ -16519,6 +16549,8 @@ tags:
   category: abuse
 - address: bc1qww3n96q9w0t9y27fcal3xj9dk9k4a8835rv827
   category: abuse
+- address: bc1qwwem6ffc3y466aerpx76nf6ypyv6lren8hnyn3
+  category: abuse
 - address: bc1qwwfx9dyxr6mat3du62e2y48s3w2rsvx7xhplgn
   category: abuse
 - address: bc1qwwnn25vsh5hy3v2nxc4zjzzclpmz3py7wkerer
@@ -16757,6 +16789,8 @@ tags:
   category: abuse
 - address: bc1qxepkym6zj4fay8lrhnn6djv8ugknzdyycf9dah
   category: abuse
+- address: bc1qxerqewlrlch8zt2hjal53j5f4z8lmcmx3wz70u
+  category: abuse
 - address: bc1qxevunxey6zrfujr4yy4uzrk93rcg6556g9kt0p
   category: abuse
 - address: bc1qxezssfgfvtl9j2x73gcsxg4j039fkv0rrnv8pa
@@ -16854,6 +16888,8 @@ tags:
 - address: bc1qxnghpakr47dpv9dyurnvtc646t2keayxq97gs7
   category: abuse
 - address: bc1qxnk8hy67f9fu4s57zp87284ddgl5cfneptyuyc
+  category: abuse
+- address: bc1qxnnssvw60efgfnyzsu02qv2el3u74awcffwcj0
   category: abuse
 - address: bc1qxnrkslv3grtvtj7ujzr6n0r9nq5adf0tq6xnxs
   category: abuse
@@ -17374,6 +17410,8 @@ tags:
 - address: bc1qyrmsdqt2j7awpuc3mcq3jzmuu66dc7walwth3l
   category: abuse
 - address: bc1qyrn2hgwz5lvgv78h5m3chfefup3chlymrt49wj
+  category: abuse
+- address: bc1qyrsz4wqrj0zwhnj6sezw89njq80k2ahl4vr2fa
   category: abuse
 - address: bc1qysaam0rj3qah8vfnz0rj0lh7575qk2l0xs5v8n
   category: abuse
