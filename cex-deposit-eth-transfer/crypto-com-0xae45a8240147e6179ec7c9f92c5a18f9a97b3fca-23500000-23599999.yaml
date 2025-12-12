@@ -2,7 +2,7 @@ title: 'Crypto-Com Deposit Wallets (Funder: 0xae45a8240147e6179ec7c9f92c5a18f9a9
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Crypto-Com funded by 0xae45a8240147e6179ec7c9f92c5a18f9a97b3fca
   with first transactions in blocks 23500000-23599999
-lastmod: '2025-11-29'
+lastmod: '2025-12-09'
 category: exchange
 actor: cryptocom
 label: Crypto-Com Deposit Wallet
@@ -2116,7 +2116,6 @@ addresses:
 - '0x66b903f20617e6623918b0a26dbc7c0bf9dd1bce'
 - '0x26128502ab5175a344b6b1e6715f5f5fa363e119'
 - '0x54a43483976cdc36d78fac295535d8ec7fafc6c9'
-- '0x795a4bdcba65b2a8215ade2df7d8bb13a4e6146d'
 - '0x37aa0ed465c2489ba28801b00c8125d9a281583a'
 - '0x10fa5f34f72aa7980ab2a1a7c2089e6ba736acdd'
 - '0x146b7a03129bd0bce88ad789d15536c600c63b69'

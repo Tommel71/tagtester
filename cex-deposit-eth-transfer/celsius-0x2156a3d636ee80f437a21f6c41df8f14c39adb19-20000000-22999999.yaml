@@ -1,0 +1,15 @@
+title: 'Celsius Deposit Wallets (Funder: 0x2156a3d636ee80f437a21f6c41df8f14c39adb19)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Celsius funded by 0x2156a3d636ee80f437a21f6c41df8f14c39adb19
+  with first transactions in blocks 20000000-22999999
+lastmod: '2025-12-11'
+concepts:
+- '[wallet_service'
+- deposit_wallet]
+actor: celsius
+label: Celsius Deposit Wallet
+source: 'Funder: 0x2156a3d636ee80f437a21f6c41df8f14c39adb19'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x7bffa98b3588039e190dc2a348ee069de452146b'

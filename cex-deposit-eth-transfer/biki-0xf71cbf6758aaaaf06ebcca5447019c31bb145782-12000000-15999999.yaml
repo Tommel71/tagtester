@@ -1,0 +1,15 @@
+title: 'Biki Deposit Wallets (Funder: 0xf71cbf6758aaaaf06ebcca5447019c31bb145782)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Biki funded by 0xf71cbf6758aaaaf06ebcca5447019c31bb145782
+  with first transactions in blocks 12000000-15999999
+lastmod: '2025-12-11'
+concepts:
+- '[exchange'
+- deposit_wallet]
+actor: biki
+label: Biki Deposit Wallet
+source: 'Funder: 0xf71cbf6758aaaaf06ebcca5447019c31bb145782'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x6eff3372fa352b239bb24ff91b423a572347000d'

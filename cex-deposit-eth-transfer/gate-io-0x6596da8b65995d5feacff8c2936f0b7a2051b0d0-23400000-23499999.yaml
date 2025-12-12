@@ -2,7 +2,7 @@ title: 'Gate-Io Deposit Wallets (Funder: 0x6596da8b65995d5feacff8c2936f0b7a2051b
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Gate-Io funded by 0x6596da8b65995d5feacff8c2936f0b7a2051b0d0
   with first transactions in blocks 23400000-23499999
-lastmod: '2025-11-29'
+lastmod: '2025-12-09'
 category: exchange
 actor: gate
 label: Gate-Io Deposit Wallet
@@ -2270,7 +2270,6 @@ addresses:
 - '0x1f342ebbafccdc04c358bb85c168f8d2a71c5b24'
 - '0x5a9bbc647eb659bc1ed22016c669cd23d07d5aac'
 - '0x95179107af5779109d7993b946484e600e754223'
-- '0x9cdcb2fcfe9b86f865904941878afdcfba3e3d67'
 - '0xb3ab49afd8175d7907a7c1d8c68dd84ca8f30b60'
 - '0xe24096c50c7d0584fa8a5b7405eda1bc0a6829a1'
 - '0xf43f07dd0e9759264de1b3dc205873768b6401da'
@@ -4218,7 +4217,6 @@ addresses:
 - '0x13bdfe7064aade30e5e39bfeb75ce5e328225f4e'
 - '0x45167129b8022dcb894828cf63dd7bc9e3e975e7'
 - '0xf173464a4ab868eb291992bb624bef9450da16c7'
-- '0x5232744c9d838bd679f0bd4d7ae14a95fa521fd2'
 - '0x8638746aa0fa42ab521d0113b67159c21c84e011'
 - '0x917bb1f41bc393f879f513d699e0d35d7bd1331b'
 - '0x234ee91ecb9fbfb546862e604da536ab722f15cb'

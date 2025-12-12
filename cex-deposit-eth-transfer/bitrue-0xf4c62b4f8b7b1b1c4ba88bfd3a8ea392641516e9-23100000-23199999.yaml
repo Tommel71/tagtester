@@ -2,7 +2,7 @@ title: 'Bitrue Deposit Wallets (Funder: 0xf4c62b4f8b7b1b1c4ba88bfd3a8ea392641516
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Bitrue funded by 0xf4c62b4f8b7b1b1c4ba88bfd3a8ea392641516e9
   with first transactions in blocks 23100000-23199999
-lastmod: '2025-11-29'
+lastmod: '2025-12-09'
 category: exchange
 actor: bitrue
 label: Bitrue Deposit Wallet
@@ -28,7 +28,6 @@ addresses:
 - '0xac46a799ad5490e9d4d389fffbe9cd45e0eed4e9'
 - '0xfbd2894081c77b5ad2e89cd346af1f400528335e'
 - '0x78c5c21acd75654d6476d82ba0fc5700e3b07b1c'
-- '0x1cf6009c623dc9dabe221e0be735fbeb58533687'
 - '0xf84ecf017993ef7fab6b29271af36e7f9dbe5d6f'
 - '0x2be3111d2f6e57e529be0ea67f02adb4bca314d6'
 - '0x60fed6fc1fff90c9b5f13e52ecd97082be541b82'
@@ -48,10 +47,8 @@ addresses:
 - '0x3f83ef5ece600dafa3ad14bece1c7591208bf243'
 - '0x630703e5fa4bcc4de83733ac69100e3ea0f53613'
 - '0x730a5e973734aa185fe3c362b126ea443e7740f9'
-- '0x62480b39e8ac0f05f8680dbacbbe951ee0f93536'
 - '0x80aa0073af3ca3e5e64e165b8254109633bb21af'
 - '0x6cc57c292d27ca71cbadf8869ed596797f732800'
-- '0xbe54206851153581aa493af3327415d66ca41cc0'
 - '0x9cff151f2ff2e5f136f308cde6395e44e3853132'
 - '0x6fb2718016a933a8e1c807682775fbe81c1ee040'
 - '0x930f6390f9c5577196e7dc7e6035a3e897c9fe3b'
@@ -63,7 +60,6 @@ addresses:
 - '0xf4d06db718d74c13047bfdf442b239263b53b321'
 - '0xe970f71d486319c21ea62a89442afad997a878a0'
 - '0x100ea154215d4be143996198c8c2cc8e6ace67f7'
-- '0x1bb98f89536ff7199babafe9dfb878b72f57e5f0'
 - '0x1a570cda22124bbd38a0a128a1a1877f8e4d9abb'
 - '0x66204596b5560e73ec7098686c2650bdb19af925'
 - '0x9f11a2d2cfbf544a8f01570d2ad808e298cdf078'

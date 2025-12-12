@@ -2,7 +2,7 @@ title: 'Simpleswap Deposit Wallets (Funder: 0x4b0401fe6b84c52d4f4310c371c731a2b6
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Simpleswap funded by 0x4b0401fe6b84c52d4f4310c371c731a2b6d0964d
   with first transactions in blocks 23400000-23499999
-lastmod: '2025-11-29'
+lastmod: '2025-12-09'
 category: exchange
 actor: simpleswap
 label: Simpleswap Deposit Wallet
@@ -22,6 +22,7 @@ addresses:
 - '0xc1aef70ed787464f87af760cb07317310af30a7c'
 - '0x69cd26a6dfffcf7bbf3026d6906973833fb42ffe'
 - '0x9e54fa3d6e7d7c573684a46aa71514cadd70e41d'
+- '0x3c735cbaddc3b535be2a94c5305b3e5458f54aba'
 - '0x38c4bcba29a9b64a4e73c41408d9e2f1248afc97'
 - '0xfb12ff9a543fe2659e220f442897c90de3bb61f6'
 - '0x686f00a87fcefe2a6470f8e45e95228400f621e7'

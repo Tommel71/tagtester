@@ -2,7 +2,7 @@ title: 'Kucoin Deposit Wallets (Funder: 0x4316e553902c3eab807663001d089fd6554a45
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Kucoin funded by 0x4316e553902c3eab807663001d089fd6554a4566
   with first transactions in blocks 23100000-23199999
-lastmod: '2025-11-29'
+lastmod: '2025-12-09'
 category: exchange
 actor: kucoin
 label: Kucoin Deposit Wallet
@@ -974,7 +974,6 @@ addresses:
 - '0x7d5cd65caace7c8e817e908a85265b6021f350c6'
 - '0x7ecf09eb44ba99a5c8512ea3d365d1dff34bafc5'
 - '0x8226fb19a37beb66208e87938328c6c1b09059dc'
-- '0x829343ed4ca20429cfbf21799f6d71077bd47ef7'
 - '0x83e8699f5f055703ce9480d52fa488cabc6374ce'
 - '0x84e7c91076f0bc0c7d44a6043678ea2a316c4c76'
 - '0x85a24c9d73d984e239fc1deaec8fe73e60e9e90e'
@@ -3307,7 +3306,6 @@ addresses:
 - '0x5acdf7d3b0a29d8ddb6d41d61caec5057b803e8c'
 - '0x6541c3f99e7c8073257d5fe9170970755c6fa66a'
 - '0xc4f4a08477401f90d33efc78c5e2ca0a5feb1544'
-- '0xc92fdab17cb09394bd1bfc8a033ce0042d6b8646'
 - '0xe14f6a3c21200b1466561b00db7814979a1d8576'
 - '0x2481e39517497a27a1ecd639c26e371ffb04492a'
 - '0x29e33b50121a7fb68ca7b4b720deeebdc0f91cb3'
@@ -3617,7 +3615,6 @@ addresses:
 - '0x4daecefc1d4079feae09a668ba3cb7501470f0f8'
 - '0x704e7251027097d23724895cef8e1698326400ec'
 - '0x685e1bae8d9f3135dd95559c0ef59bb4d5ff28a8'
-- '0x8caf4dacc40eead4194e2879bf8fb81812433a5f'
 - '0x67db69e5e7e2d38ae827190c190eba4c1656a6e2'
 - '0x8f03cc21b282964d2c21a18ffd9e9a4352b89d47'
 - '0xffcab0e7afe1d5ebd874bd6b461786636b8f4254'

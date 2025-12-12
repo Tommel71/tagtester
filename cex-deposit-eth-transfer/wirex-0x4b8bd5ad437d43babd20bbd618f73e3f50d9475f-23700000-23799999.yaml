@@ -1,0 +1,17 @@
+title: 'Wirex Deposit Wallets (Funder: 0x4b8bd5ad437d43babd20bbd618f73e3f50d9475f)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Wirex funded by 0x4b8bd5ad437d43babd20bbd618f73e3f50d9475f
+  with first transactions in blocks 23700000-23799999
+lastmod: '2025-12-11'
+concepts:
+- '[exchange'
+- deposit_wallet]
+actor: wirex
+label: Wirex Deposit Wallet
+source: 'Funder: 0x4b8bd5ad437d43babd20bbd618f73e3f50d9475f'
+confidence: heuristic
+currency: ETH
+addresses:
+- '0x8be5afc485a21b1d31fe95fa6dea1bcf986a67e4'
+- '0x7f7e3f33baac6ab38489be3b46e1f5727b0fe08a'
+- '0xe37ae0a8a6e923c4168ce35e9530aab4c3337724'

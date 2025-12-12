@@ -2,7 +2,7 @@ title: 'Hotbit Deposit Wallets (Funder: 0x66f7bbf25c07e5d407a80010b0e9ba96bf5a2a
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Hotbit funded by 0x66f7bbf25c07e5d407a80010b0e9ba96bf5a2a3e
   with first transactions in blocks 4000000-7999999
-lastmod: '2025-11-29'
+lastmod: '2025-12-09'
 category: exchange
 actor: hotbit
 label: Hotbit Deposit Wallet
@@ -4403,6 +4403,7 @@ addresses:
 - '0x8ec16ca215479355be62033d3c87ab1d242eaa82'
 - '0x00ca7fc495f6182de4d8a3a10fdec167dc56adc3'
 - '0x74a8643cab81dd35bae1cc270470af3ceffea4de'
+- '0x08aea1ef322704036bcaa89dcb1a85a07b44e976'
 - '0x9c2be112866f613b173ef08a35fd9292d9ea3527'
 - '0x5300cc48ee86c7f688be9b4e846fe5f3fb55746f'
 - '0x898e81faabd27b812c0c0eb659d477760373d10d'
