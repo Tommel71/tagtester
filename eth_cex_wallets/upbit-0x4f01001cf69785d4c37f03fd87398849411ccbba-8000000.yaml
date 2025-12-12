@@ -7,10 +7,9 @@ concepts:
 - deposit_wallet
 actor: upbit
 label: Upbit user wallet
-source: On chain event 0xef4c8685c12779a52dae7549eb7defa8523f67a054ad425b877a6b2da469a331,
-  LogNewWallet(address)
+source: Deployed by 0x4f01001cf69785d4c37f03fd87398849411ccbba, LogNewWallet(address)
 confidence: untrusted_transaction
 currency: ETH
-addresses:
-- '0x80f79b5c0e90e0ed14b083bc1bc9f990fd18a0a4'
-- '0xb4c4fcc5e86f551d7173e619f4246f0953dd9d2b'
+tags:
+- address: '0x80f79b5c0e90e0ed14b083bc1bc9f990fd18a0a4'
+- address: '0xb4c4fcc5e86f551d7173e619f4246f0953dd9d2b'
