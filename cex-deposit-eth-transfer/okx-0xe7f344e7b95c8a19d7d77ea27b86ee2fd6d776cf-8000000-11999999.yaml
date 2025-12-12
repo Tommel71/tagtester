@@ -2,8 +2,10 @@ title: 'Okx Deposit Wallets (Funder: 0xe7f344e7b95c8a19d7d77ea27b86ee2fd6d776cf)
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Okx funded by 0xe7f344e7b95c8a19d7d77ea27b86ee2fd6d776cf
   with first transactions in blocks 8000000-11999999
-lastmod: '2025-11-29'
-category: exchange
+lastmod: '2025-12-11'
+concepts:
+- exchange
+- deposit_wallet
 actor: okx
 label: Okx Deposit Wallet
 source: 'Funder: 0xe7f344e7b95c8a19d7d77ea27b86ee2fd6d776cf'
@@ -972,7 +974,6 @@ addresses:
 - '0xc77231455edd3420bf22ca927a901848cad8c67e'
 - '0xd3215e2173e5017bb4b4878e658a6851fe459fea'
 - '0xd48ad9ef8415d8a7d7121f53c3382ebde1d4232d'
-- '0xe7f344e7b95c8a19d7d77ea27b86ee2fd6d776cf'
 - '0xeb4eb0091845e5505945ec71c16e0b34e5f7a1a8'
 - '0x1600fd9142a0b95e8f9af995521a2c6d98615846'
 - '0x183d373448c10a8796cfcdc6b27c9203b6e5276c'
@@ -14485,6 +14486,7 @@ addresses:
 - '0x7da7950fdfbfdbc718d582574e3ba20d0b170340'
 - '0x8db0967fd137f1003549a6dbf6dd08ad5f37a2b8'
 - '0xa567e60fb1aa5ab07070be96e82c51b5f3dc25e4'
+- '0xe7f344e7b95c8a19d7d77ea27b86ee2fd6d776cf'
 - '0x300b2b3f903d46ea7ebd98e8892f709f48c47832'
 - '0x469b92c5429a434aeb09773e7f5e39596333389f'
 - '0x651009b4d6addc01b478db31011a5bfae3d77dbd'

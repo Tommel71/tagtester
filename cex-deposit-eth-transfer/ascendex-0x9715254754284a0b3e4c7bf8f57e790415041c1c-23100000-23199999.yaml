@@ -2,7 +2,7 @@ title: 'Ascendex Deposit Wallets (Funder: 0x9715254754284a0b3e4c7bf8f57e79041504
 creator: GraphSense Core Team
 description: Cryptocurrency deposit addresses for Ascendex funded by 0x9715254754284a0b3e4c7bf8f57e790415041c1c
   with first transactions in blocks 23100000-23199999
-lastmod: '2025-11-29'
+lastmod: '2025-12-09'
 category: exchange
 actor: ascendex
 label: Ascendex Deposit Wallet
@@ -164,7 +164,6 @@ addresses:
 - '0x0ba0b483243d722431c59604b2b57ce747c1dacd'
 - '0x4b0905443b5252d2128828bc2c38fa55eaaf9847'
 - '0xb1aa838bc37a5d1ea01cbf0761e834dc3fa54327'
-- '0x46250f56af0d8d025ee25ed45cfd7a77b382915a'
 - '0x4224a7e86cbd9da22124b8fce003c339229e44ab'
 - '0xe4834f09ef7ba2f1f42026813d301b92847b9aee'
 - '0x9157c5bf497e70634ef045f22343dffc8c9cd04e'
