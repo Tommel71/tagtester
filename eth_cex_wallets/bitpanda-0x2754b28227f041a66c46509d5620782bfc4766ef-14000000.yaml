@@ -1,0 +1,15 @@
+title: bitpanda Deposit Wallets
+creator: GraphSense Core Team
+description: Deposit wallets deployed by 0x2754b28227f041a66c46509d5620782bfc4766ef.
+lastmod: '2025-12-12'
+concepts:
+- exchange
+- deposit_wallet
+actor: bitpanda
+label: Bitpanda user wallet
+source: On chain event 0xef4c8685c12779a52dae7549eb7defa8523f67a054ad425b877a6b2da469a331,
+  LogNewWallet(address)
+confidence: untrusted_transaction
+currency: ETH
+addresses:
+- '0x465cf24192590320b87513698586bd748c1a754b'

@@ -1,0 +1,30 @@
+title: upbit Deposit Wallets
+creator: GraphSense Core Team
+description: Deposit wallets deployed by 0x4f01001cf69785d4c37f03fd87398849411ccbba.
+lastmod: '2025-12-12'
+concepts:
+- exchange
+- deposit_wallet
+actor: upbit
+label: Upbit user wallet
+source: On chain event 0xef4c8685c12779a52dae7549eb7defa8523f67a054ad425b877a6b2da469a331,
+  LogNewWallet(address)
+confidence: untrusted_transaction
+currency: ETH
+addresses:
+- '0xa430c386453e6e857fa105ff6efbc4001dd6bc42'
+- '0x2ae36c033b80323d4d563f110e56cf3fe3f7beca'
+- '0x2ae88e57ef29680849c1d7447024ffc2021a4a3a'
+- '0xf71815e143e54192262b7c2eebd9808dc285084d'
+- '0x0afa7ed72ce102e3b59ce9b8df546065cc350d25'
+- '0xb3447d4f1f6e7e443833c83b564f058528010ea6'
+- '0xee431f779f7d4537a58b37878a491be47f871e6b'
+- '0xad3b388024599bcc64b38146c9ccef11ac6334fa'
+- '0xabb242e1009ab26b03c63c88979c2dfa2f57fd6b'
+- '0xd2db8722c6bfff9f4a6adb68bbf68cfc3a34d906'
+- '0xd693a96728cc8c22d3937f834d5ea689033e2268'
+- '0x6ff848d5f662c57a30b5f01971e6a63265c81310'
+- '0xd43206ff773db69c227e95b3c2c003dda40c5ad1'
+- '0x5ba692d8ff2a0a74712b3bb7f77744c8e37651b2'
+- '0xb14a59465ed250bf40176069e8c2926831af78b5'
+- '0x48ca6a14844609e2f868cb02ebc813f228d6c64e'
