@@ -1,0 +1,23 @@
+title: Iknaio Private Tags
+creator: Iknaio research
+source: Crypto Defenders Alliance (CDA)
+confidence: web_crawl
+label: abuse report
+lastmod: '2025-12-12'
+description: Addresses from telegram chat report automatically scraped (2019)
+currency: trx
+tags:
+- address: TE4CRGTXpLR3eRsn2mNKwsJWBFT7ojtvnU
+  category: abuse
+- address: TJeMF6CpEDeG94UAF7d4dzjXkgrwwtDGFB
+  category: abuse
+- address: TMqoELT6hxdvSjdDp3g7CBsasdRWhSTMem
+  category: abuse
+- address: TNaRAoLUyYEV2uF7GUrzSjRQTU8v5ZJ5VR
+  category: abuse
+- address: TP5ZxkR4DJBE2ULzWPE3bR7zCLLNwnis9F
+  category: abuse
+- address: TWbipjDZHF5Kpm1NB1scznk8uaEP8Qizxd
+  category: abuse
+- address: TWsVTq76GEBw1dNHUqzJTrtuj8FxjL9CX6
+  category: abuse

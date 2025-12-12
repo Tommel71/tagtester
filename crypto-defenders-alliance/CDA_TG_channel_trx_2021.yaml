@@ -1,0 +1,43 @@
+title: Iknaio Private Tags
+creator: Iknaio research
+source: Crypto Defenders Alliance (CDA)
+confidence: web_crawl
+label: abuse report
+lastmod: '2025-12-12'
+description: Addresses from telegram chat report automatically scraped (2021)
+currency: trx
+tags:
+- address: TAUN6FwrnwwmaEqYcckffC7wYmbaS6cBiX
+  category: abuse
+- address: TAUsZTDV82GgxoY65Ls4dFdwRGitPt2aEv
+  category: abuse
+- address: TAV4pinH2Erx3dd8mZUSuZ83DiPAnGHbEa
+  category: abuse
+- address: TDtxYsNdTVKrmLFm37ssz5NZCHXhBN7Yo9
+  category: abuse
+- address: TFi5WPjUn9NsEjjPBnq4oCKZDpQatrKqEN
+  category: abuse
+- address: TJDhvgWY1SpNdvTfjtygrXgy9SbRjPbGK1
+  category: abuse
+- address: TJL35xiBTVkScBA9uxkNpoSueCagdiNXiv
+  category: abuse
+- address: TMFCS5tbAb69CJsCkaNNgujkJ5vPMiFyvY
+  category: abuse
+- address: TMnAyj7LR1nVKLwmThuGmSswGgtpXdTEap
+  category: scam
+- address: TNuEC9FCggNiG3EQ6ykv6JYhZf9KUtbNF4
+  category: scam
+- address: TQkMN6pn7jF3tYnEgiwvTC4g8CahhH6ExX
+  category: abuse
+- address: TQy4CtdjfYPBQFUp7mNCmKzmVR9KLwJeDc
+  category: abuse
+- address: TREppQjWhd8z56XTgJGssi6ui3q8KKX27f
+  category: abuse
+- address: TRfh2HqYZR7Wr83Ya2gTtQTMJqfhQ5cEUq
+  category: abuse
+- address: TSpcue3bDfZNTP1CutrRrDxRPeEvWhuXbp
+  category: abuse
+- address: TUJvEaCwmjzmtVeCxh9heeprCLVhAymHXZ
+  category: abuse
+- address: TWTGG5TGBTsxf7AnSYLKr2NZBQAoP7Nmx2
+  category: abuse

@@ -1,0 +1,21 @@
+title: Iknaio Private Tags
+creator: Iknaio research
+source: Crypto Defenders Alliance (CDA)
+confidence: web_crawl
+label: abuse report
+lastmod: '2025-12-12'
+description: Addresses from telegram chat report automatically scraped (2022)
+currency: bch
+tags:
+- address: qpfm8su6ug2vgufva7tt8y4r0uv84f6x2cevegxcnn
+  category: abuse
+- address: qpkrguy6ralp0pux390fr7pz2ugpq90s3uach9m42j
+  category: scam
+- address: qqfrl6322wdwlcce9ah66jw0n0qde29zguhvpzxcue
+  category: scam
+- address: qr3jkqj86muydwx4tqzp309aj2csstt9quxcgruvu0
+  category: abuse
+- address: qr52997jqy6yqu8zrnxp9avlser52jrazv6kljwu5f
+  category: abuse
+- address: qzksumqujh9y7l480tv9pd526xn5a3l7zclpq9m76m
+  category: abuse

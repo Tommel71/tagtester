@@ -1,0 +1,37 @@
+title: Iknaio Private Tags
+creator: Iknaio research
+source: Crypto Defenders Alliance (CDA)
+confidence: web_crawl
+label: abuse report
+lastmod: '2025-12-12'
+description: Addresses from telegram chat report automatically scraped (2024)
+currency: bch
+tags:
+- address: bitcoincash:qpe04yz6jy68rh4982y7r4xh9ff2lyy40gcfxdc5z8
+  category: abuse
+- address: qp0h39svlhd97al77qukvj5pgyf47jrurq4phupwep
+  category: abuse
+- address: qpe04yz6jy68rh4982y7r4xh9ff2lyy40gcfxdc5z8
+  category: abuse
+- address: qphgnseemcp9ytgesavqrapyxt05kn2yzqph4ztfm9
+  category: abuse
+- address: qpr50fpu562rg2vc99u7z7dprc626t5aryptfuu493
+  category: abuse
+- address: qpvh5cnxmt76h9kfhtzn3w60ykgqen3tdczf9zrhxe
+  category: abuse
+- address: qqwq9j0r9tstjh8pyerpm5y37cz2l562jud7q3kv2c
+  category: abuse
+- address: qr28d80s5juzv2793k5jrq59xrl5fxd8qg9h3zlkk2
+  category: sanction
+- address: qr38mvw5hq7k4q07wpy7qzesdyc3ruhhsuy22n42uj
+  category: abuse
+- address: qrcjycd4pt02vgctjke92g9pngkjwh92tseprrfqxg
+  category: abuse
+- address: qrfezwce5fvverjvsh28vzvvhlyyjjp8uua8hgde2u
+  category: abuse
+- address: qrnkk4huzz0dph3qpae82v0y0vphy9cuhg3lmecxut
+  category: abuse
+- address: qz36evknm043484jpxd2y0r2jg5ntu3duq793ugmnn
+  category: abuse
+- address: qzujrkm3nsqm703jt26chluff5rlj9h3fur83a4xx0
+  category: abuse
