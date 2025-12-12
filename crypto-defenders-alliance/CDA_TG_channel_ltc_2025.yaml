@@ -424,7 +424,7 @@ tags:
 - address: 3JdgF9HKNXmzWixFP7k26QRu9cpq1QGEsD
   category: abuse
 - address: 3JeRgVndDveohcr3F4Gp5CuNjazrjgbtYH
-  category: scam
+  category: abuse
 - address: 3JfdPY82MBRjSHBvDdiDvEQzQ2VBB6VbgC
   category: abuse
 - address: 3JooKfMopbDHwvMmixH1WjSTpQAshyuhbe
@@ -492,7 +492,7 @@ tags:
 - address: 3LkRNGtLYZmnB9pfrz9BVkCQynHiR1pYJN
   category: abuse
 - address: 3LsAPwDpAGy7zD4mWii7VRie6RcUXmLPrV
-  category: abuse
+  category: scam
 - address: 3LuEmp99rJc6fTydsxkFv7Sa4QjGzWJJAF
   category: abuse
 - address: 3MCeNTnM7KrMnsxEcKBrpgXo9oFWdHyS7p
@@ -762,6 +762,8 @@ tags:
 - address: LZsovci1vqME59N5oZ9hXGwY6PwLUJk1Qm
   category: abuse
 - address: LZyuhXbjfUBM5BDxUo4jRenjRQPEEL4o18
+  category: abuse
+- address: LZzAqhKugcbkBaP7fJhQxn2pH6Uv6gTpXY
   category: abuse
 - address: Lb6NFYMMLyJH6Zo2f168RPPke2nJBJCSp1
   category: abuse

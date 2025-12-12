@@ -439,6 +439,8 @@ tags:
   category: abuse
 - address: TCLH4uKd2ont8xsrZtG3zxr9UQg7xH3qSK
   category: abuse
+- address: TCM2ZckL4Y6YkeqqEzugiHP7iwo7YdNgR5
+  category: abuse
 - address: TCM7Npfat3y1rgQzQKxwsVeB1ETcS6YEkH
   category: abuse
 - address: TCMSuvSJiZxmCERFUwQjfUSAHeFa9cRfT5
@@ -586,6 +588,8 @@ tags:
 - address: TD1FfjjU5nBU4MBkCG669v3EbvJNfAAHyG
   category: scam
 - address: TD25opPmwJxtgBZigfrZMUYqUjFkwkkJiV
+  category: abuse
+- address: TD2Mkao9tjPVEsMdzLa1qq4hFkBxQPBywi
   category: abuse
 - address: TD2bpFffZ6GKYh4DRQZwNDM9H52kA7gdF8
   category: abuse
@@ -1148,7 +1152,7 @@ tags:
 - address: TFvBfqAQfVkj2hdDQoDeyiscYYAYnhiFdu
   category: abuse
 - address: TFvtCZef4aVpdR9vGxMk1PMSSfkUhzGPzP
-  category: abuse
+  category: scam
 - address: TFwAg7FMuQrQYukt6V6KWXEzmstRRYf17q
   category: abuse
 - address: TFwLFiEbjjSELNXRrHU3fKj9oykZ1Kea34
@@ -2276,6 +2280,8 @@ tags:
 - address: TNNJ8NynPh1AutW1qXjtHoyFKc3rCKkJMh
   category: abuse
 - address: TNNMLLFp1ChPTeFZP1aeygJ7mmhbjVQETU
+  category: abuse
+- address: TNNULCKaRj4GYc7sJpuVSWdTtSN7pn7Wv9
   category: abuse
 - address: TNPjswoDRFpGN2eAoMCssry2xN59JKmSzc
   category: abuse
@@ -3648,7 +3654,7 @@ tags:
 - address: TVbRFWY3gYY7NJiLabNLhj9KJmaJD3kgN4
   category: abuse
 - address: TVbuZx1NU62HN8E1gZJbbt3CpNP447bLpd
-  category: scam
+  category: abuse
 - address: TVcspwhWMWiX7jvuZLfyDkYQqmZELRkpNL
   category: scam
 - address: TVdJc4KrryP1feAE7Pvf8WdP9BQRAvDsZY
@@ -4195,6 +4201,8 @@ tags:
   category: abuse
 - address: TYZAigMzbGVDucKbVurybo61VA6bP8vMQT
   category: abuse
+- address: TYbLqVhA79mbyDY4QPjrQ3ScfeQUsU2pcu
+  category: abuse
 - address: TYbyh6vdEvwTiKTCtdrZ83hXMLgpntmbg6
   category: abuse
 - address: TYeTMm6fRfeMq2PUpBPBfZroZyQRLkpFDw
@@ -4290,7 +4298,7 @@ tags:
 - address: TZFB8thEPtW8AaEYRbP6yAummk29CjcjZC
   category: abuse
 - address: TZFiBYzicc8ACTETu1pKEzk4hi1kudopP7
-  category: abuse
+  category: scam
 - address: TZFoPmqzUKokxMZiREZ81nU1rD6eNVaJuD
   category: abuse
 - address: TZFxGmjtwEAFi1MiGAudrgqg7CDYf2PqTL

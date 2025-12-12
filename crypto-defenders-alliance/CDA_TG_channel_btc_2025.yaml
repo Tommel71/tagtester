@@ -1615,6 +1615,8 @@ tags:
   category: abuse
 - address: 1QFx9SZApAnhXSWD4RhhmkW3qoFeQZov1x
   category: abuse
+- address: 1QGM2RQrCJTrPm1s52dgJyMpHSfoqfui6c
+  category: abuse
 - address: 1QLDb1DjWAzb34bZC2vxMkaMLXQKmuWiG3
   category: abuse
 - address: 1QLQKhEKP4SPaBwc9WUpkXSq9rawojeB92
@@ -1976,7 +1978,7 @@ tags:
 - address: 3DGYCEebvLr7db2H8C7gK2WMAzPHEHj22U
   category: abuse
 - address: 3DLxg3bvQ5jpKcJggW8Qz8YSH5kq8sUEMo
-  category: abuse
+  category: scam
 - address: 3DUBf6HKQ4V1iQvtcCnGHJsFh9ub1uX4wK
   category: abuse
 - address: 3DeVNYK3iT2pFaBPSxJHfhjjsq4QZW9pqP
@@ -2200,7 +2202,7 @@ tags:
 - address: 3NQvdy3cLqVXtWb4MR7UrTi15mUxG5jDPR
   category: abuse
 - address: 3NWGK7FB5m7nYxRhu5rzge98656ZU49Uf9
-  category: abuse
+  category: scam
 - address: 3Nb5cMdfEasMS9jAFoWkyY3SfeaNrnmg3W
   category: abuse
 - address: 3NbSjH89T5TC39djxwZDsevVdfbtJGpJ4r
@@ -2264,7 +2266,7 @@ tags:
 - address: 3PszFwBszzgLAotFM9TcZTYHrQ36tPxiWJ
   category: abuse
 - address: 3PtMivAwheyWHBAuScyoL8japD5pA89Rjo
-  category: scam
+  category: abuse
 - address: 3PtTRyZsG324osCrA5QiCkZSRmoW3FQ4v1
   category: abuse
 - address: 3PtneVhPBCRqzcEmkbudBv6Lsy929outC2
@@ -4679,6 +4681,8 @@ tags:
   category: abuse
 - address: bc1q508us4t9yw7h3anpquuztnefjrcn7uz7qk3278
   category: abuse
+- address: bc1q509whrt22qusattt0cqd5xnk4gegku7kl9xqqq
+  category: abuse
 - address: bc1q50awnukdhtq79exe9vavep3j6m3z9h6zera40e
   category: abuse
 - address: bc1q50grl4u6s5elscuga67g0p32f6wlle7pjht8m9
@@ -6362,6 +6366,8 @@ tags:
 - address: bc1q8sungx23tzwxwsqna6lesqxt65cyxlgpg7ppyh
   category: abuse
 - address: bc1q8t0kvcrc0ktpgzu7t79s2v3fqp3qjzanf3js7k
+  category: abuse
+- address: bc1q8t3p0avl7fpc88mmvy926mrdtyh97mjpgcrq7d
   category: abuse
 - address: bc1q8t4rphgkssxlf4s0h7rn6h0md9qq8z0apnspqw
   category: abuse
@@ -9021,6 +9027,8 @@ tags:
   category: abuse
 - address: bc1qfcgffp5klsrhtj9gakufvllp33a66fyt4yewt6
   category: abuse
+- address: bc1qfck6gthm6uy5qw3asr7k7k2skerflzcpgv2tq9
+  category: abuse
 - address: bc1qfcqqdfygd3dsf7c6gjzqmdspq29x5gtfq9rek5
   category: abuse
 - address: bc1qfcsjy8yzydemzj6gpc4877n9euplxrhp03u4fr
@@ -9289,6 +9297,8 @@ tags:
   category: abuse
 - address: bc1qfxavfynvvkh8g023jp6n5g0x28g3v40zzrzthr
   category: abuse
+- address: bc1qfxczzddpktufswxmna2n4vgvelm00a0apuud4g
+  category: abuse
 - address: bc1qfxp2k5ccnrd0pzcfr6m7n0kn57tztygz6djya4
   category: abuse
 - address: bc1qfxyy0t0xepslunw9ul7jyy7479vxtmfmducs4r
@@ -9368,6 +9378,8 @@ tags:
 - address: bc1qg3l726zyak79l89nrlrdv26dhlx0e26ctr77l2
   category: abuse
 - address: bc1qg42per53mkatrmjz9nx3s0zgqreg5hfyd88nec
+  category: abuse
+- address: bc1qg45ds2pzhn3uvgj9zendgc8n8sqz0glnwmc2r9
   category: abuse
 - address: bc1qg45wk2yku0e4xsdg9nccd5rdrcegq9a5lytttp
   category: abuse
@@ -10210,6 +10222,8 @@ tags:
 - address: bc1qhuep202xyu00zck2xpy9fvspg0knl3cpkjln5flc9dwr3h6dr33q2uh5p9
   category: abuse
 - address: bc1qhukxuw33erc20lj3ghqek3aewkdgvg3vfc87qh
+  category: abuse
+- address: bc1qhun543jad3342unpcalt8lalqgk3chk85kksde
   category: abuse
 - address: bc1qhurx543zadx82h3als6n3ccd3g6nx85zhpemrq
   category: abuse
@@ -11853,6 +11867,8 @@ tags:
   category: abuse
 - address: bc1qm9qjjku68x5cgg4rg00qvstvqzdm22xrv044sr
   category: abuse
+- address: bc1qm9ssxmmwuku268k67klrssf9yw4hpxaszhm24r
+  category: abuse
 - address: bc1qm9umfcyhx3y6pgd8mt63gpwjdqh33lyg3plf8u
   category: abuse
 - address: bc1qm9vryf6xjhcgzv5z9e6vrneh9w0xwu0nqks2z4
@@ -13088,7 +13104,7 @@ tags:
 - address: bc1qps935g3hkam2yehg4eshpk8fys9620vrl0tumx
   category: abuse
 - address: bc1qpsces3f9sdx0hs2eq8m6j9nw5d7c3n8g99wauk
-  category: abuse
+  category: scam
 - address: bc1qpsgc2pwh8q2shm7k5hn9vxe20nwe0nrzdr8998
   category: abuse
 - address: bc1qpsl2u3kh0dqupzereg8wz4rmq00wtztrlyrr5p
@@ -15446,7 +15462,7 @@ tags:
 - address: bc1quqkeez30xz2lpeyvlwmcrr6xxz6x28kyjj5w3y
   category: abuse
 - address: bc1quqwnpcqjlj4qk8v9x3kt7xvunavpln4y4lt74n
-  category: abuse
+  category: scam
 - address: bc1quqwyt39g4p2eegn5u6rva6mcx6vtpp5lw2r7tt
   category: abuse
 - address: bc1qur43q8f90s9gq0g0duur7wj3zr097zhray9u9d
