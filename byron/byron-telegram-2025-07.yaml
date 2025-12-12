@@ -1,0 +1,30 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: 88ya2Kg26NLcfuHjmR3BUqUc7DknueQh8dmi2hqQtKy5HrJ4xdqsaRiZ5n9E82MhvnYpYQmeay3HJftpWcy87bykRoYzp1Y
+  label: EMMANUELMUEMA
+  currency: XMR
+  source: https://app.vysion.ai/telegram/user/132453460
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/132453460
+      url: https://app.vysion.ai/telegram/user/132453460
+      detection_date: '2025-07-04T14:13:25.113777'
+      title: EMMANUELMUEMA
+  concepts:
+  - messaging_service
+- address: bc1q5v7y5r5fkm80cnhp7fuwrx6expyeyhnhnns2sc4z0ma3kfc83apq7j736r
+  label: digitalsghost
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/-1002403247294
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1002403247294
+      url: https://app.vysion.ai/telegram/user/-1002403247294
+      detection_date: '2025-07-16T02:45:43.252387'
+      title: digitalsghost
+  concepts:
+  - messaging_service

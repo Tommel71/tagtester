@@ -1,0 +1,30 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: 1Bz9UKsDVDn4cWaWWk8VNzqYBGCaVdUpnw
+  label: Akida
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7615775040
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7615775040
+      url: https://app.vysion.ai/telegram/user/7615775040
+      detection_date: '2025-03-05T19:13:36.913636'
+      title: Akida
+  concepts:
+  - messaging_service
+- address: bc1q50muchnk7ejsw4nwmmdztmcedamhr36wq5rmy4
+  label: yohitsbglame
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/-1002494931593
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1002494931593
+      url: https://app.vysion.ai/telegram/user/-1002494931593
+      detection_date: '2025-03-20T14:52:26.173418'
+      title: yohitsbglame
+  concepts:
+  - messaging_service

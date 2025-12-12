@@ -1,0 +1,42 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: '0x2bD9A353a6D56FF2F7cB520a98Ed5f4385Cee850'
+  label: ghbntghf
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/7648967065
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7648967065
+      url: https://app.vysion.ai/telegram/user/7648967065
+      detection_date: '2025-01-01T12:24:36.969631'
+      title: ghbntghf
+  concepts:
+  - messaging_service
+- address: bc1qmz9dawndz4z4xye4fnksmrr0dvrlza29pp4er7
+  label: ghbntghf
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7648967065
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7648967065
+      url: https://app.vysion.ai/telegram/user/7648967065
+      detection_date: '2025-01-01T12:24:36.969631'
+      title: ghbntghf
+  concepts:
+  - messaging_service
+- address: bc1q0g7c883ldp742c00fclcet4hx7g7raqy0gecav
+  label: scarface2903
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/6518482381
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/6518482381
+      url: https://app.vysion.ai/telegram/user/6518482381
+      detection_date: '2025-01-31T08:40:52.238654'
+      title: scarface2903
+  concepts:
+  - messaging_service

@@ -1,0 +1,42 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: '0x07B06eA0aa2224cC7e37DcB2d8BE6BD7e4f63019'
+  label: Cybersell666
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/8108982736
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/8108982736
+      url: https://app.vysion.ai/telegram/user/8108982736
+      detection_date: '2025-06-02T14:39:06.968285'
+      title: Cybersell666
+  concepts:
+  - messaging_service
+- address: bc1q5v7y5r5fkm80cnhp7fuwrx6expyeyhnhnns2sc4z0ma3kfc83apq7j736r
+  label: Cybersell666
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/8108982736
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/8108982736
+      url: https://app.vysion.ai/telegram/user/8108982736
+      detection_date: '2025-06-02T14:39:06.968285'
+      title: Cybersell666
+  concepts:
+  - messaging_service
+- address: bc1qfjpz930thrmsj23jpuz7gztkrdwha0jzrrcrvy
+  label: Alexs291
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7597927195
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7597927195
+      url: https://app.vysion.ai/telegram/user/7597927195
+      detection_date: '2025-06-18T19:39:36.353327'
+      title: Alexs291
+  concepts:
+  - messaging_service

@@ -1,0 +1,78 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: '0xfa174f1990cffa5302460d838ead4d9b0ed639eb'
+  label: xgost8
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/7643600479
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7643600479
+      url: https://app.vysion.ai/telegram/user/7643600479
+      detection_date: '2024-12-15T13:08:03.098991'
+      title: xgost8
+  concepts:
+  - messaging_service
+- address: bc1q7sla0mvpqcc5rc43z5adzyrqpxa8fuhymrmyhm
+  label: Reis
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/5956138480
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/5956138480
+      url: https://app.vysion.ai/telegram/user/5956138480
+      detection_date: '2024-12-27T00:24:02.663975'
+      title: Reis
+  concepts:
+  - messaging_service
+- address: bc1qrykfw3y0y8ufefd94es3qgklj49s45rqcldsy6
+  label: Sam
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/6717497632
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/6717497632
+      url: https://app.vysion.ai/telegram/user/6717497632
+      detection_date: '2024-12-27T19:24:06.212166'
+      title: Sam
+  concepts:
+  - messaging_service
+- address: 1ChLRrnZt3NQ4hDQ1QEziJ4sHTVNWRiSRb
+  label: aary99
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7228948136
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7228948136
+      url: https://app.vysion.ai/telegram/user/7228948136
+      detection_date: '2024-12-28T14:39:10.341078'
+      title: aary99
+  concepts:
+  - messaging_service
+- address: bc1qfqx4pa74wmzy4z2g0fjvrkqymd2n7nm7033yvx
+  label: Johncar247
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7857975582
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7857975582
+      url: https://app.vysion.ai/telegram/user/7857975582
+      detection_date: '2024-12-31T22:09:36.478198'
+      title: Johncar247
+  concepts:
+  - messaging_service
+- address: bc1qh2crua3enkneqxv82wch70va9l8dp9mxd5r3zh
+  label: niggersgoaway
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/6293233100
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/6293233100
+      url: https://app.vysion.ai/telegram/user/6293233100
+      detection_date: '2024-12-31T23:09:40.800726'
+      title: niggersgoaway
+  concepts:
+  - messaging_service

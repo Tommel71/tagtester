@@ -1,0 +1,66 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: 89tm7JtLeiqGerddjNpmJrDVxPg946SpGUBo3pSeKnUQBQ498enXw1uKxdkHgPuzHpSkPobQ433iLjTCjBfrEwmGPnczRQ2
+  label: putrid
+  currency: XMR
+  source: https://app.vysion.ai/telegram/user/7133669625
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7133669625
+      url: https://app.vysion.ai/telegram/user/7133669625
+      detection_date: '2024-06-01T23:50:51.605735'
+      title: putrid
+  concepts:
+  - messaging_service
+- address: bc1q6rz6ue55seg5vu0s2qvz6zxvxpfh7qpdyfkger
+  label: EnzoAdminFX
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/5084583713
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/5084583713
+      url: https://app.vysion.ai/telegram/user/5084583713
+      detection_date: '2024-06-07T17:28:32.101085'
+      title: EnzoAdminFX
+  concepts:
+  - messaging_service
+- address: '0x3cd75565a146c80f401f72eceba9f94aa5e3f36f'
+  label: LLL
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/6433787682
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/6433787682
+      url: https://app.vysion.ai/telegram/user/6433787682
+      detection_date: '2024-06-09T13:24:53.365825'
+      title: LLL
+  concepts:
+  - messaging_service
+- address: '0x513B695a59519d10e5e4BE3B6Cecc33A5A44776e'
+  label: eSkimo
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/5668719531
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/5668719531
+      url: https://app.vysion.ai/telegram/user/5668719531
+      detection_date: '2024-06-29T22:15:39.325255'
+      title: eSkimo
+  concepts:
+  - messaging_service
+- address: bc1qv3whyacue2fme0yuzmrrg5jj2j26d0f2cc0arp
+  label: mazen
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7063291446
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7063291446
+      url: https://app.vysion.ai/telegram/user/7063291446
+      detection_date: '2024-06-30T23:53:36.768228'
+      title: mazen
+  concepts:
+  - messaging_service

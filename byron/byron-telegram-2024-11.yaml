@@ -1,0 +1,90 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: bc1pym7fzake9a6q0f8je4ul6em9nsjhr6uw0qgyp70femln7qugu0yqh3efwx
+  label: adithy_annn
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/5055408470
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/5055408470
+      url: https://app.vysion.ai/telegram/user/5055408470
+      detection_date: '2024-11-15T16:22:46.788771'
+      title: adithy_annn
+  concepts:
+  - messaging_service
+- address: 1EbG1X8oBJtJDg6pKgF6UyW4eVnnkRHp5Z
+  label: "\U0001FAE7"
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7195302689
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7195302689
+      url: https://app.vysion.ai/telegram/user/7195302689
+      detection_date: '2024-11-18T01:37:45.370281'
+      title: "\U0001FAE7"
+  concepts:
+  - messaging_service
+- address: 1HYm1KsfNqtNPjVyxreFzurwm2cf6ALmod
+  label: c_sure12
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7521057097
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7521057097
+      url: https://app.vysion.ai/telegram/user/7521057097
+      detection_date: '2024-11-22T04:38:00.478688'
+      title: c_sure12
+  concepts:
+  - messaging_service
+- address: bc1qnxn4dpa9hc3rvm9pennh9w8emmmcs75w7njvj5
+  label: Sizuka ^
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/1856075945
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/1856075945
+      url: https://app.vysion.ai/telegram/user/1856075945
+      detection_date: '2024-11-24T05:53:12.268278'
+      title: Sizuka ^
+  concepts:
+  - messaging_service
+- address: bc1pyj95mxl7apn7s8p22q2wrhhk5ealq63fhdyvphux2t727vj2gyasq4mm0j
+  label: bitnomad01
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7877530460
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7877530460
+      url: https://app.vysion.ai/telegram/user/7877530460
+      detection_date: '2024-11-25T20:23:36.162839'
+      title: bitnomad01
+  concepts:
+  - messaging_service
+- address: '0x3A913851c56A4EFEC3eF46755D37F0fE0b11fD52'
+  label: xcpckd
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/1373192186
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/1373192186
+      url: https://app.vysion.ai/telegram/user/1373192186
+      detection_date: '2024-11-26T13:23:28.896080'
+      title: xcpckd
+  concepts:
+  - messaging_service
+- address: '0x1B3900eEAEe537C58680ce6F1C323961340E620F'
+  label: ThotBreaker1337
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/5173704846
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/5173704846
+      url: https://app.vysion.ai/telegram/user/5173704846
+      detection_date: '2024-11-30T23:30:29.258557'
+      title: ThotBreaker1337
+  concepts:
+  - messaging_service

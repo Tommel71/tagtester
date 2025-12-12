@@ -1,0 +1,1117 @@
+confidence: web_crawl
+title: Darknet Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: 45edxp4yMGmELBAYxkzkmhjYKH85sNApENokaB3UpZXoMcinqEyH4bRZM1wnN3VGTkVqf7Ve7tqSCDPywne5XSP2VnmGi3y
+  label: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+  currency: XMR
+  source: https://app.vysion.ai/document/B0Sg0IwBPIZOLnqbPERp
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/bj3hO4wBPIZOLnqbK3wI
+      url: agoradesk.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054?dismissNotice=true
+      detection_date: '2023-12-05T21:27:41'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+    - source: https://app.vysion.ai/document/9kIcrYwBPIZOLnqbt-5r
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054
+      detection_date: '2023-12-27T21:09:49'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+    - source: https://app.vysion.ai/document/B0Sg0IwBPIZOLnqbPERp
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054?dismissNotice=true
+      detection_date: '2024-01-03T18:40:11'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+- address: bc1qmku9gh5qxy2j8dh9c657rvum80a4cagx803j54
+  label: "\u0421\u0442\u0430\u0442\u044C\u044F - \u0422\u0443\u043F\u043E\u0439 \u043B\
+    \u0438\u043D\u043A! \u0410\u0442\u0430\u043A\u0438 \u043D\u0430 TP-Link \u043E\
+    \u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u0435"
+  currency: BTC
+  source: https://app.vysion.ai/document/B0QT2YwBPIZOLnqbkKq2
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/B0QT2YwBPIZOLnqbkKq2
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/95197/page-2
+      detection_date: '2024-01-05T10:03:07'
+      title: "\u0421\u0442\u0430\u0442\u044C\u044F - \u0422\u0443\u043F\u043E\u0439\
+        \ \u043B\u0438\u043D\u043A! \u0410\u0442\u0430\u043A\u0438 \u043D\u0430 TP-Link\
+        \ \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u0438\u0435"
+- address: 47e631C29nrgLSc7GmeThiGn2XmHnJwQCCVGuPY8VNCCdkpG8qvJfK5Sqq9tWeS5cPPtF6RsCqp8KEdApk8n8m3zLKRpTT5
+  label: 'Sell Monero using National bank transfer: Fast pay'
+  currency: XMR
+  source: https://app.vysion.ai/document/vkQz3IwBPIZOLnqbXc2e
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/rD4qWYwBPIZOLnqbEp9r
+      url: agoradesk.i2p/nojs/ad/sell-monero-national-bank-united-kingdom/61db9e7c-b3a5-46ea-9b9e-7cb3a536ea8c
+      detection_date: '2023-12-11T13:56:18'
+      title: 'Sell Monero using National bank transfer: Fast pay'
+    - source: https://app.vysion.ai/document/ykLAoYwBPIZOLnqb7GVE
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-kingdom/61db9e7c-b3a5-46ea-9b9e-7cb3a536ea8c
+      detection_date: '2023-12-25T16:13:44'
+      title: 'Sell Monero using National bank transfer: Fast pay'
+    - source: https://app.vysion.ai/document/_UJfpYwBPIZOLnqbhpVO
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-kingdom/61db9e7c-b3a5-46ea-9b9e-7cb3a536ea8c?dismissNotice=true
+      detection_date: '2023-12-26T09:05:50'
+      title: 'Sell Monero using National bank transfer: Fast pay'
+    - source: https://app.vysion.ai/document/B0Rn2YwBPIZOLnqbqK6D
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-kingdom/61db9e7c-b3a5-46ea-9b9e-7cb3a536ea8c
+      detection_date: '2024-01-05T11:34:58'
+      title: 'Sell Monero using National bank transfer: Fast pay'
+    - source: https://app.vysion.ai/document/vkQz3IwBPIZOLnqbXc2e
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-kingdom/61db9e7c-b3a5-46ea-9b9e-7cb3a536ea8c?dismissNotice=true
+      detection_date: '2024-01-06T00:36:42'
+      title: 'Sell Monero using National bank transfer: Fast pay'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 38BNzYodECJhKuM6ASEP6kKCSvoQRzULQ4
+  label: "Sell Bitcoin with Cryptocurrency \u2014 AgoraDesk (No J"
+  currency: BTC
+  source: https://app.vysion.ai/document/JEV24owBPIZOLnqb2hqx
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/lDzALYwBPIZOLnqbmOen
+      url: agoradesk.i2p/nojs/sell-bitcoin-using-cryptocurrency-with-bch?dismissNotice=true
+      detection_date: '2023-12-03T03:37:25'
+      title: "Sell Bitcoin with Cryptocurrency \u2014 AgoraDesk (No J"
+    - source: https://app.vysion.ai/document/lEADdowBPIZOLnqbywtN
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-using-cryptocurrency-with-bch
+      detection_date: '2023-12-17T04:23:29'
+      title: "Sell Bitcoin with Cryptocurrency \u2014 AgoraDesk (No J"
+    - source: https://app.vysion.ai/document/zUVT4IwBPIZOLnqbtQAY
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-using-cryptocurrency-with-bch
+      detection_date: '2024-01-06T19:50:31'
+      title: "Sell Bitcoin with Cryptocurrency \u2014 AgoraDesk (No J"
+    - source: https://app.vysion.ai/document/JEV24owBPIZOLnqb2hqx
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-using-cryptocurrency-with-bch?dismissNotice=true
+      detection_date: '2024-01-07T05:48:09'
+      title: "Sell Bitcoin with Cryptocurrency \u2014 AgoraDesk (No J"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 38BNzYodECJhKuM6ASEP6kKCSvoQRzULQ4
+  label: "Sell Bitcoin for BCH \u2014 AgoraDesk (No JavaScript)"
+  currency: BTC
+  source: https://app.vysion.ai/document/L0V34owBPIZOLnqbrBq-
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ljzBLYwBPIZOLnqbVOd5
+      url: agoradesk.i2p/nojs/sell-bitcoin-with-bch?dismissNotice=true
+      detection_date: '2023-12-03T03:38:13'
+      title: "Sell Bitcoin for BCH \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/1UDWdYwBPIZOLnqbDQgD
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-with-bch
+      detection_date: '2023-12-17T03:33:31'
+      title: "Sell Bitcoin for BCH \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/6EB0eowBPIZOLnqbJU1i
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-with-bch?dismissNotice=true
+      detection_date: '2023-12-18T01:04:41'
+      title: "Sell Bitcoin for BCH \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/2kVW4IwBPIZOLnqbCACt
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-with-bch
+      detection_date: '2024-01-06T19:53:03'
+      title: "Sell Bitcoin for BCH \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/L0V34owBPIZOLnqbrBq-
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-with-bch?dismissNotice=true
+      detection_date: '2024-01-07T05:49:02'
+      title: "Sell Bitcoin for BCH \u2014 AgoraDesk (No JavaScript)"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 38BNzYodECJhKuM6ASEP6kKCSvoQRzULQ4
+  label: 'Sell Bitcoin using Cryptocurrency: MY BITCOIN ADDR'
+  currency: BTC
+  source: https://app.vysion.ai/document/DEXQ5IwBPIZOLnqbDzio
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/FD1JSYwBPIZOLnqbnP-e
+      url: agoradesk.i2p/nojs/ad/sell-bitcoin-cryptocurrency/b3260ea5-a580-4db7-a60e-a5a580edb753
+      detection_date: '2023-12-08T11:56:50'
+      title: 'Sell Bitcoin using Cryptocurrency: MY BITCOIN ADDR'
+    - source: https://app.vysion.ai/document/T0AGgIwBPIZOLnqbdKCA
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-bitcoin-cryptocurrency/b3260ea5-a580-4db7-a60e-a5a580edb753
+      detection_date: '2023-12-19T03:02:35'
+      title: 'Sell Bitcoin using Cryptocurrency: MY BITCOIN ADDR'
+    - source: https://app.vysion.ai/document/1UAmhowBPIZOLnqbRfWo
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-bitcoin-cryptocurrency/b3260ea5-a580-4db7-a60e-a5a580edb753?dismissNotice=true
+      detection_date: '2023-12-20T07:35:04'
+      title: 'Sell Bitcoin using Cryptocurrency: MY BITCOIN ADDR'
+    - source: https://app.vysion.ai/document/DEXQ5IwBPIZOLnqbDzio
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-bitcoin-cryptocurrency/b3260ea5-a580-4db7-a60e-a5a580edb753
+      detection_date: '2024-01-07T16:44:49'
+      title: 'Sell Bitcoin using Cryptocurrency: MY BITCOIN ADDR'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 38BNzYodECJhKuM6ASEP6kKCSvoQRzULQ4
+  label: "Syndicate3301 \u2014 AgoraDesk (No JavaScript)"
+  currency: BTC
+  source: https://app.vysion.ai/document/C0XQ5IwBPIZOLnqbDDjP
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/GD1LSYwBPIZOLnqbhv_N
+      url: agoradesk.i2p/nojs/user/Syndicate3301
+      detection_date: '2023-12-08T11:58:55'
+      title: "Syndicate3301 \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/SUAGgIwBPIZOLnqbNKB8
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/user/Syndicate3301
+      detection_date: '2023-12-19T03:02:19'
+      title: "Syndicate3301 \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/uEAlhowBPIZOLnqbH_UB
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/user/Syndicate3301?dismissNotice=true
+      detection_date: '2023-12-20T07:33:48'
+      title: "Syndicate3301 \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/C0XQ5IwBPIZOLnqbDDjP
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/user/Syndicate3301
+      detection_date: '2024-01-07T16:44:49'
+      title: "Syndicate3301 \u2014 AgoraDesk (No JavaScript)"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1CxNd1Hn7LAPzGS3FwmJUJFxs9PUkFJUwz
+  label: Communication | BHF.EE
+  currency: BTC
+  source: https://app.vysion.ai/document/WkUe6IwBPIZOLnqbjGK-
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/WkUe6IwBPIZOLnqbjGK-
+      url: bhf2b5nb3lb2kxpaoyqz7cuk2dkgej5n2refuffxzyhldwt4d7de4zqd.onion/forums/26/
+      detection_date: '2024-01-08T08:09:25'
+      title: Communication | BHF.EE
+  concepts:
+  - abuse
+  - dark_web
+- address: bc1q04lyh4n7z7fpzxkyz4ev0wurvx8ygn65t8y25e
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/ukXc6IwBPIZOLnqbdmzr
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ukXc6IwBPIZOLnqbdmzr
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/NsD3qVjE6O6zSHA0659bafe75b1d2
+      detection_date: '2024-01-08T11:35:42'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware
+- address: bc1q8zwues394jzj0vdaxzn0vczqyxxy9pddes8lug
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/LEbS-IwBPIZOLnqbAkwM
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/LEbS-IwBPIZOLnqbAkwM
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/plh7kL55YTNYzX1Q659fd8917e0d7
+      detection_date: '2024-01-11T13:57:40'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware
+- address: 8C8u1hhCcdFVnSJQUXkoGdez7w7ZZuTRpCriL6r7Gyvj1Hcs76SJDqs5X7HHPLnnTnCQrrkkNF4R9dKAygRPMFuqSrZXPHv
+  label: 'Sell Monero using Virtual Visa / MasterCard: Virtu'
+  currency: XMR
+  source: https://app.vysion.ai/document/mUYM_YwBPIZOLnqbrI3Z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/PTwEHowBPIZOLnqbCE9M
+      url: agoradesk.i2p/nojs/ad/sell-monero-virtual-visa-mastercard-australia/424fc350-239d-434b-8fc3-50239d734b29
+      detection_date: '2023-11-30T02:17:09'
+      title: 'Sell Monero using Virtual Visa / MasterCard: Virtu'
+    - source: https://app.vysion.ai/document/TTz9LowBPIZOLnqbofT1
+      url: agoradesk.i2p/nojs/ad/sell-monero-virtual-visa-mastercard-australia/424fc350-239d-434b-8fc3-50239d734b29?dismissNotice=true
+      detection_date: '2023-12-03T09:23:42'
+      title: 'Sell Monero using Virtual Visa / MasterCard: Virtu'
+    - source: https://app.vysion.ai/document/mUYM_YwBPIZOLnqbrI3Z
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-virtual-visa-mastercard-australia/424fc350-239d-434b-8fc3-50239d734b29
+      detection_date: '2024-01-12T09:41:55'
+      title: 'Sell Monero using Virtual Visa / MasterCard: Virtu'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1CQVL5fLNds87nUNDQTwoTwdr3wwEnrpVp
+  label: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+    \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+    \U0001F181\U0001F181\U0001F174"
+  currency: BTC
+  source: https://app.vysion.ai/document/oEbC_owBPIZOLnqbXaeV
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/qzxzHowBPIZOLnqbqVNa
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c
+      detection_date: '2023-11-30T04:19:05'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/tTx0HowBPIZOLnqb7FPH
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/cbc86579-ba1b-4f9e-8865-79ba1bff9eda
+      detection_date: '2023-11-30T04:20:28'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/tzx1HowBPIZOLnqbBlPZ
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/5f97f218-a70d-4923-97f2-18a70d89230b
+      detection_date: '2023-11-30T04:20:35'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/RDzDL4wBPIZOLnqbhPwj
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c?dismissNotice=true
+      detection_date: '2023-12-03T12:59:51'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/XTzFL4wBPIZOLnqbi_ws
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/cbc86579-ba1b-4f9e-8865-79ba1bff9eda?dismissNotice=true
+      detection_date: '2023-12-03T13:02:04'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/XjzGL4wBPIZOLnqbDfyY
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/5f97f218-a70d-4923-97f2-18a70d89230b?dismissNotice=true
+      detection_date: '2023-12-03T13:02:37'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/7D5rTIwBPIZOLnqbcB22
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/c7734cc7-477f-4630-b34c-c7477f26302f
+      detection_date: '2023-12-09T02:32:38'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/7z5rTIwBPIZOLnqb6x1J
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/33fc58d1-c995-4b5d-bc58-d1c9953b5dd2
+      detection_date: '2023-12-09T02:33:10'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8T5rTIwBPIZOLnqb9h08
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/c91213cf-c0c1-49fc-9213-cfc0c199fc42
+      detection_date: '2023-12-09T02:33:12'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8D5rTIwBPIZOLnqb9R2D
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/97d7794c-f689-482b-9779-4cf689382bb0
+      detection_date: '2023-12-09T02:33:12'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8z5rTIwBPIZOLnqb_x2b
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/aaab61ef-b735-4006-ab61-efb735f0063e
+      detection_date: '2023-12-09T02:33:15'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8j5rTIwBPIZOLnqb_h18
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/a24505ae-f240-406e-8505-aef240b06e22
+      detection_date: '2023-12-09T02:33:15'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/9T5sTIwBPIZOLnqbMR3b
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/e531dcc8-0356-4434-b1dc-c8035644344b
+      detection_date: '2023-12-09T02:33:28'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/9z5sTIwBPIZOLnqbqx0X
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/3987436e-9224-4614-8743-6e9224861458
+      detection_date: '2023-12-09T02:33:59'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/vEbd9YwBPIZOLnqbmCOr
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c
+      detection_date: '2024-01-11T00:13:09'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/oEbC_owBPIZOLnqbXaeV
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c?dismissNotice=true
+      detection_date: '2024-01-12T17:39:59'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 465aHQVyPRo3trhaaVqcnP4TheMubZtvJcQQKbmAyd5K2VyigWZmyA4Wpbp8u4kc5zLrPjyVn9mkaJasSZe8dZgnBnKgCc7
+  label: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+    \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+    \U0001F181\U0001F181\U0001F174"
+  currency: XMR
+  source: https://app.vysion.ai/document/oEbC_owBPIZOLnqbXaeV
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/qzxzHowBPIZOLnqbqVNa
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c
+      detection_date: '2023-11-30T04:19:05'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/tTx0HowBPIZOLnqb7FPH
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/cbc86579-ba1b-4f9e-8865-79ba1bff9eda
+      detection_date: '2023-11-30T04:20:28'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/tzx1HowBPIZOLnqbBlPZ
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/5f97f218-a70d-4923-97f2-18a70d89230b
+      detection_date: '2023-11-30T04:20:35'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/RDzDL4wBPIZOLnqbhPwj
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c?dismissNotice=true
+      detection_date: '2023-12-03T12:59:51'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/XTzFL4wBPIZOLnqbi_ws
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/cbc86579-ba1b-4f9e-8865-79ba1bff9eda?dismissNotice=true
+      detection_date: '2023-12-03T13:02:04'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/XjzGL4wBPIZOLnqbDfyY
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/5f97f218-a70d-4923-97f2-18a70d89230b?dismissNotice=true
+      detection_date: '2023-12-03T13:02:37'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/7D5rTIwBPIZOLnqbcB22
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/c7734cc7-477f-4630-b34c-c7477f26302f
+      detection_date: '2023-12-09T02:32:38'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/7z5rTIwBPIZOLnqb6x1J
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/33fc58d1-c995-4b5d-bc58-d1c9953b5dd2
+      detection_date: '2023-12-09T02:33:10'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8T5rTIwBPIZOLnqb9h08
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/c91213cf-c0c1-49fc-9213-cfc0c199fc42
+      detection_date: '2023-12-09T02:33:12'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8D5rTIwBPIZOLnqb9R2D
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/97d7794c-f689-482b-9779-4cf689382bb0
+      detection_date: '2023-12-09T02:33:12'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8j5rTIwBPIZOLnqb_h18
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/a24505ae-f240-406e-8505-aef240b06e22
+      detection_date: '2023-12-09T02:33:15'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/8z5rTIwBPIZOLnqb_x2b
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/aaab61ef-b735-4006-ab61-efb735f0063e
+      detection_date: '2023-12-09T02:33:15'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/9T5sTIwBPIZOLnqbMR3b
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/e531dcc8-0356-4434-b1dc-c8035644344b
+      detection_date: '2023-12-09T02:33:28'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/9z5sTIwBPIZOLnqbqx0X
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/3987436e-9224-4614-8743-6e9224861458
+      detection_date: '2023-12-09T02:33:59'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/vEbd9YwBPIZOLnqbmCOr
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c
+      detection_date: '2024-01-11T00:13:09'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+    - source: https://app.vysion.ai/document/oEbC_owBPIZOLnqbXaeV
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/aebb25c9-a3e5-46b1-bb25-c9a3e536b11c?dismissNotice=true
+      detection_date: '2024-01-12T17:39:59'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181\U0001F174"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 45edxp4yMGmELBAYxkzkmhjYKH85sNApENokaB3UpZXoMcinqEyH4bRZM1wnN3VGTkVqf7Ve7tqSCDPywne5XSP2VnmGi3y
+  label: 'Sell Monero using National bank transfer: I DO NOT'
+  currency: XMR
+  source: https://app.vysion.ai/document/E0bw_owBPIZOLnqbjqkj
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/QDxjJIwBPIZOLnqbRZT8
+      url: agoradesk.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1
+      detection_date: '2023-12-01T07:58:54'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+    - source: https://app.vysion.ai/document/pj0LOowBPIZOLnqbc2gd
+      url: agoradesk.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1?dismissNotice=true
+      detection_date: '2023-12-05T12:54:37'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+    - source: https://app.vysion.ai/document/yD0QOowBPIZOLnqbJGjN
+      url: agoradesk.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1
+      detection_date: '2023-12-05T12:59:45'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+    - source: https://app.vysion.ai/document/Lj5RWIwBPIZOLnqb8JZV
+      url: agoradesk.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1?dismissNotice=true
+      detection_date: '2023-12-11T10:00:14'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+    - source: https://app.vysion.ai/document/LERn0owBPIZOLnqbdFrt
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1
+      detection_date: '2024-01-04T02:57:24'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+    - source: https://app.vysion.ai/document/ukSC1IwBPIZOLnqbRXVN
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1?dismissNotice=true
+      detection_date: '2024-01-04T12:45:56'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+    - source: https://app.vysion.ai/document/dEY99owBPIZOLnqbeSit
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1
+      detection_date: '2024-01-11T01:57:53'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+    - source: https://app.vysion.ai/document/E0bw_owBPIZOLnqbjqkj
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-united-states-of-america/15f0dee5-dec2-4c2c-b0de-e5dec2ec2cf1?dismissNotice=true
+      detection_date: '2024-01-12T18:30:27'
+      title: 'Sell Monero using National bank transfer: I DO NOT'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 45edxp4yMGmELBAYxkzkmhjYKH85sNApENokaB3UpZXoMcinqEyH4bRZM1wnN3VGTkVqf7Ve7tqSCDPywne5XSP2VnmGi3y
+  label: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+  currency: XMR
+  source: https://app.vysion.ai/document/HUbw_owBPIZOLnqb5anP
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/-jx1JYwBPIZOLnqb259j
+      url: agoradesk.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054
+      detection_date: '2023-12-01T12:58:50'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+    - source: https://app.vysion.ai/document/wUKyrowBPIZOLnqbb_6p
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054?dismissNotice=true
+      detection_date: '2023-12-28T04:32:58'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+    - source: https://app.vysion.ai/document/t0QZz4wBPIZOLnqbZDCV
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054
+      detection_date: '2024-01-03T11:33:17'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+    - source: https://app.vysion.ai/document/dUY99owBPIZOLnqbgChf
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054
+      detection_date: '2024-01-11T01:57:54'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+    - source: https://app.vysion.ai/document/HUbw_owBPIZOLnqb5anP
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-paypal-united-states-of-america/a4197093-b188-4d00-9970-93b1888d0054?dismissNotice=true
+      detection_date: '2024-01-12T18:30:49'
+      title: "Sell Monero using Paypal with US Dollar (USD) \u2014 Ag"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0xdf58078c7284Ba695411c22e0F14924cC33cE037'
+  label: BreachForums - Profile of whitenigger
+  currency: ETH
+  source: https://app.vysion.ai/document/oUdLEY0BPIZOLnqbN3VQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oUdLEY0BPIZOLnqbN3VQ
+      url: breachforums.is/User-whitenigger
+      detection_date: '2024-01-16T08:02:38'
+      title: BreachForums - Profile of whitenigger
+  concepts:
+  - data_breach
+- address: '0x2953399124f0cbb46d2cbacd8a89cf0599974963'
+  label: Helpful_Hearing_3492 (u/Helpful_Hearing_3492) - Re
+  currency: ETH
+  source: https://app.vysion.ai/document/5Uh_GY0BPIZOLnqb6gua
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/5Uh_GY0BPIZOLnqb6gua
+      url: lr.vern.i2p/user/Helpful_Hearing_3492
+      detection_date: '2024-01-17T22:17:10'
+      title: Helpful_Hearing_3492 (u/Helpful_Hearing_3492) - Re
+- address: '0x495f947276749ce646f68ac8c248420045cb7b5e'
+  label: "Hi, I\u2019m Keanu Reeves, AMA - r/movies"
+  currency: ETH
+  source: https://app.vysion.ai/document/okhgII0BPIZOLnqbd4Cj
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/okhgII0BPIZOLnqbd4Cj
+      url: lr.vern.i2p/r/movies/comments/11ia0od/hi_im_keanu_reeves_ama/
+      detection_date: '2024-01-19T06:20:09'
+      title: "Hi, I\u2019m Keanu Reeves, AMA - r/movies"
+- address: bc1qdxwprcu6scgugvq7ajllgqw7guz9pa5vcew99w
+  label: "\u0421\u0442\u0430\u0442\u044C\u044F - \u0414\u043E\u0431\u044B\u0432\u0430\
+    \u0435\u043C \u0434\u043E\u0441\u0442\u0443\u043F\u044B \u0447\u0435\u0440\u0435\
+    \u0437 public CVE. Citrix"
+  currency: BTC
+  source: https://app.vysion.ai/document/rUhrIo0BPIZOLnqbgZni
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/rUhrIo0BPIZOLnqbgZni
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/105109/
+      detection_date: '2024-01-19T15:51:27'
+      title: "\u0421\u0442\u0430\u0442\u044C\u044F - \u0414\u043E\u0431\u044B\u0432\
+        \u0430\u0435\u043C \u0434\u043E\u0441\u0442\u0443\u043F\u044B \u0447\u0435\
+        \u0440\u0435\u0437 public CVE. Citrix"
+  concepts:
+  - dark_web
+  - malware
+- address: '0x2D4Bc7aD9fbB4096cCe72aAd66c533ED0A3AE6e6'
+  label: "\u0421\u0442\u0430\u0442\u044C\u044F - \u0414\u043E\u0431\u044B\u0432\u0430\
+    \u0435\u043C \u0434\u043E\u0441\u0442\u0443\u043F\u044B \u0447\u0435\u0440\u0435\
+    \u0437 public CVE. Citrix"
+  currency: ETH
+  source: https://app.vysion.ai/document/rUhrIo0BPIZOLnqbgZni
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/rUhrIo0BPIZOLnqbgZni
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/105109/
+      detection_date: '2024-01-19T15:51:27'
+      title: "\u0421\u0442\u0430\u0442\u044C\u044F - \u0414\u043E\u0431\u044B\u0432\
+        \u0430\u0435\u043C \u0434\u043E\u0441\u0442\u0443\u043F\u044B \u0447\u0435\
+        \u0440\u0435\u0437 public CVE. Citrix"
+  concepts:
+  - dark_web
+  - malware
+- address: 1BKi3HPjrbbnhTYqoYyfeRfnvXoojXaFd1
+  label: Cracked.io - Profile of HHM_RDPS
+  currency: BTC
+  source: https://app.vysion.ai/document/BUh1Io0BPIZOLnqbapo6
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/BUh1Io0BPIZOLnqbapo6
+      url: cracked.io/HHM-RDPS
+      detection_date: '2024-01-19T16:02:16'
+      title: Cracked.io - Profile of HHM_RDPS
+  concepts:
+  - data_breach
+- address: bc1qqdda5dy842wc7ymnacls76rvnm60u9xsammjzd
+  label: Cracked.io - Profile of Zekh
+  currency: BTC
+  source: https://app.vysion.ai/document/rUieIo0BPIZOLnqbOJzO
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/rUieIo0BPIZOLnqbOJzO
+      url: cracked.io/Zekh
+      detection_date: '2024-01-19T16:46:51'
+      title: Cracked.io - Profile of Zekh
+  concepts:
+  - data_breach
+- address: 14hSXFH7mtxVapiadMVFmkK4wApiYu9jfA
+  label: Cracked.io - Profile of 0x314
+  currency: BTC
+  source: https://app.vysion.ai/document/zUifIo0BPIZOLnqbt5z_
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/zUifIo0BPIZOLnqbt5z_
+      url: cracked.io/0x314
+      detection_date: '2024-01-19T16:48:29'
+      title: Cracked.io - Profile of 0x314
+  concepts:
+  - data_breach
+- address: bc1q4uuwp403jykmrsrdv63k50gzy9dtf0tfx070pz
+  label: Cracked.io - Profile of Vansh
+  currency: BTC
+  source: https://app.vysion.ai/document/9UihIo0BPIZOLnqblpyr
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/9UihIo0BPIZOLnqblpyr
+      url: cracked.io/Vansh
+      detection_date: '2024-01-19T16:50:31'
+      title: Cracked.io - Profile of Vansh
+  concepts:
+  - data_breach
+- address: '0xb9016e1de36397961626a06e8e121ff2152a4ed2'
+  label: HackerGPT | XSS.is (ex DaMaGeLaB)
+  currency: ETH
+  source: https://app.vysion.ai/document/BkiiIo0BPIZOLnqb_50f
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/BkiiIo0BPIZOLnqb_50f
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/102302/
+      detection_date: '2024-01-19T16:52:03'
+      title: HackerGPT | XSS.is (ex DaMaGeLaB)
+  concepts:
+  - abuse
+  - dark_web
+- address: 1C2g3GxkaJNmFm9PkgG7fxKGs5fBEkqR4x
+  label: Cracked.io - Profile of Markim
+  currency: BTC
+  source: https://app.vysion.ai/document/40iqIo0BPIZOLnqbep3N
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/40iqIo0BPIZOLnqbep3N
+      url: cracked.io/Markim
+      detection_date: '2024-01-19T17:00:14'
+      title: Cracked.io - Profile of Markim
+  concepts:
+  - data_breach
+- address: 32rNKYukVo3t35HB5Sna8wx9JeEbQV8zR5
+  label: Cracked.io - Profile of Nazistu
+  currency: BTC
+  source: https://app.vysion.ai/document/RkiuIo0BPIZOLnqbKZ7T
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/RkiuIo0BPIZOLnqbKZ7T
+      url: cracked.io/Nazistu
+      detection_date: '2024-01-19T17:04:15'
+      title: Cracked.io - Profile of Nazistu
+  concepts:
+  - data_breach
+- address: 1CVw4KpQvZdu3vzaG84UwAsW3fjPtuJc6G
+  label: Cracked.io - Profile of Nazistu
+  currency: BTC
+  source: https://app.vysion.ai/document/RkiuIo0BPIZOLnqbKZ7T
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/RkiuIo0BPIZOLnqbKZ7T
+      url: cracked.io/Nazistu
+      detection_date: '2024-01-19T17:04:15'
+      title: Cracked.io - Profile of Nazistu
+  concepts:
+  - data_breach
+- address: bc1qsumderqf8t8qgghgdszrjxcw40jzk688c90k2q
+  label: Cracked.io - Profile of DestRoyer44
+  currency: BTC
+  source: https://app.vysion.ai/document/eEiwIo0BPIZOLnqb1J4J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/eEiwIo0BPIZOLnqb1J4J
+      url: cracked.io/DestRoyer44
+      detection_date: '2024-01-19T17:07:10'
+      title: Cracked.io - Profile of DestRoyer44
+  concepts:
+  - data_breach
+- address: 1H1uwm6S9qtwaPnekup5MhPKWgQmv1FTnz
+  label: Cracked.io - Profile of REDOXADMIN
+  currency: BTC
+  source: https://app.vysion.ai/document/6Ei1Io0BPIZOLnqbcZ4r
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/6Ei1Io0BPIZOLnqbcZ4r
+      url: cracked.io/REDOXADMIN
+      detection_date: '2024-01-19T17:12:12'
+      title: Cracked.io - Profile of REDOXADMIN
+  concepts:
+  - data_breach
+- address: bc1qt8leafxkg4v8fffzq34rjstg2lk5xk07ytqmde
+  label: Cracked.io - Profile of 81ER
+  currency: BTC
+  source: https://app.vysion.ai/document/Pki4Io0BPIZOLnqbzp-U
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/Pki4Io0BPIZOLnqbzp-U
+      url: cracked.io/81ER
+      detection_date: '2024-01-19T17:15:53'
+      title: Cracked.io - Profile of 81ER
+  concepts:
+  - data_breach
+- address: bc1qdy7ldntdayrk76d46t5sztw2fzjnvkcyz0akql
+  label: Cracked.io - Profile of pipin
+  currency: BTC
+  source: https://app.vysion.ai/document/30i8Io0BPIZOLnqbm5-R
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/30i8Io0BPIZOLnqbm5-R
+      url: cracked.io/pipin
+      detection_date: '2024-01-19T17:20:02'
+      title: Cracked.io - Profile of pipin
+  concepts:
+  - data_breach
+- address: 3LCkt5Me3LzapTNWHYJ8GGvb4SYNYcgRGY
+  label: Cracked.io - Profile of luvally
+  currency: BTC
+  source: https://app.vysion.ai/document/G0i_Io0BPIZOLnqbMqA4
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/G0i_Io0BPIZOLnqbMqA4
+      url: cracked.io/luvally
+      detection_date: '2024-01-19T17:22:52'
+      title: Cracked.io - Profile of luvally
+  concepts:
+  - data_breach
+- address: 1EfSce16qBSCnrJty4hRwYKJfMrcxuDpF2
+  label: Cracked.io - Profile of Frenchfamily
+  currency: BTC
+  source: https://app.vysion.ai/document/kEjEIo0BPIZOLnqbnqAi
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/kEjEIo0BPIZOLnqbnqAi
+      url: cracked.io/Frenchfamily
+      detection_date: '2024-01-19T17:28:47'
+      title: Cracked.io - Profile of Frenchfamily
+  concepts:
+  - data_breach
+- address: bc1quzmmzvmke5rhvqnsl9a5t2mcxykhwcx8fz96yu
+  label: Cracked.io - Profile of TriplexNyx
+  currency: BTC
+  source: https://app.vysion.ai/document/nEjEIo0BPIZOLnqbyqAs
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/nEjEIo0BPIZOLnqbyqAs
+      url: cracked.io/TriplexNyx
+      detection_date: '2024-01-19T17:28:58'
+      title: Cracked.io - Profile of TriplexNyx
+  concepts:
+  - data_breach
+- address: bc1q6sxu9gxmrghgpyca69wn8vw3xjv5mrxmwzesq5
+  label: Cracked.io - Profile of NamUnique
+  currency: BTC
+  source: https://app.vysion.ai/document/5EjHIo0BPIZOLnqbvqBt
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/5EjHIo0BPIZOLnqbvqBt
+      url: cracked.io/NamUnique
+      detection_date: '2024-01-19T17:32:12'
+      title: Cracked.io - Profile of NamUnique
+  concepts:
+  - data_breach
+- address: bc1qxzw0u2hl40hxpw0zjz82zzkl5mgjtp9xwkex6f
+  label: "DDoS TOR\u0430 \u0438 \u0431\u0430\u043D \u0434\u0435\u0441\u043A\u0440\u0438\
+    \u043F\u0442\u043E\u0440\u0430 \u043D\u0430 \u043D\u043E\u0434\u0430\u0445 | XSS.is\
+    \ (ex"
+  currency: BTC
+  source: https://app.vysion.ai/document/8kjfIo0BPIZOLnqbV6FJ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/8kjfIo0BPIZOLnqbV6FJ
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/105962/
+      detection_date: '2024-01-19T17:57:58'
+      title: "DDoS TOR\u0430 \u0438 \u0431\u0430\u043D \u0434\u0435\u0441\u043A\u0440\
+        \u0438\u043F\u0442\u043E\u0440\u0430 \u043D\u0430 \u043D\u043E\u0434\u0430\
+        \u0445 | XSS.is (ex"
+- address: '0x6FF29177A2a23F2CB5aa48a3be1BBb1Ad180E375'
+  label: isiewu (u/isiewu) - Redlib
+  currency: ETH
+  source: https://app.vysion.ai/document/7kmwMI0BPIZOLnqbjmL2
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/7kmwMI0BPIZOLnqbjmL2
+      url: lr.vern.i2p/user/isiewu
+      detection_date: '2024-01-22T10:21:33'
+      title: isiewu (u/isiewu) - Redlib
+- address: bc1qz3p7me4utyh58w5sd0uvxqg9rsmr99mt6ppwyy
+  label: Moon_z31's arbitration against Frukt911Tut | BHF.E
+  currency: BTC
+  source: https://app.vysion.ai/document/Ukr0RI0BPIZOLnqbI6-u
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/Ukr0RI0BPIZOLnqbI6-u
+      url: bhf2b5nb3lb2kxpaoyqz7cuk2dkgej5n2refuffxzyhldwt4d7de4zqd.onion/threads/683254/
+      detection_date: '2024-01-26T08:47:47'
+      title: Moon_z31's arbitration against Frukt911Tut | BHF.E
+  concepts:
+  - abuse
+  - dark_web
+- address: bc1q9cjmec4tgmgewr2d09m9yqul9yxfl6cnd4gqcu
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/7kuLUY0BPIZOLnqb-40J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/7kuLUY0BPIZOLnqb-40J
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/EhUZoISPoefirugY65b61e76cf4cd
+      detection_date: '2024-01-28T19:27:07'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware
+- address: bc1qs5wd3dx0akzkavzcu9jyj5tfa4775d47mcgtv6
+  label: "\u0421\u0431\u043E\u0440 \u043D\u0430 \u0442\u0430\u0447\u043A\u0443 \u0434\
+    \u043B\u044F \u0417\u0421\u0423. \u0414\u0435\u0434\u043B\u0430\u0439\u043D \u043F\
+    \u043E \u0441\u0431\u043E\u0440\u0443 \u0441\u0435\u0433\u043E\u0434\u043D\u044F\
+    ! \u0421"
+  currency: BTC
+  source: https://app.vysion.ai/document/0UsMVI0BPIZOLnqbx7t3
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/0UsMVI0BPIZOLnqbx7t3
+      url: lr.vern.i2p/r/tjournal_refugees/comments/196d01d/%D1%81%D0%B1%D0%BE%D1%80_%D0%BD%D0%B0_%D1%82%D0%B0%D1%87%D0%BA%D1%83_%D0%B4%D0%BB%D1%8F_%D0%B7%D1%81%D1%83_%D0%B4%D0%B5%D0%B4%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BF%D0%BE_%D1%81%D0%B1%D0%BE%D1%80%D1%83_%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F/
+      detection_date: '2024-01-29T07:09:00'
+      title: "\u0421\u0431\u043E\u0440 \u043D\u0430 \u0442\u0430\u0447\u043A\u0443\
+        \ \u0434\u043B\u044F \u0417\u0421\u0423. \u0414\u0435\u0434\u043B\u0430\u0439\
+        \u043D \u043F\u043E \u0441\u0431\u043E\u0440\u0443 \u0441\u0435\u0433\u043E\
+        \u0434\u043D\u044F! \u0421"
+  concepts:
+  - dark_web
+  - gambling
+- address: 41ePEWeLVpSR4gRPK3kNdphC8v973HSCTLND13SvL8PhXss5v9vNW41GsdcB3hqQf4XLks2csdC3RXLTfveEfE6QFdXFzKD
+  label: BreachForums - Profile of whitenigger
+  currency: XMR
+  source: https://app.vysion.ai/document/SUtjVI0BPIZOLnqbWcGf
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oUdLEY0BPIZOLnqbN3VQ
+      url: breachforums.is/User-whitenigger
+      detection_date: '2024-01-16T08:02:38'
+      title: BreachForums - Profile of whitenigger
+    - source: https://app.vysion.ai/document/SUtjVI0BPIZOLnqbWcGf
+      url: breachforums.is/User-whitenigger
+      detection_date: '2024-01-29T08:43:33'
+      title: BreachForums - Profile of whitenigger
+  concepts:
+  - data_breach
+- address: bc1qwvkdwcz48ugyxlwzs4hu05t45pxgxu5e3cmfln
+  label: BreachForums - Profile of whitenigger
+  currency: BTC
+  source: https://app.vysion.ai/document/SUtjVI0BPIZOLnqbWcGf
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oUdLEY0BPIZOLnqbN3VQ
+      url: breachforums.is/User-whitenigger
+      detection_date: '2024-01-16T08:02:38'
+      title: BreachForums - Profile of whitenigger
+    - source: https://app.vysion.ai/document/SUtjVI0BPIZOLnqbWcGf
+      url: breachforums.is/User-whitenigger
+      detection_date: '2024-01-29T08:43:33'
+      title: BreachForums - Profile of whitenigger
+  concepts:
+  - data_breach
+- address: 1JdBWtt995mHH7uYbPjZJNDeh1KxvFMYgB
+  label: "Redlib: search results - flair_name:&quot;Pol\xEDtica"
+  currency: BTC
+  source: https://app.vysion.ai/document/zUtNVo0BPIZOLnqb8N_Z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/zUtNVo0BPIZOLnqb8N_Z
+      url: lr.vern.i2p/r/vzla/search?q=flair_name%3A%22Pol%C3%ADtica%22&restrict_sr=on
+      detection_date: '2024-01-29T17:39:24'
+      title: "Redlib: search results - flair_name:&quot;Pol\xEDtica"
+  concepts:
+  - dark_web
+  - extremism
+- address: bc1qdxwprcu6scgugvq7ajllgqw7guz9pa5vcew99w
+  label: "TXT - \u27A4 \u0421\u0431\u043E\u0440\u043D\u0438\u043A\u0438 \u0431\u0430\
+    \u0437, compilations, \u043A\u043E\u043C\u0431\u043E, mix, \u043D\u0435"
+  currency: BTC
+  source: https://app.vysion.ai/document/xUxtWY0BPIZOLnqbrBZ0
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/xUxtWY0BPIZOLnqbrBZ0
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/81916/page-58
+      detection_date: '2024-01-30T08:12:56'
+      title: "TXT - \u27A4 \u0421\u0431\u043E\u0440\u043D\u0438\u043A\u0438 \u0431\
+        \u0430\u0437, compilations, \u043A\u043E\u043C\u0431\u043E, mix, \u043D\u0435"
+  concepts:
+  - abuse
+  - dark_web
+- address: '0x2D4Bc7aD9fbB4096cCe72aAd66c533ED0A3AE6e6'
+  label: "TXT - \u27A4 \u0421\u0431\u043E\u0440\u043D\u0438\u043A\u0438 \u0431\u0430\
+    \u0437, compilations, \u043A\u043E\u043C\u0431\u043E, mix, \u043D\u0435"
+  currency: ETH
+  source: https://app.vysion.ai/document/xUxtWY0BPIZOLnqbrBZ0
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/xUxtWY0BPIZOLnqbrBZ0
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/81916/page-58
+      detection_date: '2024-01-30T08:12:56'
+      title: "TXT - \u27A4 \u0421\u0431\u043E\u0440\u043D\u0438\u043A\u0438 \u0431\
+        \u0430\u0437, compilations, \u043A\u043E\u043C\u0431\u043E, mix, \u043D\u0435"
+  concepts:
+  - abuse
+  - dark_web
+- address: bc1qdxwprcu6scgugvq7ajllgqw7guz9pa5vcew99w
+  label: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\u0431\
+    \ \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\u0440\u043E\
+    \u043C \u043A\u0440\u0438\u043F\u0442\u044B | XS"
+  currency: BTC
+  source: https://app.vysion.ai/document/nkzaWY0BPIZOLnqbXh7J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/nkzaWY0BPIZOLnqbXh7J
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/106679/
+      detection_date: '2024-01-30T10:11:39'
+      title: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\
+        \u0431 \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\
+        \u0440\u043E\u043C \u043A\u0440\u0438\u043F\u0442\u044B | XS"
+  concepts:
+  - abuse
+  - dark_web
+- address: bc1q8awux3kamcwyz3az9y8jjpnc55cay4lt4y6epm
+  label: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\u0431\
+    \ \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\u0440\u043E\
+    \u043C \u043A\u0440\u0438\u043F\u0442\u044B | XS"
+  currency: BTC
+  source: https://app.vysion.ai/document/nkzaWY0BPIZOLnqbXh7J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/nkzaWY0BPIZOLnqbXh7J
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/106679/
+      detection_date: '2024-01-30T10:11:39'
+      title: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\
+        \u0431 \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\
+        \u0440\u043E\u043C \u043A\u0440\u0438\u043F\u0442\u044B | XS"
+  concepts:
+  - abuse
+  - dark_web
+- address: '0x2D4Bc7aD9fbB4096cCe72aAd66c533ED0A3AE6e6'
+  label: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\u0431\
+    \ \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\u0440\u043E\
+    \u043C \u043A\u0440\u0438\u043F\u0442\u044B | XS"
+  currency: ETH
+  source: https://app.vysion.ai/document/nkzaWY0BPIZOLnqbXh7J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/nkzaWY0BPIZOLnqbXh7J
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/106679/
+      detection_date: '2024-01-30T10:11:39'
+      title: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\
+        \u0431 \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\
+        \u0440\u043E\u043C \u043A\u0440\u0438\u043F\u0442\u044B | XS"
+  concepts:
+  - abuse
+  - dark_web
+- address: bc1q8awux3kamcwyz3az9y8jjpnc55cay4lt4y6epm
+  label: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\u0431\
+    \ \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\u0440\u043E\
+    \u043C \u043A\u0440\u0438\u043F\u0442\u044B | Pa"
+  currency: BTC
+  source: https://app.vysion.ai/document/akziWY0BPIZOLnqb7R8I
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/akziWY0BPIZOLnqb7R8I
+      url: xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/106679/page-3
+      detection_date: '2024-01-30T10:21:00'
+      title: "XSSLite \u0421\u0442\u0438\u043B\u043B\u0435\u0440 \u0441 \u0432\u0435\
+        \u0431 \u043F\u0430\u043D\u0435\u043B\u044C\u044E \u0438 \u0441\u0431\u043E\
+        \u0440\u043E\u043C \u043A\u0440\u0438\u043F\u0442\u044B | Pa"
+  concepts:
+  - abuse
+  - dark_web
+- address: '0x63bca26eeebdc73267507293886157e9921bbab5'
+  label: Here's The Big Picture For Anyone Who Thinks That
+  currency: ETH
+  source: https://app.vysion.ai/document/GkzkXI0BPIZOLnqbCE_J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/GkzkXI0BPIZOLnqbCE_J
+      url: lr.vern.i2p/r/BBBY/comments/14s5inv/heres_the_big_picture_for_anyone_who_thinks_that/
+      detection_date: '2024-01-31T00:21:04'
+      title: Here's The Big Picture For Anyone Who Thinks That
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0xb8689c6f84b8f6dbcf1c0a114538f65231455a60'
+  label: Here's The Big Picture For Anyone Who Thinks That
+  currency: ETH
+  source: https://app.vysion.ai/document/GkzkXI0BPIZOLnqbCE_J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/GkzkXI0BPIZOLnqbCE_J
+      url: lr.vern.i2p/r/BBBY/comments/14s5inv/heres_the_big_picture_for_anyone_who_thinks_that/
+      detection_date: '2024-01-31T00:21:04'
+      title: Here's The Big Picture For Anyone Who Thinks That
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0xcbe7b32e62c7d931a28f747bba3a0afa7da95169'
+  label: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  currency: ETH
+  source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+      url: lr.vern.i2p/r/CryptoCurrency/search?q=flair_name%3A%22ANALYSIS%22&restrict_sr=on
+      detection_date: '2024-01-31T02:41:06'
+      title: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0xf8EBfaCb4768b4152dd38416c1EA5FD143F5F807'
+  label: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  currency: ETH
+  source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+      url: lr.vern.i2p/r/CryptoCurrency/search?q=flair_name%3A%22ANALYSIS%22&restrict_sr=on
+      detection_date: '2024-01-31T02:41:06'
+      title: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0x4c10a462CD1e639Da8A062aE8a33a23401120ab1'
+  label: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  currency: ETH
+  source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+      url: lr.vern.i2p/r/CryptoCurrency/search?q=flair_name%3A%22ANALYSIS%22&restrict_sr=on
+      detection_date: '2024-01-31T02:41:06'
+      title: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0x623F1C5730667D1B48737127f1cBaBB5b87d0943'
+  label: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  currency: ETH
+  source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+      url: lr.vern.i2p/r/CryptoCurrency/search?q=flair_name%3A%22ANALYSIS%22&restrict_sr=on
+      detection_date: '2024-01-31T02:41:06'
+      title: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0xaBd75CD4117fa7BFaA096f581abceC69b8D68F50'
+  label: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  currency: ETH
+  source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+      url: lr.vern.i2p/r/CryptoCurrency/search?q=flair_name%3A%22ANALYSIS%22&restrict_sr=on
+      detection_date: '2024-01-31T02:41:06'
+      title: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0xbb4fe89c03d8321c5bfed612fb76f0756ac7e99c'
+  label: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  currency: ETH
+  source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/ekxkXY0BPIZOLnqbOlhm
+      url: lr.vern.i2p/r/CryptoCurrency/search?q=flair_name%3A%22ANALYSIS%22&restrict_sr=on
+      detection_date: '2024-01-31T02:41:06'
+      title: 'Redlib: search results - flair_name:&quot;ANALYSIS'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 3NEqdTJDcELgvJvyxZUuD3ia1uG9pq1dUb
+  label: jesterboyd (u/jesterboyd) - Redlib
+  currency: BTC
+  source: https://app.vysion.ai/document/V0yoXY0BPIZOLnqb6F2-
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/V0yoXY0BPIZOLnqb6F2-
+      url: lr.vern.i2p/user/jesterboyd
+      detection_date: '2024-01-31T03:56:07'
+      title: jesterboyd (u/jesterboyd) - Redlib
+- address: bc1qq4xrlvts0jqns7m9v6fuyj2atscnksk5sk8m8z
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/RkwLYI0BPIZOLnqbj4tE
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/RkwLYI0BPIZOLnqbj4tE
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/BMwAS4fLCVjTEUt865b99757bf96a
+      detection_date: '2024-01-31T15:01:14'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware

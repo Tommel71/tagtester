@@ -1,0 +1,102 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: '0x0000007b02230091a7ed01230072f7006a004d60'
+  label: fs_tem
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/7876546488
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7876546488
+      url: https://app.vysion.ai/telegram/user/7876546488
+      detection_date: '2025-05-14T20:35:59.208031'
+      title: fs_tem
+  concepts:
+  - messaging_service
+- address: '0x004C00500000aD104D7DBd00e3ae0A5C00560C00'
+  label: fs_tem
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/7876546488
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7876546488
+      url: https://app.vysion.ai/telegram/user/7876546488
+      detection_date: '2025-05-14T20:35:59.208031'
+      title: fs_tem
+  concepts:
+  - messaging_service
+- address: '0xd45085438be564b3faf5eac2c26ef57cef1ff7db'
+  label: crimewarer
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/7788910945
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7788910945
+      url: https://app.vysion.ai/telegram/user/7788910945
+      detection_date: '2025-05-20T06:36:09.882802'
+      title: crimewarer
+  concepts:
+  - messaging_service
+- address: '0x520E206914F7dC8d3d0ea697A2BBa66836a80899'
+  label: CARDER_HE_HU_BSDK_7
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/-1002570435436
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1002570435436
+      url: https://app.vysion.ai/telegram/user/-1002570435436
+      detection_date: '2025-05-20T15:53:32.690475'
+      title: CARDER_HE_HU_BSDK_7
+  concepts:
+  - messaging_service
+- address: bc1qw6tzc7hh00q2e4skcqrwueyjuaann7nkxf5lxt
+  label: CARDER_HE_HU_BSDK_7
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/-1002570435436
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1002570435436
+      url: https://app.vysion.ai/telegram/user/-1002570435436
+      detection_date: '2025-05-20T15:53:32.690475'
+      title: CARDER_HE_HU_BSDK_7
+  concepts:
+  - messaging_service
+- address: bc1qt9jeet47ctketz2ssp5prmlap5fnf6f4drhfs7
+  label: blackhathackars
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/-1002566113683
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1002566113683
+      url: https://app.vysion.ai/telegram/user/-1002566113683
+      detection_date: '2025-05-20T18:41:13.108740'
+      title: blackhathackars
+  concepts:
+  - messaging_service
+- address: bc1pj24rmu656ymxsuyrrxw8l96tc5nhvssqp8tnlkf6q66gup6agt5qyh9rg7
+  label: Telegram Mention
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/-1002419011564
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1002419011564
+      url: https://app.vysion.ai/telegram/user/-1002419011564
+      detection_date: '2025-05-28T20:28:21.470523'
+      title: Telegram Mention
+  concepts:
+  - messaging_service
+- address: '0x8E6D50b857f0Ff2547D14b6CE36a1785ac14B5Bf'
+  label: Telegram Mention
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/-1002419011564
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1002419011564
+      url: https://app.vysion.ai/telegram/user/-1002419011564
+      detection_date: '2025-05-28T20:28:21.470523'
+      title: Telegram Mention
+  concepts:
+  - messaging_service

@@ -1,0 +1,2926 @@
+confidence: web_crawl
+title: Darknet Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: 14u6KtrZfNNsKkPsMk4wG5YabsHwfpiQ7z
+  label: Bitcoin Talk Database - Leaked, Download! | Breach
+  currency: BTC
+  source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/AaFRJJIBvsApDWpZEsR_
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-09-24T13:55:45'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/XKeWb5IBvsApDWpZR1MK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-09T04:42:52'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/N6hMeZIBvsApDWpZMRb9
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-11T01:58:09'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/vKgZhJIBvsApDWpZhu2r
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-13T04:18:38'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/K6oXm5IBvsApDWpZ4Lbl
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-17T15:28:06'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/r7Ei3pIBvsApDWpZLkFh
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-30T15:53:54'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/ELJ465IBvsApDWpZIgQb
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-02T06:02:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/YrNZ-pIBvsApDWpZpQaK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-05T03:23:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/6wNBGJMBw8DvBpLileFT
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-10T22:46:11'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/Ki3kSpMB-uj2kUxlVB97
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-20T18:44:58'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/MvK0q5MBhckrot2rFG_G
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-12-09T13:55:25'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2025-01-08T20:56:26'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+  concepts:
+  - data_breach
+- address: 1Dnvwj3hAGSwFPMnkJZvi3KnaqksRPa74p
+  label: Bitcoin Talk Database - Leaked, Download! | Breach
+  currency: BTC
+  source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/AaFRJJIBvsApDWpZEsR_
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-09-24T13:55:45'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/XKeWb5IBvsApDWpZR1MK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-09T04:42:52'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/N6hMeZIBvsApDWpZMRb9
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-11T01:58:09'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/vKgZhJIBvsApDWpZhu2r
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-13T04:18:38'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/K6oXm5IBvsApDWpZ4Lbl
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-17T15:28:06'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/r7Ei3pIBvsApDWpZLkFh
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-30T15:53:54'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/ELJ465IBvsApDWpZIgQb
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-02T06:02:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/YrNZ-pIBvsApDWpZpQaK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-05T03:23:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/6wNBGJMBw8DvBpLileFT
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-10T22:46:11'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/Ki3kSpMB-uj2kUxlVB97
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-20T18:44:58'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/MvK0q5MBhckrot2rFG_G
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-12-09T13:55:25'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2025-01-08T20:56:26'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+  concepts:
+  - data_breach
+- address: 1PyNKEyqtDFB4HBG8ueDVxdPZfgwC6gAqw
+  label: Bitcoin Talk Database - Leaked, Download! | Breach
+  currency: BTC
+  source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/AaFRJJIBvsApDWpZEsR_
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-09-24T13:55:45'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/XKeWb5IBvsApDWpZR1MK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-09T04:42:52'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/N6hMeZIBvsApDWpZMRb9
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-11T01:58:09'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/vKgZhJIBvsApDWpZhu2r
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-13T04:18:38'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/K6oXm5IBvsApDWpZ4Lbl
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-17T15:28:06'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/r7Ei3pIBvsApDWpZLkFh
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-30T15:53:54'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/ELJ465IBvsApDWpZIgQb
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-02T06:02:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/YrNZ-pIBvsApDWpZpQaK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-05T03:23:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/6wNBGJMBw8DvBpLileFT
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-10T22:46:11'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/Ki3kSpMB-uj2kUxlVB97
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-20T18:44:58'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/MvK0q5MBhckrot2rFG_G
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-12-09T13:55:25'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2025-01-08T20:56:26'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+  concepts:
+  - data_breach
+- address: 17Pj8jpUgY6qTaKgiopL5U48zxU4rTrkuB
+  label: Bitcoin Talk Database - Leaked, Download! | Breach
+  currency: BTC
+  source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/AaFRJJIBvsApDWpZEsR_
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-09-24T13:55:45'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/XKeWb5IBvsApDWpZR1MK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-09T04:42:52'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/N6hMeZIBvsApDWpZMRb9
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-11T01:58:09'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/vKgZhJIBvsApDWpZhu2r
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-13T04:18:38'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/K6oXm5IBvsApDWpZ4Lbl
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-17T15:28:06'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/r7Ei3pIBvsApDWpZLkFh
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-10-30T15:53:54'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/ELJ465IBvsApDWpZIgQb
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-02T06:02:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/YrNZ-pIBvsApDWpZpQaK
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-05T03:23:51'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/6wNBGJMBw8DvBpLileFT
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-10T22:46:11'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/Ki3kSpMB-uj2kUxlVB97
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-11-20T18:44:58'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/MvK0q5MBhckrot2rFG_G
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2024-12-09T13:55:25'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+    - source: https://app.vysion.ai/document/9_i0R5QBhckrot2rTsDV
+      url: breachforums.st/showthread.php?tid=606
+      detection_date: '2025-01-08T20:56:26'
+      title: Bitcoin Talk Database - Leaked, Download! | Breach
+  concepts:
+  - data_breach
+- address: '0xf81cf1dd49ff36626c75a4941ff8751e09ba4da7'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0xce50a822e4b4499cd99c7bc94c39dcc4c0f86abd'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x12f79d00de838bdf24e489b9c206fa2c76e386e7'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0xa44bff887dcf0248aa7c818b8c5495962db11a8f'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x5577cda609debe2b1f0e260a38cad1658916dde9'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x78fdb3dffbee1a93fb627182bf6c292b0b87918a'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x21df0660d9f68f9b9f220e1507db2a7898819c76'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x886d009ebd86accab98ac6a116cfb209af7ae33d'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x3f5456ceee04100dc70985a0ebe71676b8c9b415'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x844c05a3f59b2157e3ffa6f2e584bccf625a9eae'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x07da257ad1592b757a50e17ba8d267fe0e93aee1'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x2d44cbf32c8c494c3a0be1caf49a2a0a0316242f'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x1275514d9b7ac85452aad00d6065b8c49d697f0d'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x799e67743108973d666bf55fae6ca1831b2d8d3b'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0xfdc000f0ccd37d968365f9dbc2082fd4e361adb3'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0xcf5f2b3759bfa199a8ed821b4951dc16c2b019fb'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: '0x1bbfdae9e5197d568dace1e8f2ba4457bd914057'
+  label: Tokensoft Database - Leaked, Download! | BreachFor
+  currency: ETH
+  source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NJrtt5EBvsApDWpZAANk
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-09-03T12:47:28'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Aaf3cJIBvsApDWpZg3J_
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-09T11:08:42'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/wqh9epIBvsApDWpZQi4S
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-11T07:31:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/m6iag5IBvsApDWpZBuGx
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-13T01:59:22'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/Iao4nJIBvsApDWpZBM_b
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-17T20:42:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/-7E135IBvsApDWpZlE-R
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-10-30T20:54:43'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/I7GQ5pIBvsApDWpZ6bwj
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-01T07:11:49'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/6LIn8JIBvsApDWpZqlAN
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-03T03:53:04'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/EAbySJMBw8DvBpLiBf6e
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2024-11-20T09:40:40'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+    - source: https://app.vysion.ai/document/V_jAR5QBhckrot2rHsFQ
+      url: breachforums.st/showthread.php?tid=42805
+      detection_date: '2025-01-08T21:09:20'
+      title: Tokensoft Database - Leaked, Download! | BreachFor
+  concepts:
+  - data_breach
+- address: bc1qrghnt6cqdsxt0qmlcaq0wcavq6pmfm82vtxfeq
+  label: Kafr-yona.muni.il Data sell | BreachForums
+  currency: BTC
+  source: https://app.vysion.ai/document/x_gbSpQBhckrot2rLMuz
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/x_gbSpQBhckrot2rLMuz
+      url: breachforums.st/Thread-SELLING-Kafr-yona-muni-il-Data-sell
+      detection_date: '2025-01-09T08:08:02'
+      title: Kafr-yona.muni.il Data sell | BreachForums
+  concepts:
+  - data_breach
+- address: '0x9d67ec936d70e6d471dc1ca6c4413d2a174dd530'
+  label: Cryptocurrency News & Discussion
+  currency: ETH
+  source: https://app.vysion.ai/document/mflhaZQBhckrot2r45Di
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/mflhaZQBhckrot2r45Di
+      url: lr.vern.i2p/r/CryptoCurrency
+      detection_date: '2025-01-15T09:53:30'
+      title: Cryptocurrency News & Discussion
+  concepts:
+  - dark_web
+- address: '0x7fa626dff00df36796746340f5158ecf6da13a2b'
+  label: Cryptocurrency News & Discussion
+  currency: ETH
+  source: https://app.vysion.ai/document/mflhaZQBhckrot2r45Di
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/mflhaZQBhckrot2r45Di
+      url: lr.vern.i2p/r/CryptoCurrency
+      detection_date: '2025-01-15T09:53:30'
+      title: Cryptocurrency News & Discussion
+  concepts:
+  - dark_web
+- address: 1DNstATs59JANuXjbpS5ngWHqvApAhYHBS
+  label: DNStats onion links - The DarkNet Monitor
+  currency: BTC
+  source: https://app.vysion.ai/document/afkBapQBhckrot2rTJnj
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/afkBapQBhckrot2rTJnj
+      url: darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/hs/dnstats.html
+      detection_date: '2025-01-15T12:47:37'
+      title: DNStats onion links - The DarkNet Monitor
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1N98rwJjwh9uyRdraYMkdgTYrSn83Hp82R
+  label: DNStats onion links - The DarkNet Monitor
+  currency: BTC
+  source: https://app.vysion.ai/document/afkBapQBhckrot2rTJnj
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/afkBapQBhckrot2rTJnj
+      url: darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/hs/dnstats.html
+      detection_date: '2025-01-15T12:47:37'
+      title: DNStats onion links - The DarkNet Monitor
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: '0x7ecd8013C950d2107A2A503ceD90eF3eaef5e4eC'
+  label: Dark Web Mention
+  currency: ETH
+  source: https://app.vysion.ai/document/T_lWapQBhckrot2r0Zxh
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/BGNvto4BPIZOLnqbtXwU
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/btc-e-admin-arrested
+      detection_date: '2024-04-07T02:42:37'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/g2bV144BPIZOLnqbmQhK
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/btc-e-admin-arrested
+      detection_date: '2024-04-13T14:21:23'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/amyxAJABPIZOLnqbB_34
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-drug-vendor-firebunnyusa-busted
+      detection_date: '2024-06-10T05:48:40'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/lWzEAJABPIZOLnqbQf5l
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/btc-e-admin-arrested
+      detection_date: '2024-06-10T06:09:40'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/PvlVapQBhckrot2r8JzV
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-drug-vendor-firebunnyusa-busted
+      detection_date: '2025-01-15T14:20:04'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/T_lWapQBhckrot2r0Zxh
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/btc-e-admin-arrested
+      detection_date: '2025-01-15T14:21:02'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 4KHQkZ4MmVePC2yau6Mb8vhuGGy8LVdsZD8CFcQJvr4BSTfC5AQX3aXCn5RiDPjvsEHiJu1TC1ybR8pRTCbZM5bhTrAD3HDwWMtAn1K7nV
+  label: Monero tools | Monero - secure, private, untraceab
+  currency: XMR
+  source: https://app.vysion.ai/document/d_lKbpQBhckrot2r5tKI
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/d_lKbpQBhckrot2r5tKI
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/resources/user-guides/monero-wallet-cli.html
+      detection_date: '2025-01-16T08:46:29'
+      title: Monero tools | Monero - secure, private, untraceab
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: Address | Moneropedia | Monero - secure, private,
+  currency: XMR
+  source: https://app.vysion.ai/document/3vlNbpQBhckrot2r1NIe
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/3vlNbpQBhckrot2r1NIe
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/resources/moneropedia/address.html
+      detection_date: '2025-01-16T08:49:41'
+      title: Address | Moneropedia | Monero - secure, private,
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+  currency: XMR
+  source: https://app.vysion.ai/document/o_lQbpQBhckrot2rF9Np
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/tPlMbpQBhckrot2rINIW
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/fr/get-started/contributing/
+      detection_date: '2025-01-16T08:47:50'
+      title: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+    - source: https://app.vysion.ai/document/o_lQbpQBhckrot2rF9Np
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/fr/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+  currency: XMR
+  source: https://app.vysion.ai/document/o_lQbpQBhckrot2rF9Np
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/tPlMbpQBhckrot2rINIW
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/fr/get-started/contributing/
+      detection_date: '2025-01-16T08:47:50'
+      title: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+    - source: https://app.vysion.ai/document/o_lQbpQBhckrot2rF9Np
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/fr/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+  currency: BTC
+  source: https://app.vysion.ai/document/o_lQbpQBhckrot2rF9Np
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/tPlMbpQBhckrot2rINIW
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/fr/get-started/contributing/
+      detection_date: '2025-01-16T08:47:50'
+      title: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+    - source: https://app.vysion.ai/document/o_lQbpQBhckrot2rF9Np
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/fr/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Am\xE9liorer Monero | Monero - s\xE9curis\xE9, confidentiel"
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+  currency: XMR
+  source: https://app.vysion.ai/document/pvlQbpQBhckrot2rG9NE
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618c34ddc401c6ec11471988
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/
+      detection_date: '2021-11-10T21:08:45'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/618cdb58c401c6ec1191e955
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2021-11-11T08:59:04'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/6298795d91462d18a47342ba
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/
+      detection_date: '2022-06-02T08:48:29.419981'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/629879e391462d18a4739b02
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:43.018151'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/62a52f704d4d8b96232ef0b5
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2022-06-12T00:12:32.426238'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/64adab5a7e05b14f945b90dc
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/pl/get-started/contributing/
+      detection_date: '2023-07-11T19:19:54.308000'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/64adbd007e05b14f945bc2e6
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/pl/get-started/contributing/index.html
+      detection_date: '2023-07-11T20:35:12.471000'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/64adbf3566d52c4e5d9a54cb
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/pl/get-started/contributing/
+      detection_date: '2023-07-11T20:44:37.619000'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/UflKbpQBhckrot2rTdJb
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/
+      detection_date: '2025-01-16T08:45:50'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/pvlQbpQBhckrot2rG9NE
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:11'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+  concepts:
+  - dark_web
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+  currency: BTC
+  source: https://app.vysion.ai/document/pvlQbpQBhckrot2rG9NE
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618c34ddc401c6ec11471988
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/
+      detection_date: '2021-11-10T21:08:45'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/618cdb58c401c6ec1191e955
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2021-11-11T08:59:04'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/6298795d91462d18a47342ba
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/
+      detection_date: '2022-06-02T08:48:29.419981'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/629879e391462d18a4739b02
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:43.018151'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/62a52f704d4d8b96232ef0b5
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2022-06-12T00:12:32.426238'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/64adab5a7e05b14f945b90dc
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/pl/get-started/contributing/
+      detection_date: '2023-07-11T19:19:54.308000'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/64adbd007e05b14f945bc2e6
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/pl/get-started/contributing/index.html
+      detection_date: '2023-07-11T20:35:12.471000'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/64adbf3566d52c4e5d9a54cb
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/pl/get-started/contributing/
+      detection_date: '2023-07-11T20:44:37.619000'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/UflKbpQBhckrot2rTdJb
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/
+      detection_date: '2025-01-16T08:45:50'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/pvlQbpQBhckrot2rG9NE
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:11'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+  concepts:
+  - dark_web
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+  currency: XMR
+  source: https://app.vysion.ai/document/pvlQbpQBhckrot2rG9NE
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/UflKbpQBhckrot2rTdJb
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/
+      detection_date: '2025-01-16T08:45:50'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+    - source: https://app.vysion.ai/document/pvlQbpQBhckrot2rG9NE
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pl/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:11'
+      title: Ulepszanie Monero | Monero - bezpieczne, prywatne,
+  concepts:
+  - dark_web
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+  currency: XMR
+  source: https://app.vysion.ai/document/p_lQbpQBhckrot2rJNPG
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/HPlObpQBhckrot2rT9Ou
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pt-br/get-started/contributing/
+      detection_date: '2025-01-16T08:50:13'
+      title: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+    - source: https://app.vysion.ai/document/p_lQbpQBhckrot2rJNPG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pt-br/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:13'
+      title: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+  currency: XMR
+  source: https://app.vysion.ai/document/p_lQbpQBhckrot2rJNPG
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/HPlObpQBhckrot2rT9Ou
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pt-br/get-started/contributing/
+      detection_date: '2025-01-16T08:50:13'
+      title: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+    - source: https://app.vysion.ai/document/p_lQbpQBhckrot2rJNPG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pt-br/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:13'
+      title: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+  currency: BTC
+  source: https://app.vysion.ai/document/p_lQbpQBhckrot2rJNPG
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/HPlObpQBhckrot2rT9Ou
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pt-br/get-started/contributing/
+      detection_date: '2025-01-16T08:50:13'
+      title: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+    - source: https://app.vysion.ai/document/p_lQbpQBhckrot2rJNPG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/pt-br/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:13'
+      title: "Melhorando o Monero | Monero - seguro, privado, n\xE3"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\u65E0\
+    \u6CD5\u8FFD\u8E2A"
+  currency: BTC
+  source: https://app.vysion.ai/document/qflQbpQBhckrot2rJ9Oe
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/CvlObpQBhckrot2rLNPs
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-cn/get-started/contributing/
+      detection_date: '2025-01-16T08:50:04'
+      title: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\
+        \u65E0\u6CD5\u8FFD\u8E2A"
+    - source: https://app.vysion.ai/document/qflQbpQBhckrot2rJ9Oe
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-cn/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:14'
+      title: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\
+        \u65E0\u6CD5\u8FFD\u8E2A"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+    \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+    \u5E63"
+  currency: XMR
+  source: https://app.vysion.ai/document/qvlQbpQBhckrot2rKNOO
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/FPlObpQBhckrot2rP9OY
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-tw/get-started/contributing/
+      detection_date: '2025-01-16T08:50:09'
+      title: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+        \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+        \u5E63"
+    - source: https://app.vysion.ai/document/qvlQbpQBhckrot2rKNOO
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-tw/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:14'
+      title: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+        \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+        \u5E63"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\u65E0\
+    \u6CD5\u8FFD\u8E2A"
+  currency: XMR
+  source: https://app.vysion.ai/document/qflQbpQBhckrot2rJ9Oe
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/CvlObpQBhckrot2rLNPs
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-cn/get-started/contributing/
+      detection_date: '2025-01-16T08:50:04'
+      title: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\
+        \u65E0\u6CD5\u8FFD\u8E2A"
+    - source: https://app.vysion.ai/document/qflQbpQBhckrot2rJ9Oe
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-cn/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:14'
+      title: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\
+        \u65E0\u6CD5\u8FFD\u8E2A"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+    \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+    \u5E63"
+  currency: BTC
+  source: https://app.vysion.ai/document/qvlQbpQBhckrot2rKNOO
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/FPlObpQBhckrot2rP9OY
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-tw/get-started/contributing/
+      detection_date: '2025-01-16T08:50:09'
+      title: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+        \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+        \u5E63"
+    - source: https://app.vysion.ai/document/qvlQbpQBhckrot2rKNOO
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-tw/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:14'
+      title: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+        \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+        \u5E63"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\u65E0\
+    \u6CD5\u8FFD\u8E2A"
+  currency: XMR
+  source: https://app.vysion.ai/document/qflQbpQBhckrot2rJ9Oe
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/CvlObpQBhckrot2rLNPs
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-cn/get-started/contributing/
+      detection_date: '2025-01-16T08:50:04'
+      title: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\
+        \u65E0\u6CD5\u8FFD\u8E2A"
+    - source: https://app.vysion.ai/document/qflQbpQBhckrot2rJ9Oe
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-cn/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:14'
+      title: "\u6350\u732E | \u95E8\u7F57\u5E01-\u5B89\u5168\u3001\u9690\u79C1\u3001\
+        \u65E0\u6CD5\u8FFD\u8E2A"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+    \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+    \u5E63"
+  currency: XMR
+  source: https://app.vysion.ai/document/qvlQbpQBhckrot2rKNOO
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/FPlObpQBhckrot2rP9OY
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-tw/get-started/contributing/
+      detection_date: '2025-01-16T08:50:09'
+      title: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+        \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+        \u5E63"
+    - source: https://app.vysion.ai/document/qvlQbpQBhckrot2rKNOO
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/zh-tw/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:14'
+      title: "\u6539\u5584\u9580\u7F85\u5E63 | \u9580\u7F85\u5E63 - \u5B89\u5168\u3001\
+        \u4FDD\u8B77\u96B1\u79C1\u4E14\u5B8C\u5168\u533F\u8E64\u7684\u52A0\u5BC6\u8CA8\
+        \u5E63"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+  currency: XMR
+  source: https://app.vysion.ai/document/sPlQbpQBhckrot2rgNMq
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/__lJbpQBhckrot2rAdGG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/de/get-started/contributing/
+      detection_date: '2025-01-16T08:44:25'
+      title: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+    - source: https://app.vysion.ai/document/sPlQbpQBhckrot2rgNMq
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/de/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:36'
+      title: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+  concepts:
+  - dark_web
+  - extremism
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+  currency: XMR
+  source: https://app.vysion.ai/document/sPlQbpQBhckrot2rgNMq
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/__lJbpQBhckrot2rAdGG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/de/get-started/contributing/
+      detection_date: '2025-01-16T08:44:25'
+      title: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+    - source: https://app.vysion.ai/document/sPlQbpQBhckrot2rgNMq
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/de/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:36'
+      title: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+  concepts:
+  - dark_web
+  - extremism
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+  currency: BTC
+  source: https://app.vysion.ai/document/sPlQbpQBhckrot2rgNMq
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/__lJbpQBhckrot2rAdGG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/de/get-started/contributing/
+      detection_date: '2025-01-16T08:44:25'
+      title: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+    - source: https://app.vysion.ai/document/sPlQbpQBhckrot2rgNMq
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/de/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:36'
+      title: "Monero verbessern | Monero \u2013 sicher, privat, nicht"
+  concepts:
+  - dark_web
+  - extremism
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 Monero\
+    \ | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\u03B9\u03C9\
+    \u03C4\u03B9\u03BA\u03CC,"
+  currency: BTC
+  source: https://app.vysion.ai/document/svlQbpQBhckrot2rg9NO
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618cdc19c401c6ec11920211
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2021-11-11T09:02:17'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/6298786291462d18a472d573
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/
+      detection_date: '2022-06-02T08:44:18.372465'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/629879e291462d18a4739a54
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:42.257671'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/62a52f673aee1767d213405b
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2022-06-12T00:12:23.802505'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/64adb29466d52c4e5d9a32d1
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/el/get-started/contributing/index.html
+      detection_date: '2023-07-11T19:50:44.415000'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/64adb4c37e05b14f945babfd
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/el/get-started/contributing/
+      detection_date: '2023-07-11T20:00:03.602000'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/64adc59f66d52c4e5d9a65d3
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/el/get-started/contributing/
+      detection_date: '2023-07-11T21:11:59.086000'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/5vlIbpQBhckrot2r1tH9
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/
+      detection_date: '2025-01-16T08:44:14'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/svlQbpQBhckrot2rg9NO
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:37'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+  concepts:
+  - dark_web
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648 | \u0645\
+    \u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\u064A , \u0644\
+    \u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\u0627"
+  currency: BTC
+  source: https://app.vysion.ai/document/sflQbpQBhckrot2rgtNy
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/f_lPbpQBhckrot2rjtOp
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ar/get-started/contributing/
+      detection_date: '2025-01-16T08:51:35'
+      title: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648\
+        \ | \u0645\u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\
+        \u064A , \u0644\u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\
+        \u0627"
+    - source: https://app.vysion.ai/document/sflQbpQBhckrot2rgtNy
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ar/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:37'
+      title: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648\
+        \ | \u0645\u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\
+        \u064A , \u0644\u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\
+        \u0627"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 Monero\
+    \ | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\u03B9\u03C9\
+    \u03C4\u03B9\u03BA\u03CC,"
+  currency: XMR
+  source: https://app.vysion.ai/document/svlQbpQBhckrot2rg9NO
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618cdc19c401c6ec11920211
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2021-11-11T09:02:17'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/6298786291462d18a472d573
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/
+      detection_date: '2022-06-02T08:44:18.372465'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/629879e291462d18a4739a54
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:42.257671'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/62a52f673aee1767d213405b
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2022-06-12T00:12:23.802505'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/64adb29466d52c4e5d9a32d1
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/el/get-started/contributing/index.html
+      detection_date: '2023-07-11T19:50:44.415000'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/64adb4c37e05b14f945babfd
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/el/get-started/contributing/
+      detection_date: '2023-07-11T20:00:03.602000'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/64adc59f66d52c4e5d9a65d3
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/el/get-started/contributing/
+      detection_date: '2023-07-11T21:11:59.086000'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/5vlIbpQBhckrot2r1tH9
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/
+      detection_date: '2025-01-16T08:44:14'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/svlQbpQBhckrot2rg9NO
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:37'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+  concepts:
+  - dark_web
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648 | \u0645\
+    \u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\u064A , \u0644\
+    \u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\u0627"
+  currency: XMR
+  source: https://app.vysion.ai/document/sflQbpQBhckrot2rgtNy
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/f_lPbpQBhckrot2rjtOp
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ar/get-started/contributing/
+      detection_date: '2025-01-16T08:51:35'
+      title: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648\
+        \ | \u0645\u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\
+        \u064A , \u0644\u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\
+        \u0627"
+    - source: https://app.vysion.ai/document/sflQbpQBhckrot2rgtNy
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ar/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:37'
+      title: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648\
+        \ | \u0645\u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\
+        \u064A , \u0644\u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\
+        \u0627"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648 | \u0645\
+    \u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\u064A , \u0644\
+    \u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\u0627"
+  currency: XMR
+  source: https://app.vysion.ai/document/sflQbpQBhckrot2rgtNy
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/f_lPbpQBhckrot2rjtOp
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ar/get-started/contributing/
+      detection_date: '2025-01-16T08:51:35'
+      title: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648\
+        \ | \u0645\u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\
+        \u064A , \u0644\u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\
+        \u0627"
+    - source: https://app.vysion.ai/document/sflQbpQBhckrot2rgtNy
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ar/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:37'
+      title: "\u062A\u0637\u0648\u064A\u0631 \u0645\u0648\u0646\u064A\u0631\u0648\
+        \ | \u0645\u0648\u0646\u064A\u0631\u0648 - \u0622\u0645\u0646 ,\u0633\u0631\
+        \u064A , \u0644\u0627 \u064A\u0645\u0643\u0646 \u062A\u0639\u0642\u0628\u0647\
+        \u0627"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 Monero\
+    \ | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\u03B9\u03C9\
+    \u03C4\u03B9\u03BA\u03CC,"
+  currency: XMR
+  source: https://app.vysion.ai/document/svlQbpQBhckrot2rg9NO
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/5vlIbpQBhckrot2r1tH9
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/
+      detection_date: '2025-01-16T08:44:14'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+    - source: https://app.vysion.ai/document/svlQbpQBhckrot2rg9NO
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/el/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:37'
+      title: "\u0392\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5\
+        \ Monero | Monero - \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2, \u03B9\u03B4\
+        \u03B9\u03C9\u03C4\u03B9\u03BA\u03CC,"
+  concepts:
+  - dark_web
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: Mejorar Monero | Monero - seguro, privado, no rast
+  currency: BTC
+  source: https://app.vysion.ai/document/xflRbpQBhckrot2rQtN8
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618cdc17c401c6ec1192009b
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/index.html
+      detection_date: '2021-11-11T09:02:15'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/618cdc92c401c6ec11921476
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/
+      detection_date: '2021-11-11T09:04:18'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/629879df91462d18a4739873
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:39.103091'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/64adba1f66d52c4e5d9a4720
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/es/get-started/contributing/index.html
+      detection_date: '2023-07-11T20:22:55.871000'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/64addbec7e05b14f945c11c0
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/es/get-started/contributing/
+      detection_date: '2023-07-11T22:47:08.906000'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/r_lIbpQBhckrot2rM9HL
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/
+      detection_date: '2025-01-16T08:43:33'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/xflRbpQBhckrot2rQtN8
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:26'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+  concepts:
+  - dark_web
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: Mejorar Monero | Monero - seguro, privado, no rast
+  currency: XMR
+  source: https://app.vysion.ai/document/xflRbpQBhckrot2rQtN8
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618cdc17c401c6ec1192009b
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/index.html
+      detection_date: '2021-11-11T09:02:15'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/618cdc92c401c6ec11921476
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/
+      detection_date: '2021-11-11T09:04:18'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/629879df91462d18a4739873
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:39.103091'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/64adba1f66d52c4e5d9a4720
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/es/get-started/contributing/index.html
+      detection_date: '2023-07-11T20:22:55.871000'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/64addbec7e05b14f945c11c0
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/es/get-started/contributing/
+      detection_date: '2023-07-11T22:47:08.906000'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/r_lIbpQBhckrot2rM9HL
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/
+      detection_date: '2025-01-16T08:43:33'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/xflRbpQBhckrot2rQtN8
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:26'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+  concepts:
+  - dark_web
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: Mejorar Monero | Monero - seguro, privado, no rast
+  currency: XMR
+  source: https://app.vysion.ai/document/xflRbpQBhckrot2rQtN8
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/r_lIbpQBhckrot2rM9HL
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/
+      detection_date: '2025-01-16T08:43:33'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+    - source: https://app.vysion.ai/document/xflRbpQBhckrot2rQtN8
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/es/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:26'
+      title: Mejorar Monero | Monero - seguro, privado, no rast
+  concepts:
+  - dark_web
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: Migliorare Monero | Monero - sicuro, privato, non
+  currency: XMR
+  source: https://app.vysion.ai/document/zflRbpQBhckrot2rTNPj
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/n_lQbpQBhckrot2rDtMG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/it/get-started/contributing/
+      detection_date: '2025-01-16T08:52:07'
+      title: Migliorare Monero | Monero - sicuro, privato, non
+    - source: https://app.vysion.ai/document/zflRbpQBhckrot2rTNPj
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/it/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:29'
+      title: Migliorare Monero | Monero - sicuro, privato, non
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: Migliorare Monero | Monero - sicuro, privato, non
+  currency: XMR
+  source: https://app.vysion.ai/document/zflRbpQBhckrot2rTNPj
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/n_lQbpQBhckrot2rDtMG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/it/get-started/contributing/
+      detection_date: '2025-01-16T08:52:07'
+      title: Migliorare Monero | Monero - sicuro, privato, non
+    - source: https://app.vysion.ai/document/zflRbpQBhckrot2rTNPj
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/it/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:29'
+      title: Migliorare Monero | Monero - sicuro, privato, non
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: Migliorare Monero | Monero - sicuro, privato, non
+  currency: BTC
+  source: https://app.vysion.ai/document/zflRbpQBhckrot2rTNPj
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/n_lQbpQBhckrot2rDtMG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/it/get-started/contributing/
+      detection_date: '2025-01-16T08:52:07'
+      title: Migliorare Monero | Monero - sicuro, privato, non
+    - source: https://app.vysion.ai/document/zflRbpQBhckrot2rTNPj
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/it/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:29'
+      title: Migliorare Monero | Monero - sicuro, privato, non
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\u0435\
+    \u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\u0438\u0434\
+    \u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+  currency: BTC
+  source: https://app.vysion.ai/document/z_lRbpQBhckrot2rU9OJ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618b300dc401c6ec11db98ae
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/
+      detection_date: '2021-11-10T02:35:57'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/618c4254c401c6ec114d905e
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2021-11-10T22:06:12'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/6298795691462d18a4733e4a
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/
+      detection_date: '2022-06-02T08:48:22.875626'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/629879df91462d18a473987d
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:39.334650'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/62a5301b3aee1767d2136d82
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2022-06-12T00:15:23.058917'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adab8a7e05b14f945b916f
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/
+      detection_date: '2023-07-11T19:20:42.908000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adbc7166d52c4e5d9a4d6f
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/index.html
+      detection_date: '2023-07-11T20:32:49.243000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adbf2366d52c4e5d9a5496
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/
+      detection_date: '2023-07-11T20:44:19.791000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adc9c27e05b14f945be545
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/index.html
+      detection_date: '2023-07-11T21:29:38.073000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/MPlObpQBhckrot2rjtPn
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/
+      detection_date: '2025-01-16T08:50:29'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/z_lRbpQBhckrot2rU9OJ
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:30'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+  concepts:
+  - dark_web
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\u0435\
+    \u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\u0438\u0434\
+    \u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+  currency: XMR
+  source: https://app.vysion.ai/document/z_lRbpQBhckrot2rU9OJ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/618b300dc401c6ec11db98ae
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/
+      detection_date: '2021-11-10T02:35:57'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/618c4254c401c6ec114d905e
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2021-11-10T22:06:12'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/6298795691462d18a4733e4a
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/
+      detection_date: '2022-06-02T08:48:22.875626'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/629879df91462d18a473987d
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2022-06-02T08:50:39.334650'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/62a5301b3aee1767d2136d82
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2022-06-12T00:15:23.058917'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adab8a7e05b14f945b916f
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/
+      detection_date: '2023-07-11T19:20:42.908000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adbc7166d52c4e5d9a4d6f
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/index.html
+      detection_date: '2023-07-11T20:32:49.243000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adbf2366d52c4e5d9a5496
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/
+      detection_date: '2023-07-11T20:44:19.791000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/64adc9c27e05b14f945be545
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/ru/get-started/contributing/index.html
+      detection_date: '2023-07-11T21:29:38.073000'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/MPlObpQBhckrot2rjtPn
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/
+      detection_date: '2025-01-16T08:50:29'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/z_lRbpQBhckrot2rU9OJ
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:30'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+  concepts:
+  - dark_web
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\u0435\
+    \u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\u0438\u0434\
+    \u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+  currency: XMR
+  source: https://app.vysion.ai/document/z_lRbpQBhckrot2rU9OJ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/MPlObpQBhckrot2rjtPn
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/
+      detection_date: '2025-01-16T08:50:29'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+    - source: https://app.vysion.ai/document/z_lRbpQBhckrot2rU9OJ
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/ru/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:53:30'
+      title: "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C Monero | Monero \u0431\
+        \u0435\u0437\u043E\u043F\u0430\u0441\u043D\u0430, \u043A\u043E\u043D\u0444\
+        \u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D"
+  concepts:
+  - dark_web
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: Monero verbeteren | Monero - veilig, vertrouwelijk
+  currency: XMR
+  source: https://app.vysion.ai/document/JflSbpQBhckrot2r79T7
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oPlQbpQBhckrot2rDtO_
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nl/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:07'
+      title: Monero verbeteren | Monero - veilig, vertrouwelijk
+    - source: https://app.vysion.ai/document/JflSbpQBhckrot2r79T7
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nl/get-started/contributing/
+      detection_date: '2025-01-16T08:55:16'
+      title: Monero verbeteren | Monero - veilig, vertrouwelijk
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: Monero verbeteren | Monero - veilig, vertrouwelijk
+  currency: XMR
+  source: https://app.vysion.ai/document/JflSbpQBhckrot2r79T7
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oPlQbpQBhckrot2rDtO_
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nl/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:07'
+      title: Monero verbeteren | Monero - veilig, vertrouwelijk
+    - source: https://app.vysion.ai/document/JflSbpQBhckrot2r79T7
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nl/get-started/contributing/
+      detection_date: '2025-01-16T08:55:16'
+      title: Monero verbeteren | Monero - veilig, vertrouwelijk
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: Monero verbeteren | Monero - veilig, vertrouwelijk
+  currency: BTC
+  source: https://app.vysion.ai/document/JflSbpQBhckrot2r79T7
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oPlQbpQBhckrot2rDtO_
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nl/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:07'
+      title: Monero verbeteren | Monero - veilig, vertrouwelijk
+    - source: https://app.vysion.ai/document/JflSbpQBhckrot2r79T7
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nl/get-started/contributing/
+      detection_date: '2025-01-16T08:55:16'
+      title: Monero verbeteren | Monero - veilig, vertrouwelijk
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+  currency: BTC
+  source: https://app.vysion.ai/document/OvlTbpQBhckrot2rG9Q3
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/pPlQbpQBhckrot2rGNM5
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/tr/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+    - source: https://app.vysion.ai/document/OvlTbpQBhckrot2rG9Q3
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/tr/get-started/contributing/
+      detection_date: '2025-01-16T08:55:27'
+      title: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+  currency: XMR
+  source: https://app.vysion.ai/document/OvlTbpQBhckrot2rG9Q3
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/pPlQbpQBhckrot2rGNM5
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/tr/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+    - source: https://app.vysion.ai/document/OvlTbpQBhckrot2rG9Q3
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/tr/get-started/contributing/
+      detection_date: '2025-01-16T08:55:27'
+      title: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+  currency: XMR
+  source: https://app.vysion.ai/document/OvlTbpQBhckrot2rG9Q3
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/pPlQbpQBhckrot2rGNM5
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/tr/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+    - source: https://app.vysion.ai/document/OvlTbpQBhckrot2rG9Q3
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/tr/get-started/contributing/
+      detection_date: '2025-01-16T08:55:27'
+      title: "Monero'ya Katk\u0131da Bulunulmas\u0131 | Monero - g\xFCvenli,"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+  currency: XMR
+  source: https://app.vysion.ai/document/RvlTbpQBhckrot2rbtTG
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/pflQbpQBhckrot2rGdN1
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nb-no/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+    - source: https://app.vysion.ai/document/RvlTbpQBhckrot2rbtTG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nb-no/get-started/contributing/
+      detection_date: '2025-01-16T08:55:49'
+      title: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+  currency: BTC
+  source: https://app.vysion.ai/document/RvlTbpQBhckrot2rbtTG
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/pflQbpQBhckrot2rGdN1
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nb-no/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+    - source: https://app.vysion.ai/document/RvlTbpQBhckrot2rbtTG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nb-no/get-started/contributing/
+      detection_date: '2025-01-16T08:55:49'
+      title: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+  currency: XMR
+  source: https://app.vysion.ai/document/RvlTbpQBhckrot2rbtTG
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/pflQbpQBhckrot2rGdN1
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nb-no/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:52:10'
+      title: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+    - source: https://app.vysion.ai/document/RvlTbpQBhckrot2rbtTG
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/nb-no/get-started/contributing/
+      detection_date: '2025-01-16T08:55:49'
+      title: "Forbedring av Monero | Monero \u2013 sikker, privat og"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
+  label: Improving Monero | Monero - secure, private, untra
+  currency: BTC
+  source: https://app.vysion.ai/document/hPlUbpQBhckrot2rMtQ-
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/CG1qBpABPIZOLnqbCUao
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/get-started/contributing/
+      detection_date: '2024-06-11T08:28:50'
+      title: Improving Monero | Monero - secure, private, untra
+    - source: https://app.vysion.ai/document/QPlFbpQBhckrot2r29GU
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/get-started/contributing/
+      detection_date: '2025-01-16T08:40:59'
+      title: Improving Monero | Monero - secure, private, untra
+    - source: https://app.vysion.ai/document/hPlUbpQBhckrot2rMtQ-
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:56:39'
+      title: Improving Monero | Monero - secure, private, untra
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H
+  label: Improving Monero | Monero - secure, private, untra
+  currency: XMR
+  source: https://app.vysion.ai/document/hPlUbpQBhckrot2rMtQ-
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/CG1qBpABPIZOLnqbCUao
+      url: uu457s7ace65mtmujvvqoea7zkxkahlwpm4teflq3jyn7p3z6jna.b32.i2p/get-started/contributing/
+      detection_date: '2024-06-11T08:28:50'
+      title: Improving Monero | Monero - secure, private, untra
+    - source: https://app.vysion.ai/document/QPlFbpQBhckrot2r29GU
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/get-started/contributing/
+      detection_date: '2025-01-16T08:40:59'
+      title: Improving Monero | Monero - secure, private, untra
+    - source: https://app.vysion.ai/document/hPlUbpQBhckrot2rMtQ-
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:56:39'
+      title: Improving Monero | Monero - secure, private, untra
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
+  label: Improving Monero | Monero - secure, private, untra
+  currency: XMR
+  source: https://app.vysion.ai/document/hPlUbpQBhckrot2rMtQ-
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/QPlFbpQBhckrot2r29GU
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/get-started/contributing/
+      detection_date: '2025-01-16T08:40:59'
+      title: Improving Monero | Monero - secure, private, untra
+    - source: https://app.vysion.ai/document/hPlUbpQBhckrot2rMtQ-
+      url: monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/get-started/contributing/index.html
+      detection_date: '2025-01-16T08:56:39'
+      title: Improving Monero | Monero - secure, private, untra
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 46eYJFwhFB9M4rp6CNhv31eXJT5JCZJW4XZ2sTyuhbYkDMt8BQf8DMSFbitUG1LTqecWNjcWGuNAeNE2izvxr1gqQUfVzpt
+  label: "New profile posts | \u2B50 DarkNet Army - Hacking & Car"
+  currency: XMR
+  source: https://app.vysion.ai/document/2_pOg5QBhckrot2rKaPD
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/j_rygpQBhckrot2r96AP
+      url: dna777hvxcfr6dub6rmyt67rt6upd4pr4ptqcdpy424lsnjvwpoxv4ad.onion/whats-new/profile-posts/908563/
+      detection_date: '2025-01-20T09:02:28'
+      title: "New profile posts | \u2B50 DarkNet Army - Hacking & Car"
+    - source: https://app.vysion.ai/document/9foRg5QBhckrot2rZaFW
+      url: dna777hvxcfr6dub6rmyt67rt6upd4pr4ptqcdpy424lsnjvwpoxv4ad.onion/whats-new/profile-posts/908648/
+      detection_date: '2025-01-20T09:35:42'
+      title: "New profile posts | \u2B50 DarkNet Army - Hacking & Car"
+    - source: https://app.vysion.ai/document/Qvocg5QBhckrot2rD6Jw
+      url: dna777hvxcfr6dub6rmyt67rt6upd4pr4ptqcdpy424lsnjvwpoxv4ad.onion/whats-new/profile-posts/908674/
+      detection_date: '2025-01-20T09:47:21'
+      title: "New profile posts | \u2B50 DarkNet Army - Hacking & Car"
+    - source: https://app.vysion.ai/document/c_ogg5QBhckrot2rC6J8
+      url: dna777hvxcfr6dub6rmyt67rt6upd4pr4ptqcdpy424lsnjvwpoxv4ad.onion/whats-new/profile-posts/908687/
+      detection_date: '2025-01-20T09:51:42'
+      title: "New profile posts | \u2B50 DarkNet Army - Hacking & Car"
+    - source: https://app.vysion.ai/document/q_org5QBhckrot2rDaL0
+      url: dna777hvxcfr6dub6rmyt67rt6upd4pr4ptqcdpy424lsnjvwpoxv4ad.onion/whats-new/profile-posts/908720/
+      detection_date: '2025-01-20T10:03:44'
+      title: "New profile posts | \u2B50 DarkNet Army - Hacking & Car"
+    - source: https://app.vysion.ai/document/2_pOg5QBhckrot2rKaPD
+      url: dna777hvxcfr6dub6rmyt67rt6upd4pr4ptqcdpy424lsnjvwpoxv4ad.onion/whats-new/profile-posts/908809/
+      detection_date: '2025-01-20T10:42:05'
+      title: "New profile posts | \u2B50 DarkNet Army - Hacking & Car"
+  concepts:
+  - abuse
+  - dark_web
+- address: t1ZMhXDyU6jT1nZhTyB7gyT5sHr9tipoxKD
+  label: Null World
+  currency: ZEC
+  source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/l_nSaZQBhckrot2rV5XJ
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-15T11:56:20'
+      title: Null World
+    - source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-22T01:42:53'
+      title: Null World
+  concepts:
+  - dark_web
+- address: bc1pw7el9sfql4xna7esnhenq2plxyjc7qcr9k92sd2dqp0w3xd7uahsfnmwdk
+  label: Null World
+  currency: BTC
+  source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/l_nSaZQBhckrot2rV5XJ
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-15T11:56:20'
+      title: Null World
+    - source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-22T01:42:53'
+      title: Null World
+  concepts:
+  - dark_web
+- address: bc1qpxsht9z3udls2kaueep3qfwht2t24wfpxajgme
+  label: Null World
+  currency: BTC
+  source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/l_nSaZQBhckrot2rV5XJ
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-15T11:56:20'
+      title: Null World
+    - source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-22T01:42:53'
+      title: Null World
+  concepts:
+  - dark_web
+- address: '0x3f749B75Fd260b32fED5E74DC8B5736ABE5a6782'
+  label: Null World
+  currency: ETH
+  source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/l_nSaZQBhckrot2rV5XJ
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-15T11:56:20'
+      title: Null World
+    - source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-22T01:42:53'
+      title: Null World
+  concepts:
+  - dark_web
+- address: 82ttgrWcVaUFT36RDUbRmD2aQ4oYKra4DZxpL1YsbqWje2KQpwUfcFMbefWWFRgTJ5axPbomnPEUQbseaNa6onhjA8vLqUk
+  label: Null World
+  currency: XMR
+  source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/l_nSaZQBhckrot2rV5XJ
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-15T11:56:20'
+      title: Null World
+    - source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-22T01:42:53'
+      title: Null World
+  concepts:
+  - dark_web
+- address: 3J5vizx1x2FMWgTE7URSrbSMfbBFjMJTH4
+  label: Null World
+  currency: BTC
+  source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/l_nSaZQBhckrot2rV5XJ
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-15T11:56:20'
+      title: Null World
+    - source: https://app.vysion.ai/document/NPuti5QBhckrot2rOR3i
+      url: oqampqzctgkbq2yizpqdxlywidwgplilk3ccbhcxqm7gf6erafpkpjad.onion/donate/
+      detection_date: '2025-01-22T01:42:53'
+      title: Null World
+  concepts:
+  - dark_web
+- address: 1DNstATs59JANuXjbpS5ngWHqvApAhYHBS
+  label: Dark Eye - The DarkNet Monitor
+  currency: BTC
+  source: https://app.vysion.ai/document/nfuHjpQBhckrot2rPC7z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/tPnSaZQBhckrot2rn5X-
+      url: darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/t/dead.html
+      detection_date: '2025-01-15T11:56:38'
+      title: Dark Eye - The DarkNet Monitor
+    - source: https://app.vysion.ai/document/nfuHjpQBhckrot2rPC7z
+      url: darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/t/dead.html
+      detection_date: '2025-01-22T15:00:15'
+      title: Dark Eye - The DarkNet Monitor
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1N98rwJjwh9uyRdraYMkdgTYrSn83Hp82R
+  label: Dark Eye - The DarkNet Monitor
+  currency: BTC
+  source: https://app.vysion.ai/document/nfuHjpQBhckrot2rPC7z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/tPnSaZQBhckrot2rn5X-
+      url: darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/t/dead.html
+      detection_date: '2025-01-15T11:56:38'
+      title: Dark Eye - The DarkNet Monitor
+    - source: https://app.vysion.ai/document/nfuHjpQBhckrot2rPC7z
+      url: darkeyepxw7cuu2cppnjlgqaav6j42gyt43clcn4vjjf7llfyly5cxid.onion/t/dead.html
+      detection_date: '2025-01-22T15:00:15'
+      title: Dark Eye - The DarkNet Monitor
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 46eYJFwhFB9M4rp6CNhv31eXJT5JCZJW4XZ2sTyuhbYkDMt8BQf8DMSFbitUG1LTqecWNjcWGuNAeNE2izvxr1gqQUfVzpt
+  label: "Search results for query: * | \u2B50 DarkNet Army - Hac"
+  currency: XMR
+  source: https://app.vysion.ai/document/pPsnk5QBhckrot2rwEVs
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/pPsnk5QBhckrot2rwEVs
+      url: dna777hvxcfr6dub6rmyt67rt6upd4pr4ptqcdpy424lsnjvwpoxv4ad.onion/search/3875305/?c%5Busers%5D=TokyoMachine&o=date
+      detection_date: '2025-01-23T12:34:03'
+      title: "Search results for query: * | \u2B50 DarkNet Army - Hac"
+  concepts:
+  - abuse
+  - dark_web
+- address: '0xD64fb51C74E0206cB6702aB922C765c68B97dCD4'
+  label: Rechargable 3D Printed Humidifier - Destructables
+  currency: ETH
+  source: https://app.vysion.ai/document/QvvtlJQBhckrot2rwHcw
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/QvvtlJQBhckrot2rwHcw
+      url: vern543vpdnea54gxj4ra66ijciu4fff26emabkdz4w4rgnyx2eq.b32.i2p/Rechargable-3D-Printed-Humidifier/
+      detection_date: '2025-01-23T20:49:56'
+      title: Rechargable 3D Printed Humidifier - Destructables
+- address: '0x9D9E77cA360b53cD89cc01dC37A5314C0113FFc3'
+  label: Rechargable 3D Printed Humidifier - Destructables
+  currency: ETH
+  source: https://app.vysion.ai/document/QvvtlJQBhckrot2rwHcw
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/QvvtlJQBhckrot2rwHcw
+      url: vern543vpdnea54gxj4ra66ijciu4fff26emabkdz4w4rgnyx2eq.b32.i2p/Rechargable-3D-Printed-Humidifier/
+      detection_date: '2025-01-23T20:49:56'
+      title: Rechargable 3D Printed Humidifier - Destructables
+- address: '0x9D9E77cA360b53cD89cc01dC37A5314C0113FFc3'
+  label: Liquid Level Indicator Using ULN2003 - Destructabl
+  currency: ETH
+  source: https://app.vysion.ai/document/hvsElZQBhckrot2rbHk6
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/hvsElZQBhckrot2rbHk6
+      url: vern543vpdnea54gxj4ra66ijciu4fff26emabkdz4w4rgnyx2eq.b32.i2p/Liquid-Level-Indicator-Using-ULN2003/
+      detection_date: '2025-01-23T21:14:42'
+      title: Liquid Level Indicator Using ULN2003 - Destructabl
+  concepts:
+  - dark_web
+  - malware
+- address: '0xD64fb51C74E0206cB6702aB922C765c68B97dCD4'
+  label: Liquid Level Indicator Using ULN2003 - Destructabl
+  currency: ETH
+  source: https://app.vysion.ai/document/hvsElZQBhckrot2rbHk6
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/hvsElZQBhckrot2rbHk6
+      url: vern543vpdnea54gxj4ra66ijciu4fff26emabkdz4w4rgnyx2eq.b32.i2p/Liquid-Level-Indicator-Using-ULN2003/
+      detection_date: '2025-01-23T21:14:42'
+      title: Liquid Level Indicator Using ULN2003 - Destructabl
+  concepts:
+  - dark_web
+  - malware
+- address: 88kB9fLMye39sWWvmwAq3TYgn3BG12Xn21ER9izUf6xViRHUwjBM36v31nfHo7wbhXgq2PvVgEeWy2FLeEFj6VZtHAF5VFY
+  label: Dark Web Mention
+  currency: XMR
+  source: https://app.vysion.ai/document/Gfu2mJQBhckrot2raaoJ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/5GOEto4BPIZOLnqbZXx6
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/darknet-market-revenue-fell-by-almost-50-percent-in-2022
+      detection_date: '2024-04-07T03:05:13'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/i2YS2I4BPIZOLnqbUAvM
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/darknet-market-revenue-fell-by-almost-50-percent-in-2022
+      detection_date: '2024-04-13T15:27:42'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/82zOAJABPIZOLnqbkP6F
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-market-revenue-fell-by-almost-50-percent-in-2022
+      detection_date: '2024-06-10T06:20:55'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/wG8mMZABPIZOLnqbpRqe
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/darknet-market-revenue-fell-by-almost-50-percent-in-2022
+      detection_date: '2024-06-19T15:38:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/dHNXppABPIZOLnqb2ave
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-market-revenue-fell-by-almost-50-percent-in-2022
+      detection_date: '2024-07-12T09:48:13'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/Gfu2mJQBhckrot2raaoJ
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-market-revenue-fell-by-almost-50-percent-in-2022
+      detection_date: '2025-01-24T14:27:58'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: bc1qpk2gndavptjjh434hh0mmn7k3fscfvppfltdkh
+  label: "Vendor Bond \u2013 Robinhood Market"
+  currency: BTC
+  source: https://app.vysion.ai/document/YPwSpZQBhckrot2rPibW
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/YPwSpZQBhckrot2rPibW
+      url: ilr3qzubfnx33vbhal7l5coo4ftqlkv2tboph4ujog5crz6m5ua2b2ad.onion/vendor-bond/
+      detection_date: '2025-01-27T00:03:43'
+      title: "Vendor Bond \u2013 Robinhood Market"
+- address: 48M77u1jvtzMKgKS7rC9ijFVSnudMWiJfXRJVH4hAKXFjNwtuNv3J7u4Ev4miBbnJR9BMoFLVbfC2Lu3fmpP5xKFPX7miXM
+  label: BreachForums - Profile of Rob1nhood
+  currency: XMR
+  source: https://app.vysion.ai/document/N_y1ppQBhckrot2rsi4c
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/N_y1ppQBhckrot2rsi4c
+      url: breachforums.st/User-Rob1nhood
+      detection_date: '2025-01-27T07:41:53'
+      title: BreachForums - Profile of Rob1nhood
+  concepts:
+  - data_breach
+- address: '0xb6B77Cb2E58B3a00d236abd0c9aDF38f48D2eD70'
+  label: Dark Web Mention
+  currency: ETH
+  source: https://app.vysion.ai/document/KPySrJQBhckrot2rODyN
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/mGykAJABPIZOLnqbHfzZ
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-version-of-twitter-pitch-launches
+      detection_date: '2024-06-10T05:34:33'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/a_nxaZQBhckrot2ri5jS
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-version-of-twitter-pitch-launches
+      detection_date: '2025-01-15T12:30:25'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/KPySrJQBhckrot2rODyN
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/darknet-version-of-twitter-pitch-launches
+      detection_date: '2025-01-28T11:00:51'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 3Ni4NbnwjTpuw2v9nVTtvCFyEEqiBoDvwB
+  label: Dark Web Mention
+  currency: BTC
+  source: https://app.vysion.ai/document/qPy0rJQBhckrot2rMj_J
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/p2DnlY4BPIZOLnqbb438
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2024-03-31T19:05:56'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/vGG_n44BPIZOLnqbO2WO
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2024-04-02T16:58:13'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/CWNfto4BPIZOLnqb93s8
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2024-04-07T02:25:26'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/c2yxAJABPIZOLnqbNv1w
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2024-06-10T05:48:52'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/23NKppABPIZOLnqb56qC
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2024-07-12T09:34:05'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/V_lXapQBhckrot2rq5zl
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2025-01-15T14:21:58'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/JvuomZQBhckrot2rqLVW
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2025-01-24T18:52:34'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/qPy0rJQBhckrot2rMj_J
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/3-cryptbb-staff-leave-the-forum-owner-accused-of-scamming
+      detection_date: '2025-01-28T11:37:58'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 82fRSQFVzCi8n23i75cs4kcPitB6QG4PCZ3smcg1YuStfQUfPUqo4h4aDFsZiXn5x6FDa9JsRNKE8fjS4dwoRwL118dw2XQ
+  label: Dark Web Mention
+  currency: XMR
+  source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/9mOYto4BPIZOLnqbP32Y
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/9WOYto4BPIZOLnqbPn27
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/dWyxAJABPIZOLnqbVf3a
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-10T05:49:00'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/y28nMZABPIZOLnqbExqH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-19T15:39:22'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/XHCNWpABPIZOLnqbY7LH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-27T16:35:33'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/e3NYppABPIZOLnqbiKsg
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-07-12T09:48:58'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/TPlWapQBhckrot2rd5zZ
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-15T14:20:39'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/Afu0mJQBhckrot2r5Kqc
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-24T14:26:19'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-28T11:38:54'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 48ewzdFGLmg5b5affpRSGDS26G3CJPeNXAKo5Fn24PWxc8AS44tkmqQaTSu8XVgs8i6RpwC6roHEjZDUc6GgSfRf7nCHCab
+  label: Dark Web Mention
+  currency: XMR
+  source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/9mOYto4BPIZOLnqbP32Y
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/9WOYto4BPIZOLnqbPn27
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/dWyxAJABPIZOLnqbVf3a
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-10T05:49:00'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/y28nMZABPIZOLnqbExqH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-19T15:39:22'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/XHCNWpABPIZOLnqbY7LH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-27T16:35:33'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/e3NYppABPIZOLnqbiKsg
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-07-12T09:48:58'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/TPlWapQBhckrot2rd5zZ
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-15T14:20:39'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/Afu0mJQBhckrot2r5Kqc
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-24T14:26:19'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-28T11:38:54'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 83qR2mW1J2rdXAVTbaRErbNFAVYakSLT3DYouUPmVqK7MNXe5drrNj1SH4CYu6sNsqYw8G3RXrYVVLzcuhwNguSxRWVY1gp
+  label: Dark Web Mention
+  currency: XMR
+  source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/9WOYto4BPIZOLnqbPn27
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/9mOYto4BPIZOLnqbP32Y
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/dWyxAJABPIZOLnqbVf3a
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-10T05:49:00'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/y28nMZABPIZOLnqbExqH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-19T15:39:22'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/XHCNWpABPIZOLnqbY7LH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-27T16:35:33'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/e3NYppABPIZOLnqbiKsg
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-07-12T09:48:58'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/TPlWapQBhckrot2rd5zZ
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-15T14:20:39'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/Afu0mJQBhckrot2r5Kqc
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-24T14:26:19'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-28T11:38:54'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 47KisteNAcSHvZTKnre8U5VrFjmtL6fMrj8cp5AnTdJ7RQY5NydLy9qDRhHQK5b9t2XAVPfLoM2tiQtpfuCqdeihH6erAzg
+  label: Dark Web Mention
+  currency: XMR
+  source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/9mOYto4BPIZOLnqbP32Y
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/9WOYto4BPIZOLnqbPn27
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/dWyxAJABPIZOLnqbVf3a
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-10T05:49:00'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/y28nMZABPIZOLnqbExqH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-19T15:39:22'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/XHCNWpABPIZOLnqbY7LH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-27T16:35:33'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/e3NYppABPIZOLnqbiKsg
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-07-12T09:48:58'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/TPlWapQBhckrot2rd5zZ
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-15T14:20:39'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/Afu0mJQBhckrot2r5Kqc
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-24T14:26:19'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-28T11:38:54'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: bc1qa8p25vnhjewscahgvdztcr5qcp60nvq9u0zkr0
+  label: Dark Web Mention
+  currency: BTC
+  source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/9mOYto4BPIZOLnqbP32Y
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/9WOYto4BPIZOLnqbPn27
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-04-07T03:26:54'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/dWyxAJABPIZOLnqbVf3a
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-10T05:49:00'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/y28nMZABPIZOLnqbExqH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-19T15:39:22'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/XHCNWpABPIZOLnqbY7LH
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-06-27T16:35:33'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/e3NYppABPIZOLnqbiKsg
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2024-07-12T09:48:58'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/TPlWapQBhckrot2rd5zZ
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-15T14:20:39'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/Afu0mJQBhckrot2r5Kqc
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-24T14:26:19'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/u_y1rJQBhckrot2rDz_z
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/senior-admin-of-alphabay-advises-users-not-to-use-the-market
+      detection_date: '2025-01-28T11:38:54'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: bc1qg56gmjktj8flw2mmchumnf4nlm82qycvqx2rqk
+  label: Dark Web Mention
+  currency: BTC
+  source: https://app.vysion.ai/document/F_y6rJQBhckrot2rckAG
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/KWHun44BPIZOLnqbR2mi
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2024-04-02T17:49:36'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/C2Nwto4BPIZOLnqbK3wq
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2024-04-07T02:43:08'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/hGYR2I4BPIZOLnqb2gvl
+      url: tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2024-04-13T15:27:12'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/32pVT48BPIZOLnqbR2xr
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2024-05-06T19:15:39'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/lGzEAJABPIZOLnqbP_6z
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2024-06-10T06:09:39'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/anNCppABPIZOLnqbMaob
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2024-07-12T09:24:34'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/FPkzapQBhckrot2r75u1
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2025-01-15T13:42:56'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/Qfu4mJQBhckrot2r7KrP
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2025-01-24T14:30:43'
+      title: Dark Web Mention
+    - source: https://app.vysion.ai/document/F_y6rJQBhckrot2rckAG
+      url: times4ddo57aaryeze5pauerdf2wq43pu22orokjnr5r6obzf6nq.b32.i2p/post/two-russians-charged-for-hacking-mt-gox-and-trying-to-launder-18-billion
+      detection_date: '2025-01-28T11:44:47'
+      title: Dark Web Mention
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: bc1qzfck943jm43lfqra66knf7tgsgns6ggd790n2w
+  label: SupplyChainGuy1 (u/SupplyChainGuy1) - Redlib
+  currency: BTC
+  source: https://app.vysion.ai/document/F_wPuZQBhckrot2rBofM
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/zFMry40BPIZOLnqbb_1s
+      url: lr.vern.i2p/user/SupplyChainGuy1
+      detection_date: '2024-02-21T10:17:17'
+      title: SupplyChainGuy1 (u/SupplyChainGuy1) - Redlib
+    - source: https://app.vysion.ai/document/uFsyRo4BPIZOLnqbkNVN
+      url: lr.vern.i2p/user/SupplyChainGuy1
+      detection_date: '2024-03-16T07:38:22'
+      title: SupplyChainGuy1 (u/SupplyChainGuy1) - Redlib
+    - source: https://app.vysion.ai/document/F_wPuZQBhckrot2rBofM
+      url: lr.vern.i2p/user/SupplyChainGuy1
+      detection_date: '2025-01-30T21:12:37'
+      title: SupplyChainGuy1 (u/SupplyChainGuy1) - Redlib

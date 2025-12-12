@@ -1,0 +1,138 @@
+confidence: web_crawl
+title: Telegram Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: bc1pt6x7xqtr7nwfvmvdnp72hgf8u63gzyu2suc0pjv5j9nhx3qhr3tqruhan2
+  label: Frehners
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/6112077760
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/6112077760
+      url: https://app.vysion.ai/telegram/user/6112077760
+      detection_date: '2024-10-16T22:17:01.728378'
+      title: Frehners
+  concepts:
+  - messaging_service
+- address: '0x4DE23f3f0Fb3318287378AdbdE030cf61714b2f3'
+  label: zooki1
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/938687865
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/938687865
+      url: https://app.vysion.ai/telegram/user/938687865
+      detection_date: '2024-10-21T01:45:26.316936'
+      title: zooki1
+  concepts:
+  - messaging_service
+- address: bc1qccn28598uf637ecw6atm3kuqq5rmtrwh8rn4rm
+  label: NoBitA0302
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/825572535
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/825572535
+      url: https://app.vysion.ai/telegram/user/825572535
+      detection_date: '2024-10-24T12:45:21.597942'
+      title: NoBitA0302
+  concepts:
+  - messaging_service
+- address: 33sfV8DegztvLDDGPcvfzLtn4tHRohH9xc
+  label: Xenno
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/6695971593
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/6695971593
+      url: https://app.vysion.ai/telegram/user/6695971593
+      detection_date: '2024-10-28T00:47:24.112666'
+      title: Xenno
+  concepts:
+  - messaging_service
+- address: '0xC2f5c0B2e0186817223b74f93F074A5DDeaefA2A'
+  label: Miiirsaa
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/8156486310
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/8156486310
+      url: https://app.vysion.ai/telegram/user/8156486310
+      detection_date: '2024-10-29T22:05:47.635512'
+      title: Miiirsaa
+  concepts:
+  - messaging_service
+- address: '0xDaf824Fd116127473de9be50d0e13877549A1203'
+  label: evilzoneforum
+  currency: ETH
+  source: https://app.vysion.ai/telegram/user/-1001810486066
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1001810486066
+      url: https://app.vysion.ai/telegram/user/-1001810486066
+      detection_date: '2024-10-30T21:19:03.886561'
+      title: evilzoneforum
+  concepts:
+  - messaging_service
+- address: 1LkZS28T363Efc5yUAtZPQV347xz9DabC
+  label: evilzoneforum
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/-1001810486066
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1001810486066
+      url: https://app.vysion.ai/telegram/user/-1001810486066
+      detection_date: '2024-10-30T21:19:03.886561'
+      title: evilzoneforum
+  concepts:
+  - messaging_service
+- address: bc1qnfzflf0ak7c8ksjfcx0wuwz245l9ma5rktax2x
+  label: evilzoneforum
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/-1001810486066
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/-1001810486066
+      url: https://app.vysion.ai/telegram/user/-1001810486066
+      detection_date: '2024-10-30T21:19:03.886561'
+      title: evilzoneforum
+  concepts:
+  - messaging_service
+- address: bc1qkkc32g4ftprkzk7n39mshn4jysgpleg5qv83tuqvextyn2fzl5qq6vdz08
+  label: Kevin
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/6783831545
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/6783831545
+      url: https://app.vysion.ai/telegram/user/6783831545
+      detection_date: '2024-10-30T22:20:48.060295'
+      title: Kevin
+  concepts:
+  - messaging_service
+- address: 3LU8wRu4ZnXP4UM8Yo6kkTiGHM9BubgyiG
+  label: chroma
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/8026582440
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/8026582440
+      url: https://app.vysion.ai/telegram/user/8026582440
+      detection_date: '2024-10-31T21:33:33.947548'
+      title: chroma
+  concepts:
+  - messaging_service
+- address: 1LVccUn9EVUApBPTUxsAvfRVHAk25g5PvH
+  label: ben_smart_33
+  currency: BTC
+  source: https://app.vysion.ai/telegram/user/7852081884
+  context:
+    occurences:
+    - source: https://app.vysion.ai/telegram/user/7852081884
+      url: https://app.vysion.ai/telegram/user/7852081884
+      detection_date: '2024-10-31T23:33:16.723269'
+      title: ben_smart_33
+  concepts:
+  - messaging_service

@@ -1,0 +1,18 @@
+confidence: web_crawl
+title: Discord Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: bc1p7jft3gswygztkxvh889hl7j734spejw9h9ymnq3nejlwjn2w92mqwvcgps
+  label: imblackman0570
+  currency: BTC
+  source: https://app.vysion.ai/discord/user/1114959775239770193
+  context:
+    occurences:
+    - source: https://app.vysion.ai/discord/user/1114959775239770193
+      url: https://app.vysion.ai/discord/user/1114959775239770193
+      detection_date: '2025-05-21T18:32:25.695061'
+      title: imblackman0570
+  concepts:
+  - messaging_service

@@ -1,0 +1,548 @@
+confidence: web_crawl
+title: Darknet Wallet Mentions
+creator: Byron Labs - Vysion
+lastmod: '2025-12-12'
+tag_type: mention
+tags:
+- address: 1CQVL5fLNds87nUNDQTwoTwdr3wwEnrpVp
+  label: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+    \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+    \U0001F181\U0001F181"
+  currency: BTC
+  source: https://app.vysion.ai/document/6T5qTIwBPIZOLnqbwh2a
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oTxyHowBPIZOLnqbZlPN
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02
+      detection_date: '2023-11-30T04:17:43'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/ozxyHowBPIZOLnqbflOd
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/6df1f121-e4c4-44ff-b1f1-21e4c4d4fff7
+      detection_date: '2023-11-30T04:17:49'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/pjxzHowBPIZOLnqbY1M0
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ba0b2232-3f1f-4c1d-8b22-323f1fdc1d9e
+      detection_date: '2023-11-30T04:18:47'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/ITy-L4wBPIZOLnqbmPwT
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02?dismissNotice=true
+      detection_date: '2023-12-03T12:54:29'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/Ijy-L4wBPIZOLnqbw_xu
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/6df1f121-e4c4-44ff-b1f1-21e4c4d4fff7?dismissNotice=true
+      detection_date: '2023-12-03T12:54:40'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/OjzCL4wBPIZOLnqbXvwz
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02
+      detection_date: '2023-12-03T12:58:36'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/OzzCL4wBPIZOLnqbiPz2
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ba0b2232-3f1f-4c1d-8b22-323f1fdc1d9e?dismissNotice=true
+      detection_date: '2023-12-03T12:58:47'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/vz5jTIwBPIZOLnqb1x0O
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02?dismissNotice=true
+      detection_date: '2023-12-09T02:24:20'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/0z5oTIwBPIZOLnqbGh1_
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ba0b2232-3f1f-4c1d-8b22-323f1fdc1d9e?dismissNotice=true
+      detection_date: '2023-12-09T02:29:00'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/1D5oTIwBPIZOLnqbgB3S
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/64e629eb-cf9c-49ec-a629-ebcf9c29ec76
+      detection_date: '2023-12-09T02:29:26'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/1T5oTIwBPIZOLnqbgx3h
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/35599596-2c67-4e8d-9995-962c67ae8d42
+      detection_date: '2023-12-09T02:29:27'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/4T5pTIwBPIZOLnqbVx0m
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/71bc2c0e-4db4-4ebb-bc2c-0e4db46ebb9f
+      detection_date: '2023-12-09T02:30:21'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/4j5pTIwBPIZOLnqbbx35
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/1a1ad1bd-0256-462b-9ad1-bd0256d62bf2
+      detection_date: '2023-12-09T02:30:27'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/4z5pTIwBPIZOLnqbdh1w
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/5ef319e3-2fa7-44ff-b319-e32fa7e4ff17
+      detection_date: '2023-12-09T02:30:29'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/5D5pTIwBPIZOLnqbex1h
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ff5849ef-5156-499d-9849-ef5156c99de3
+      detection_date: '2023-12-09T02:30:30'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/6D5qTIwBPIZOLnqbuR3w
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/40149fc0-46d1-4319-949f-c046d1d3191b
+      detection_date: '2023-12-09T02:31:51'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/5z5qTIwBPIZOLnqbth1X
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ebd51203-6e9a-43a4-9512-036e9a43a4ce
+      detection_date: '2023-12-09T02:31:51'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/6T5qTIwBPIZOLnqbwh2a
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/1d6ad4b0-e2f0-40cb-aad4-b0e2f080cbf3
+      detection_date: '2023-12-09T02:31:54'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 465aHQVyPRo3trhaaVqcnP4TheMubZtvJcQQKbmAyd5K2VyigWZmyA4Wpbp8u4kc5zLrPjyVn9mkaJasSZe8dZgnBnKgCc7
+  label: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+    \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+    \U0001F181\U0001F181"
+  currency: XMR
+  source: https://app.vysion.ai/document/6T5qTIwBPIZOLnqbwh2a
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/oTxyHowBPIZOLnqbZlPN
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02
+      detection_date: '2023-11-30T04:17:43'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/ozxyHowBPIZOLnqbflOd
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/6df1f121-e4c4-44ff-b1f1-21e4c4d4fff7
+      detection_date: '2023-11-30T04:17:49'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/pjxzHowBPIZOLnqbY1M0
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ba0b2232-3f1f-4c1d-8b22-323f1fdc1d9e
+      detection_date: '2023-11-30T04:18:47'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/ITy-L4wBPIZOLnqbmPwT
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02?dismissNotice=true
+      detection_date: '2023-12-03T12:54:29'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/Ijy-L4wBPIZOLnqbw_xu
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/6df1f121-e4c4-44ff-b1f1-21e4c4d4fff7?dismissNotice=true
+      detection_date: '2023-12-03T12:54:40'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/OjzCL4wBPIZOLnqbXvwz
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02
+      detection_date: '2023-12-03T12:58:36'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/OzzCL4wBPIZOLnqbiPz2
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ba0b2232-3f1f-4c1d-8b22-323f1fdc1d9e?dismissNotice=true
+      detection_date: '2023-12-03T12:58:47'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/vz5jTIwBPIZOLnqb1x0O
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/aa475411-4d10-43cc-8754-114d1073cc02?dismissNotice=true
+      detection_date: '2023-12-09T02:24:20'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/0z5oTIwBPIZOLnqbGh1_
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ba0b2232-3f1f-4c1d-8b22-323f1fdc1d9e?dismissNotice=true
+      detection_date: '2023-12-09T02:29:00'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/1D5oTIwBPIZOLnqbgB3S
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/64e629eb-cf9c-49ec-a629-ebcf9c29ec76
+      detection_date: '2023-12-09T02:29:26'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/1T5oTIwBPIZOLnqbgx3h
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/35599596-2c67-4e8d-9995-962c67ae8d42
+      detection_date: '2023-12-09T02:29:27'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/4T5pTIwBPIZOLnqbVx0m
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/71bc2c0e-4db4-4ebb-bc2c-0e4db46ebb9f
+      detection_date: '2023-12-09T02:30:21'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/4j5pTIwBPIZOLnqbbx35
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/1a1ad1bd-0256-462b-9ad1-bd0256d62bf2
+      detection_date: '2023-12-09T02:30:27'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/4z5pTIwBPIZOLnqbdh1w
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/5ef319e3-2fa7-44ff-b319-e32fa7e4ff17
+      detection_date: '2023-12-09T02:30:29'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/5D5pTIwBPIZOLnqbex1h
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ff5849ef-5156-499d-9849-ef5156c99de3
+      detection_date: '2023-12-09T02:30:30'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/6D5qTIwBPIZOLnqbuR3w
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/40149fc0-46d1-4319-949f-c046d1d3191b
+      detection_date: '2023-12-09T02:31:51'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/5z5qTIwBPIZOLnqbth1X
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/ebd51203-6e9a-43a4-9512-036e9a43a4ce
+      detection_date: '2023-12-09T02:31:51'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+    - source: https://app.vysion.ai/document/6T5qTIwBPIZOLnqbwh2a
+      url: agoradesk.i2p/nojs/ad/buy-bitcoin-cryptocurrency/1d6ad4b0-e2f0-40cb-aad4-b0e2f080cbf3
+      detection_date: '2023-12-09T02:31:54'
+      title: "Buy Bitcoin using Cryptocurrency: \U0001F7E2 \U0001F150\U0001F17D\U0001F188\
+        \ \U0001F172\U0001F181\U0001F188\U0001F17F\U0001F183\U0001F17E\U0001F172\U0001F184\
+        \U0001F181\U0001F181"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: bc1qz50uvrntmvmnhmgf04dp5tvm5944fzpv3px9pz
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/wkA6fIwBPIZOLnqbuWnp
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/wkA6fIwBPIZOLnqbuWnp
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/y9Fb8gLSSwBv8gkD65779c7f2a543
+      detection_date: '2023-12-12T01:34:23Z'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware
+- address: bc1quqpkjpr27pq44q8musqlljerqt7dv274c3ngc0
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/yEA6fIwBPIZOLnqb8mnY
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/yEA6fIwBPIZOLnqb8mnY
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/sIvFEvJHNHkCR7bc6577880fefd01
+      detection_date: '2023-12-12T02:07:11Z'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware
+- address: 1CRhhZXcEt6ctfFScPmbr6fS6Z82zMmqQS
+  label: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 WITHDRAW YOUR PAYPAL B"
+  currency: BTC
+  source: https://app.vysion.ai/document/GT5gYYwBPIZOLnqbYfRw
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/fD5dTIwBPIZOLnqbvx25
+      url: agoradesk.i2p/nojs/ad/buy-monero-paypal-united-states-of-america/37f952e6-d37f-49ee-b952-e6d37f09ee14
+      detection_date: '2023-12-09T02:17:41'
+      title: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 WITHDRAW YOUR PAYPAL B"
+    - source: https://app.vysion.ai/document/GT5gYYwBPIZOLnqbYfRw
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-paypal-united-states-of-america/37f952e6-d37f-49ee-b952-e6d37f09ee14
+      detection_date: '2023-12-13T04:12:35'
+      title: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 WITHDRAW YOUR PAYPAL B"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1CRhhZXcEt6ctfFScPmbr6fS6Z82zMmqQS
+  label: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 PAY ME WITH PAYPAL BIT"
+  currency: BTC
+  source: https://app.vysion.ai/document/IT5hYYwBPIZOLnqbOvQ5
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/iT5eTIwBPIZOLnqbVB0V
+      url: agoradesk.i2p/nojs/ad/buy-monero-paypal-united-kingdom/7a5121aa-f395-41ed-9121-aaf395c1ed06
+      detection_date: '2023-12-09T02:18:19'
+      title: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 PAY ME WITH PAYPAL BIT"
+    - source: https://app.vysion.ai/document/kD5eTIwBPIZOLnqbiB35
+      url: agoradesk.i2p/nojs/ad/buy-monero-paypal-germany/e3c3716e-5812-4a49-8371-6e58120a4937
+      detection_date: '2023-12-09T02:18:32'
+      title: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 PAY ME WITH PAYPAL BIT"
+    - source: https://app.vysion.ai/document/Gj5gYYwBPIZOLnqbZvRJ
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-paypal-united-kingdom/7a5121aa-f395-41ed-9121-aaf395c1ed06
+      detection_date: '2023-12-13T04:12:36'
+      title: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 PAY ME WITH PAYPAL BIT"
+    - source: https://app.vysion.ai/document/IT5hYYwBPIZOLnqbOvQ5
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-paypal-germany/e3c3716e-5812-4a49-8371-6e58120a4937
+      detection_date: '2023-12-13T04:13:30'
+      title: "Buy Monero using Paypal: \U0001F7E9\U0001F7E5 PAY ME WITH PAYPAL BIT"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1CRhhZXcEt6ctfFScPmbr6fS6Z82zMmqQS
+  label: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+    \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+    \U0001F7E2 ALL"
+  currency: BTC
+  source: https://app.vysion.ai/document/Lj5iYYwBPIZOLnqbmPTo
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/bjxtHowBPIZOLnqbS1NQ
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/c4bcf6f5-ee7c-40a4-bcf6-f5ee7c60a47e
+      detection_date: '2023-11-30T04:12:08'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/fTyyKIwBPIZOLnqbQsE4
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/c4bcf6f5-ee7c-40a4-bcf6-f5ee7c60a47e
+      detection_date: '2023-12-02T04:03:40'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/6jy5L4wBPIZOLnqbyPvi
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/c4bcf6f5-ee7c-40a4-bcf6-f5ee7c60a47e?dismissNotice=true
+      detection_date: '2023-12-03T12:49:13'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/2z2zQYwBPIZOLnqbG7pm
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/c4bcf6f5-ee7c-40a4-bcf6-f5ee7c60a47e?dismissNotice=true
+      detection_date: '2023-12-07T00:35:06'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/ej5dTIwBPIZOLnqbuh0d
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/8c392312-5d6c-47fe-b923-125d6cf7feec
+      detection_date: '2023-12-09T02:17:40'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/hT5dTIwBPIZOLnqb_x0A
+      url: agoradesk.i2p/nojs/ad/buy-monero-cryptocurrency/de1a9628-8364-4566-9a96-2883648566e7
+      detection_date: '2023-12-09T02:17:57'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/xj5WYYwBPIZOLnqbTPM2
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/de1a9628-8364-4566-9a96-2883648566e7
+      detection_date: '2023-12-13T04:01:34'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/zD5WYYwBPIZOLnqbfvNU
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/8c392312-5d6c-47fe-b923-125d6cf7feec
+      detection_date: '2023-12-13T04:01:47'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+    - source: https://app.vysion.ai/document/Lj5iYYwBPIZOLnqbmPTo
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-cryptocurrency/c4bcf6f5-ee7c-40a4-bcf6-f5ee7c60a47e?dismissNotice=true
+      detection_date: '2023-12-13T04:15:00'
+      title: "Buy Monero using Cryptocurrency: \U0001F7E9\U0001F7E5\U0001F7E8\U0001F7E7\
+        \U0001F7E6\U0001F7EA\U0001F7EB\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2\
+        \U0001F7E2 ALL"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 1CRhhZXcEt6ctfFScPmbr6fS6Z82zMmqQS
+  label: "Buy Monero using Paypal: \U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2ONLY PAYPAL\
+    \ BITCOIN /"
+  currency: BTC
+  source: https://app.vysion.ai/document/aT-NYowBPIZOLnqbUgDM
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/fT5dTIwBPIZOLnqbxx0K
+      url: agoradesk.i2p/nojs/ad/buy-monero-paypal-united-states-of-america/0c136591-e13d-44bb-9365-91e13db4bb72
+      detection_date: '2023-12-09T02:17:43'
+      title: "Buy Monero using Paypal: \U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2ONLY\
+        \ PAYPAL BITCOIN /"
+    - source: https://app.vysion.ai/document/fj5dTIwBPIZOLnqb2R3v
+      url: agoradesk.i2p/nojs/ad/buy-monero-paypal-germany/6e5c4cba-c4a9-4d8f-9c4c-bac4a92d8fc3
+      detection_date: '2023-12-09T02:17:48'
+      title: "Buy Monero using Paypal: \U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2ONLY\
+        \ PAYPAL BITCOIN /"
+    - source: https://app.vysion.ai/document/kz5eTIwBPIZOLnqb8R1r
+      url: agoradesk.i2p/nojs/ad/buy-monero-paypal-united-states-of-america/01c94bcc-f056-4b9c-894b-ccf0565b9c8c
+      detection_date: '2023-12-09T02:18:59'
+      title: "Buy Monero using Paypal: \U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2ONLY\
+        \ PAYPAL BITCOIN /"
+    - source: https://app.vysion.ai/document/HD5gYYwBPIZOLnqbc_Tj
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-paypal-germany/6e5c4cba-c4a9-4d8f-9c4c-bac4a92d8fc3
+      detection_date: '2023-12-13T04:12:40'
+      title: "Buy Monero using Paypal: \U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2ONLY\
+        \ PAYPAL BITCOIN /"
+    - source: https://app.vysion.ai/document/ID5hYYwBPIZOLnqbOfRy
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-paypal-united-states-of-america/01c94bcc-f056-4b9c-894b-ccf0565b9c8c
+      detection_date: '2023-12-13T04:13:30'
+      title: "Buy Monero using Paypal: \U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2ONLY\
+        \ PAYPAL BITCOIN /"
+    - source: https://app.vysion.ai/document/aT-NYowBPIZOLnqbUgDM
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/buy-monero-paypal-united-states-of-america/0c136591-e13d-44bb-9365-91e13db4bb72
+      detection_date: '2023-12-13T09:41:18'
+      title: "Buy Monero using Paypal: \U0001F7E2\U0001F7E2\U0001F7E2\U0001F7E2ONLY\
+        \ PAYPAL BITCOIN /"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: bc1qhuuzwy5wc3ujqthc4096urzkjcg4687m6n9vx2
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/xEA6fIwBPIZOLnqbzmkp
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/xEA6fIwBPIZOLnqbzmkp
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/OuGc0s3rAGkxiNmJ65779b02ecaa3
+      detection_date: '2023-12-18T09:16:48'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware
+- address: bc1q9786ma2g4fa5693u2x54suze0d2axxr9pqzdnm
+  label: LockBit BLOG
+  currency: BTC
+  source: https://app.vysion.ai/document/xkA_hYwBPIZOLnqb_egJ
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/xkA_hYwBPIZOLnqb_egJ
+      url: lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion/post/yUTJvnBif5lpmeHK65824d6c740ed
+      detection_date: '2023-12-20T03:22:21'
+      title: LockBit BLOG
+  concepts:
+  - abuse
+  - dark_web
+  - ransomware
+- address: bc1qu9e0zkun4qv6xndjlwr6x9xk43a7xlxccs7rr7
+  label: "Maksim1982's feedback \u2014 AgoraDesk (No JavaScript)"
+  currency: BTC
+  source: https://app.vysion.ai/document/2kEBjIwBPIZOLnqbAEU5
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/2kEBjIwBPIZOLnqbAEU5
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/user/Maksim1982/feedback?page=4
+      detection_date: '2023-12-21T10:52:04'
+      title: "Maksim1982's feedback \u2014 AgoraDesk (No JavaScript)"
+  concepts:
+  - dark_web
+  - extremism
+- address: bc1q5unxkgxku9mlt043m66uqlllps2n5w5mw5snha
+  label: Sell Bitcoin using Cryptocurrency with Monero (XMR
+  currency: BTC
+  source: https://app.vysion.ai/document/DEEGjIwBPIZOLnqbr0ZW
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NUCXhowBPIZOLnqbc_xC
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-bitcoin-cryptocurrency/b220d7f3-da33-455b-a0d7-f3da33e55be7
+      detection_date: '2023-12-20T09:38:41'
+      title: Sell Bitcoin using Cryptocurrency with Monero (XMR
+    - source: https://app.vysion.ai/document/RECYhowBPIZOLnqbqfzE
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-bitcoin-cryptocurrency/37e33650-f3ce-4890-a336-50f3ce9890cf
+      detection_date: '2023-12-20T09:40:01'
+      title: Sell Bitcoin using Cryptocurrency with Monero (XMR
+    - source: https://app.vysion.ai/document/5kEDjIwBPIZOLnqbQUW4
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-bitcoin-cryptocurrency/b220d7f3-da33-455b-a0d7-f3da33e55be7?dismissNotice=true
+      detection_date: '2023-12-21T10:54:32'
+      title: Sell Bitcoin using Cryptocurrency with Monero (XMR
+    - source: https://app.vysion.ai/document/DEEGjIwBPIZOLnqbr0ZW
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-bitcoin-cryptocurrency/37e33650-f3ce-4890-a336-50f3ce9890cf?dismissNotice=true
+      detection_date: '2023-12-21T10:58:17'
+      title: Sell Bitcoin using Cryptocurrency with Monero (XMR
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 38BNzYodECJhKuM6ASEP6kKCSvoQRzULQ4
+  label: "syndicate3301's ads \u2014 AgoraDesk (No JavaScript)"
+  currency: BTC
+  source: https://app.vysion.ai/document/QEF6kIwBPIZOLnqbeIGT
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/PEGki4wBPIZOLnqbZEHY
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-to-syndicate3301
+      detection_date: '2023-12-21T09:10:55'
+      title: "syndicate3301's ads \u2014 AgoraDesk (No JavaScript)"
+    - source: https://app.vysion.ai/document/QEF6kIwBPIZOLnqbeIGT
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/sell-bitcoin-to-syndicate3301?dismissNotice=true
+      detection_date: '2023-12-22T07:43:14'
+      title: "syndicate3301's ads \u2014 AgoraDesk (No JavaScript)"
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 8C8qaUw4zGPVJ8PCFNjPaQAn8ez1XLj79EZ5T77VmVg8DQAuZ1kRFCqJQVApaSHa82AQEsN8rAbGULEhxTBxZbmjB9H45W4
+  label: "berra \u2014 AgoraDesk (No JavaScript)"
+  currency: XMR
+  source: https://app.vysion.ai/document/FkERlIwBPIZOLnqbqK_M
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/FkERlIwBPIZOLnqbqK_M
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/user/berra
+      detection_date: '2023-12-23T00:27:14'
+      title: "berra \u2014 AgoraDesk (No JavaScript)"
+- address: 49KTLZuJQ69hKafaRhaugfDZ8hmPGNYpG9ob91J1HiV5awwpqk3vXxrAYG84UJ2QxU9RG2i9KZZ3Cg4D5U5ams1mVgfPqdb
+  label: 'Sell Monero using National bank transfer: No ID ne'
+  currency: XMR
+  source: https://app.vysion.ai/document/i0LpqowBPIZOLnqb-9iV
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/i0LpqowBPIZOLnqb-9iV
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-national-bank-belgium/a7c74822-5714-4ad5-8748-2257141ad5d5
+      detection_date: '2023-12-27T10:55:10'
+      title: 'Sell Monero using National bank transfer: No ID ne'
+  concepts:
+  - dark_web
+  - escrow_wallet
+- address: 45z7XGfEFG4AydMvwagqjLR2V9iMmW8VhTYmmF6wNf6b1uVquWoHnpnWgKd8BsPmbhMmeEK7bK5zdWg7htMd4Jny1iJ942Z
+  label: 'Sell Monero using Cash App (Square Cash): Payment'
+  currency: XMR
+  source: https://app.vysion.ai/document/NEIyrYwBPIZOLnqbOPD2
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/NEIyrYwBPIZOLnqbOPD2
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-square-cash-united-states-of-america/f5ef3347-394f-402d-af33-47394fd02dab
+      detection_date: '2023-12-27T21:33:18'
+      title: 'Sell Monero using Cash App (Square Cash): Payment'
+- address: 45z7XGfEFG4AydMvwagqjLR2V9iMmW8VhTYmmF6wNf6b1uVquWoHnpnWgKd8BsPmbhMmeEK7bK5zdWg7htMd4Jny1iJ942Z
+  label: 'Sell Monero using Cash App (Square Cash): Payment'
+  currency: XMR
+  source: https://app.vysion.ai/document/dULHrowBPIZOLnqbtf-x
+  context:
+    occurences:
+    - source: https://app.vysion.ai/document/dULHrowBPIZOLnqbtf-x
+      url: ztqnvu7c35jyoqmfjyymqggjpyky6z3tlgewk2qgbgcmcyl4ecta.b32.i2p/nojs/ad/sell-monero-square-cash-united-states-of-america/f5ef3347-394f-402d-af33-47394fd02dab?dismissNotice=true
+      detection_date: '2023-12-28T04:56:12'
+      title: 'Sell Monero using Cash App (Square Cash): Payment'
+  concepts:
+  - dark_web
+  - escrow_wallet
