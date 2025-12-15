@@ -3,7 +3,7 @@ creator: iknaio
 description: Cryptocurrency addresses from the U.S. Treasury OFAC Specially Designated
   Nationals list
 category: sanction
-confidence: heuristic
+confidence: authority_data
 source: https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml
 lastmod: '2025-12-15'
 tags:
