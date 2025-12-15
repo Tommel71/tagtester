@@ -1,0 +1,17 @@
+title: 'Binance Deposit Wallets (Funder: 0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Binance funded by 0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8
+  with first transactions in blocks 12000000-13999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: binance
+label: Binance Deposit Wallet
+source: 'Funder: 0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0xfa01e8c97bda84637f9128f94f6c5891f95c503b'
+- address: '0x94c781e2e52729eeb44f926c796cf071163dbe60'
+- address: '0x1c6524980f3662aa7b443f24d08c6eb8fcac936b'

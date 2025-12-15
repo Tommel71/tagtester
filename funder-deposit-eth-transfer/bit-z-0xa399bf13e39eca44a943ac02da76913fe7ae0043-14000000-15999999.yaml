@@ -1,0 +1,21 @@
+title: 'Bit-Z Deposit Wallets (Funder: 0xa399bf13e39eca44a943ac02da76913fe7ae0043)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bit-Z funded by 0xa399bf13e39eca44a943ac02da76913fe7ae0043
+  with first transactions in blocks 14000000-15999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: bitzcom
+label: Bit-Z Deposit Wallet
+source: 'Funder: 0xa399bf13e39eca44a943ac02da76913fe7ae0043'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x0b6d37710aa1b1e8d35a030ca2135a69defde23b'
+- address: '0x2fd1d8f6b72cba81ac708ff293cefd3106b20312'
+- address: '0x67b769393253ea9e59e7b3464957219511256ed0'
+- address: '0x7899fb4236efe73443cd676aaf0c9835d006d62f'
+- address: '0x9b66648311156de89230a647495da2e479ac0e21'
+- address: '0xae17c9514832424020ae043a268e5de7a28bdc11'
+- address: '0xb14386ee47804c5be5def4cfe25760b4a74121f3'

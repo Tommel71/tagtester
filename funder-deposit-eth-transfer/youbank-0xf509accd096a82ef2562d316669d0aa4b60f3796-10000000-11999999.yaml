@@ -1,0 +1,16 @@
+title: 'Youbank Deposit Wallets (Funder: 0xf509accd096a82ef2562d316669d0aa4b60f3796)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Youbank funded by 0xf509accd096a82ef2562d316669d0aa4b60f3796
+  with first transactions in blocks 10000000-11999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: youbank
+label: Youbank Deposit Wallet
+source: 'Funder: 0xf509accd096a82ef2562d316669d0aa4b60f3796'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x1e8c2357e3b10251c69bd4cfb3189e6d55b305db'
+- address: '0x74de5d4fcbf63e00296fd95d33236b9794016631'
