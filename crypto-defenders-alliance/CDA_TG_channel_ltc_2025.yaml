@@ -3,7 +3,7 @@ creator: Iknaio research
 source: Crypto Defenders Alliance (CDA)
 confidence: web_crawl
 label: abuse report
-lastmod: '2025-12-12'
+lastmod: '2025-12-15'
 description: Addresses from telegram chat report automatically scraped (2025)
 currency: ltc
 tags:
@@ -56,6 +56,8 @@ tags:
 - address: 32wYHGRFs3Z4GEcHGBSNzKRN1qXGZMV519
   category: abuse
 - address: 32wzjb2jbfw41YjBmTqskoT84pj2KPZKfE
+  category: abuse
+- address: 32xeMh7fXr4CRcFmbt5wqvM3b4L15WJXJd
   category: abuse
 - address: 32yhJTMweoDpitb2UxuPkFQzGde3oHnu7h
   category: abuse
@@ -315,6 +317,8 @@ tags:
   category: abuse
 - address: 3E32QHzocoKTVzB6T9R3JHZ2t4CK5rrwbL
   category: abuse
+- address: 3E7B7kYbAsa9NKiNkniMjdKz7LgCjtGiQa
+  category: abuse
 - address: 3E7nUKLG8oeSS7gJ94jfntJ7esJFAojPAB
   category: abuse
 - address: 3E9EGH4DRYT2Cvzsqeyrg6X46cs9dEz4tH
@@ -492,7 +496,7 @@ tags:
 - address: 3LkRNGtLYZmnB9pfrz9BVkCQynHiR1pYJN
   category: abuse
 - address: 3LsAPwDpAGy7zD4mWii7VRie6RcUXmLPrV
-  category: scam
+  category: abuse
 - address: 3LuEmp99rJc6fTydsxkFv7Sa4QjGzWJJAF
   category: abuse
 - address: 3MCeNTnM7KrMnsxEcKBrpgXo9oFWdHyS7p
@@ -528,7 +532,7 @@ tags:
 - address: 3NQvdy3cLqVXtWb4MR7UrTi15mUxG5jDPR
   category: abuse
 - address: 3NWGK7FB5m7nYxRhu5rzge98656ZU49Uf9
-  category: abuse
+  category: scam
 - address: 3Nb5cMdfEasMS9jAFoWkyY3SfeaNrnmg3W
   category: abuse
 - address: 3NbSjH89T5TC39djxwZDsevVdfbtJGpJ4r
@@ -600,6 +604,8 @@ tags:
 - address: 3PxbKKHJo1BJBdmBAgU5WAbpaQgeqmU9Ab
   category: abuse
 - address: 3Py8onX89WJM3fhKM4FcayKn9Hnt8uyiYT
+  category: abuse
+- address: 3Q2EgrLKgxc4bdtPTjExaPC5TQcRU7ngh2
   category: abuse
 - address: 3Q87jscjumxKpyRiQYVVKTik3EkV28gET8
   category: abuse

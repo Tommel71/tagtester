@@ -3,7 +3,7 @@ creator: Iknaio research
 source: Crypto Defenders Alliance (CDA)
 confidence: web_crawl
 label: abuse report
-lastmod: '2025-12-12'
+lastmod: '2025-12-15'
 description: Addresses from telegram chat report automatically scraped (2025)
 currency: xrp
 tags:
@@ -265,6 +265,8 @@ tags:
   category: scam
 - address: rDnZXZkv6j26JxMc6AqQGg4eMnNppsa4ni
   category: abuse
+- address: rDoaBH9ePYuTPpDzWVuDB9oLo86hCH44X1
+  category: abuse
 - address: rDqWeh9DX6P2Zzp4FBxqSghd11THJU3GGX
   category: abuse
 - address: rDr9EkFGtsUXH5KyJV5L9FQeEzCaVQa83R
@@ -407,6 +409,8 @@ tags:
   category: abuse
 - address: rHHiRzPDQXB4UU42XQpVDQeqcXujV18MDy
   category: scam
+- address: rHLfUfRZCUXwmh3JrWPsqeyu4Yujc4tx61
+  category: abuse
 - address: rHMBNHzMH813yjUw6arMaCzBo63xpiKPLG
   category: abuse
 - address: rHMUKnGAgG1jEhHK7xSy3wk3VPfzPsXem3
