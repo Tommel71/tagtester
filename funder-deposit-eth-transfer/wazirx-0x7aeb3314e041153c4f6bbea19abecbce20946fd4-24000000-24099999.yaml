@@ -1,0 +1,25 @@
+title: 'Wazirx Deposit Wallets (Funder: 0x7aeb3314e041153c4f6bbea19abecbce20946fd4)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Wazirx funded by 0x7aeb3314e041153c4f6bbea19abecbce20946fd4
+  with first transactions in blocks 24000000-24099999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: wazirx
+label: Wazirx Deposit Wallet
+source: 'Funder: 0x7aeb3314e041153c4f6bbea19abecbce20946fd4'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0xd056c602ee64da8b6d667f72f62a806a14cb26c8'
+- address: '0x86bf2a1c5d50f5051960f09f65fa4bf5bc24221f'
+- address: '0xaeda86372928df3b60cb439e6489060b2b7a18cd'
+- address: '0x32378eb15f39db1ecf6c9db0d649376d4aa502fc'
+- address: '0xf1cafdd391c9ae6867b5912490ad30a3933c1d78'
+- address: '0x1644707701e5190551dc2fab4a42fa21b1777f99'
+- address: '0x787b0107d42f4e3165e4b8444d2380676bdc7f5b'
+- address: '0x83daafac1680d5a0599809c3d5754ff6f650fe4b'
+- address: '0x6f3cf6898a937bc477df526df99480a4721eb277'
+- address: '0x0a979c2df678e51257bae779d04506d955c33d0a'
+- address: '0x64b98c9ae544d5aadf82c230f3f09f52da987b2f'
