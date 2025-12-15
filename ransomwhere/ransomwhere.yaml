@@ -3,7 +3,7 @@ creator: iknaio
 description: Cryptocurrency addresses associated with ransomware payments, sourced
   from ransomwhe.re
 category: ransomware
-confidence: heuristic
+confidence: trusted_provider
 source: https://ransomwhe.re/
 lastmod: '2025-12-15'
 tags:
