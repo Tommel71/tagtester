@@ -1,0 +1,15 @@
+title: 'Coinbene Deposit Wallets (Funder: 0xee57141075ea3fffc41f06af2ceba23e521019a8)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Coinbene funded by 0xee57141075ea3fffc41f06af2ceba23e521019a8
+  with first transactions in blocks 6000000-7999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: coinbene
+label: Coinbene Deposit Wallet
+source: 'Funder: 0xee57141075ea3fffc41f06af2ceba23e521019a8'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x1f6c3146769cfe06dfcc38f84ff367fec2626852'

@@ -1,0 +1,56 @@
+title: 'Bitflyer Deposit Wallets (Funder: 0x89460424c14378c2407518ceea6d427830084822)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bitflyer funded by 0x89460424c14378c2407518ceea6d427830084822
+  with first transactions in blocks 8000000-9999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: bitflyer
+label: Bitflyer Deposit Wallet
+source: 'Funder: 0x89460424c14378c2407518ceea6d427830084822'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x76311476c250b18d5d0867ee1936b9a9b336b5d9'
+- address: '0xd556ea5d0ee8b59c1f39997f81961124fae9a3ca'
+- address: '0x676ab50cf2bd4202488f44cb2d77b905d6ded5a9'
+- address: '0x9caa4b0c4b99942ef4ffa8232f511938a87fe14b'
+- address: '0xd1104ee7184ad483d2055fdcf121a09e96f53e28'
+- address: '0x7d37011f790b00966dca30710e703ec2699e3242'
+- address: '0x7273e57796adb446ed47730863c895813522319f'
+- address: '0x048ceb8d1538dc7d1aced2ec69278655001c42c1'
+- address: '0x026bf2884f6ed8d3d0878ab32c92436942d64f8d'
+- address: '0xcf8d27b83ccab936dbe78887b9a93136029f6d8e'
+- address: '0xfdcad72191c2dc4122fa19b3712c84d1eb343835'
+- address: '0xc8805275425138c73ef157b1a3dc0d70cdd06889'
+- address: '0x7d535103bf458e1f98d0a9c9fa87d4a01ca26701'
+- address: '0x99fb28c17e3d77a85512bdc64b0909bccb27c984'
+- address: '0x892068fcf820219f89eb237ca8ba2233f9d07e01'
+- address: '0x1631d3d64aab217d19805e707eac92d6d925f4e7'
+- address: '0x185645f4cdb1e50bed2e2606414aa8a826d3b77c'
+- address: '0x671a67cb7df2c12e5453485bd8f72777da8eaa0d'
+- address: '0x0531f6db4d9caf25539ca7089c32dce8c8b2599a'
+- address: '0x42e68d74408bdb8c744486995986f9c138d78f61'
+- address: '0x2dc7b4ca1179d49b3ad155e982bc737e80589361'
+- address: '0xf43ba8de9eca98c94efa72bb11e5aa5cc77259ff'
+- address: '0xa4faace536993d901f84839db5b92fc041210b6f'
+- address: '0x2a354be00431c3a72af2f4b19a5f220404856134'
+- address: '0x73106deeeb8cc9d36c1c330b56c2c9b0fb49b418'
+- address: '0x7511f31996a705c4b6b4a44b7fa37f6b6744b93d'
+- address: '0xa5fb9b20ddcc8b929417a5fdbbf484d3692f2d30'
+- address: '0xa6031c66de6fc1262cd148612b29080bc6fd5bc7'
+- address: '0x76cd343d9d29cbf32f47b0dd4f67d33198ae226d'
+- address: '0xea467b032b0dad3aadd8065367c662c56416ea87'
+- address: '0xa6118145bc531c45c71e9f36198972ee2577f44a'
+- address: '0xf5e2c229bdac4ae229f3c661d27d6bbfe6075aed'
+- address: '0x7c2d7b37bc318a65e5d92bc0e7336735bde5120e'
+- address: '0x8b42cd79047d9678f78eaea291199c96bf774619'
+- address: '0xa4e0793146a8db945bb9de8fbd332dca300dc2f5'
+- address: '0x654668d3a8c3a7309d8ccf1a0b39542b64e0f0eb'
+- address: '0x8a464b7b114a7f2ea4ac2760d8a0860398d9a06d'
+- address: '0xb752477e15ce8c862cb3ee4c1b5f62022f36489b'
+- address: '0x5e2acbca6affd3d4473cc381f3b580e7c12978ed'
+- address: '0xa815613ceb877e16241e78e4e3ddad256e9c277a'
+- address: '0x26ed77a443f603a7a8d54448e6fb821dbb672433'
+- address: '0xa82cc6561db42b1e7ad5315d26301b8bd88619f6'
