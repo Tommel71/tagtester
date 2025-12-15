@@ -1,0 +1,19 @@
+title: 'Bitkub Deposit Wallets (Funder: 0x49876520c866d138dd749d6c2c33e4da5bfaec66)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bitkub funded by 0x49876520c866d138dd749d6c2c33e4da5bfaec66
+  with first transactions in blocks 16000000-17999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: bitkub
+label: Bitkub Deposit Wallet
+source: 'Funder: 0x49876520c866d138dd749d6c2c33e4da5bfaec66'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0xdb044b8298e04d442fdbe5ce01b8cc8f77130e33'
+- address: '0xab15413220932d39b844d1f0faca3320f2fd68b5'
+- address: '0xf2a393025f391395c27517dc35514e63649766e2'
+- address: '0x129bfa08a3b101fdc296b29e5c01be26ab0e0881'
+- address: '0x594ab8d369c116e0c3d21da25d8db44a03d1909b'

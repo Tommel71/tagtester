@@ -1,0 +1,24 @@
+title: 'Simpleswap Deposit Wallets (Funder: 0x4b0401fe6b84c52d4f4310c371c731a2b6d0964d)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Simpleswap funded by 0x4b0401fe6b84c52d4f4310c371c731a2b6d0964d
+  with first transactions in blocks 12000000-13999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: simpleswap
+label: Simpleswap Deposit Wallet
+source: 'Funder: 0x4b0401fe6b84c52d4f4310c371c731a2b6d0964d'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0xbe700725c1ba432c24e5155b9563be8126dad20b'
+- address: '0x17361b3ece75bcd041961a05aefbed5dea8cf572'
+- address: '0xf93b658e778be525fee9c0cff57e105240cb9754'
+- address: '0xab84eada694fcf9659b4af98092f95ed418c410a'
+- address: '0xb4bd5fcacf48ec5d83b287266dac4cc81e9aeb14'
+- address: '0xd5474c2686a07a019b962448620760fdf2886cb5'
+- address: '0x01d8f922744921529c704735fa6fbb1b66ee162d'
+- address: '0xe0d70881bbe7476adeb03c206842adb298521b6c'
+- address: '0xce953359558f84eaf930fe2a71c34ba02c387d16'
+- address: '0xee692c974b9755667601f334522cdef56fbd692e'

@@ -1,0 +1,42 @@
+title: 'Osl Deposit Wallets (Funder: 0x969a480f68d8cf8fea037eb6c9d73d1d30cb1c75)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Osl funded by 0x969a480f68d8cf8fea037eb6c9d73d1d30cb1c75
+  with first transactions in blocks 20000000-21999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: osl
+label: Osl Deposit Wallet
+source: 'Funder: 0x969a480f68d8cf8fea037eb6c9d73d1d30cb1c75'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x4bb31e3d12362963c60e3a6f9de355dabfe5b4b0'
+- address: '0x0dec342e9e62292a682891d87fa7c210a783bbec'
+- address: '0xdf709764886a309a54117ed8ec3fc0eff01dbd3a'
+- address: '0x2caad6347db96d6467b123ff6caa52f9c59acc75'
+- address: '0x62818f1544598de3d75bac14c76a78b73a7609ab'
+- address: '0x81194e46d887aa5b734ae78a88c0628c92170b2c'
+- address: '0xca0ca2398dd9be4a662e7dcc6c8be8f18d0fa4d2'
+- address: '0x14c992d419684815fb0b0e699dc66f40a4029da0'
+- address: '0x1a2ec39c96a032e7d5f6eb29a45bf6aa27ee8d07'
+- address: '0x70eebf33bb18e6ca221b75cab23630019e36faef'
+- address: '0xa14aa2b9d74af5f4ba762352cef0f4b405b62c6a'
+- address: '0xa6e19a4fff00dc04c98cfb459358586797909027'
+- address: '0xc831b2e85563b45d2ec35c1ee98cef73c55f3a9e'
+- address: '0xf6b5f43e17f518549af446c7a974f948fce5db53'
+- address: '0x116cf2387d036a4e061d4dbee0ede82c1dea865e'
+- address: '0x555769e404f477c3a629df825409c726805ca4e4'
+- address: '0x587ccb372537bdd5640eb41014b125dc6933aa73'
+- address: '0x5ae6bd3ece683c80234ea9f37f867fafaca2cbf7'
+- address: '0x5bcee56189c04c782e98c8dc76a363b5aa20f018'
+- address: '0x5e652e6c269bbae2a649152afbc7f26f8ea11e16'
+- address: '0x60004ebdedab9eaca10c827d3dddd987f3d24004'
+- address: '0x62a3c61ac01888201e1724969b5f03e5983114be'
+- address: '0xa5c66937aeb7de015b293ac8514ff78a50a635c0'
+- address: '0xd7af66515ac10b79e0a1f17ea54d3cf783eb99e6'
+- address: '0xe1cd27a18b79e9d01707290978bb8d625dfa0300'
+- address: '0xc3c4f889a2db9ebf51dfaad992243fb0b61dd7d9'
+- address: '0x84b52d18f0a8f287b317f9b3551fd0e59b74d9ea'
+- address: '0x8aca156e6947823d1631ad0146ea7d9bca85efb3'
