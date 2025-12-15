@@ -1,0 +1,15 @@
+title: 'Bitcasino Deposit Wallets (Funder: 0x97180753f93e250d846d51034bd2bd62375dc7b0)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Bitcasino funded by 0x97180753f93e250d846d51034bd2bd62375dc7b0
+  with first transactions in blocks 14000000-15999999
+lastmod: '2025-12-15'
+concepts:
+- gambling
+- deposit_wallet
+actor: bitcasino
+label: Bitcasino Deposit Wallet
+source: 'Funder: 0x97180753f93e250d846d51034bd2bd62375dc7b0'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x615ce1b0a0df23e99e507d57b3edb8e201b17ff1'

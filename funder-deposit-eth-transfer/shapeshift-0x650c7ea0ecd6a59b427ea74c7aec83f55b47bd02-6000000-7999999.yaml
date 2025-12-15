@@ -1,0 +1,32 @@
+title: 'Shapeshift Deposit Wallets (Funder: 0x650c7ea0ecd6a59b427ea74c7aec83f55b47bd02)'
+creator: GraphSense Core Team
+description: Cryptocurrency deposit addresses for Shapeshift funded by 0x650c7ea0ecd6a59b427ea74c7aec83f55b47bd02
+  with first transactions in blocks 6000000-7999999
+lastmod: '2025-12-15'
+concepts:
+- exchange
+- deposit_wallet
+actor: shapeshift
+label: Shapeshift Deposit Wallet
+source: 'Funder: 0x650c7ea0ecd6a59b427ea74c7aec83f55b47bd02'
+confidence: heuristic
+currency: ETH
+tags:
+- address: '0x47ce9b454962b20079ede10d940c4a2d2c55aa53'
+- address: '0xf130794e9d9ff9a294493368ea3443574328f610'
+- address: '0xf592f49b670a6983930a5c1ff447f3070f6a01e9'
+- address: '0x8ebac2ee78e04de1c1c981f3150cb07cae1001bf'
+- address: '0x1852471e8fd7eaa042cac3ba865a55af2fb9b9b3'
+- address: '0x3f4476648cb4a07f0f1c8bbeee0e668f676c591b'
+- address: '0x8715185988a1fb9bfeb195c88fdbdc79fc642707'
+- address: '0xdb46bc6a6c32cfc74da031fb38154c96a7935c80'
+- address: '0x29696b6f39bd0cdf37d8f7e63b05ba16e63525b4'
+- address: '0xa8aadf7e3a8b36c4f0ebdcab68c2520b7931a256'
+- address: '0x899cb3d8063918ea00f6b1292cf9dcdd3eff32f4'
+- address: '0xf90b931e93bf094af7cded93fc9cc2d2caea7e66'
+- address: '0x243a12a533fe01c69fb15c1bed7b60affed6e918'
+- address: '0x76f02000566751ed2d535f4a7a66b0e720040cf1'
+- address: '0x4f12edff5fb726e713e3cf87b26a246346ba65ed'
+- address: '0xf7d2a4b01621dedce2f84bd9b8763fc2f17584e6'
+- address: '0x444906759151e8b6e0665c68229404b3b7ea387a'
+- address: '0xe2a75c69487c4609e2f8a7a80c826ed6b09c1bd0'
