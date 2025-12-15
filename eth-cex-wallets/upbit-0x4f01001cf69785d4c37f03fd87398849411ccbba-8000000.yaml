@@ -1,0 +1,15 @@
+title: upbit Deposit Wallets
+creator: GraphSense Core Team
+description: Deposit wallets deployed by 0x4f01001cf69785d4c37f03fd87398849411ccbba.
+lastmod: '2025-12-12'
+concepts:
+- exchange
+- deposit_wallet
+actor: upbit
+label: Upbit user wallet
+source: Deployed by 0x4f01001cf69785d4c37f03fd87398849411ccbba, LogNewWallet(address)
+confidence: untrusted_transaction
+currency: ETH
+tags:
+- address: '0x80f79b5c0e90e0ed14b083bc1bc9f990fd18a0a4'
+- address: '0xb4c4fcc5e86f551d7173e619f4246f0953dd9d2b'
