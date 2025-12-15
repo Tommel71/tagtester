@@ -876,7 +876,7 @@ tags:
 - address: '0x0BD77C7c70d342222C05d407eAc45CB5AE0e6A77'
   category: abuse
 - address: '0x0BE1cED347B9CAe3a21FEb1E416813092b6DA144'
-  category: abuse
+  category: phishing
 - address: '0x0C286711C1A2049d01A205b2a09cA77Ac387c2Ea'
   category: abuse
 - address: '0x0C3770000b98ddAc6100e97767F9D2F84CAff8c3'
@@ -912,7 +912,7 @@ tags:
 - address: '0x0D73Fc090266d173c952D3e53C33B67E212350d4'
   category: abuse
 - address: '0x0D776E931cb650CF0ABe95C8f3aA80B08cbd07F7'
-  category: phishing
+  category: abuse
 - address: '0x0D83F2770B5bDC0ccd9F09728B3eBF195cf890e2'
   category: abuse
 - address: '0x0D8BB3Cd639399A77170d92511DFd54b5f372AAe'
@@ -928,7 +928,7 @@ tags:
 - address: '0x0DE132D244C85c48236F97cDa0a82E519bd8ABE4'
   category: abuse
 - address: '0x0DEB2fD0267DAD00B57f81b0f11bF7B645921c6A'
-  category: abuse
+  category: scam
 - address: '0x0DF7E1c7789eEFf95ef90E3EcB884ecC247D253f'
   category: abuse
 - address: '0x0Db4A6AE28311704F13139D817391Cd20255FC9C'
@@ -3770,7 +3770,7 @@ tags:
 - address: '0x2d95F9351D1F8a1E8e9D4d898a0bafCf8EfA0530'
   category: abuse
 - address: '0x2dDf64Ab16A0DC7130Bc27e3807168D12A7EB3f6'
-  category: scam
+  category: abuse
 - address: '0x2dE745D6Af5056111301C32a8eA61AcF749022fb'
   category: abuse
 - address: '0x2dF1Cb5157Ee04E75269B260c4bd7931eadcDc6D'
@@ -9244,7 +9244,7 @@ tags:
 - address: '0x743A85f8397281e2ee241ab9fE255086f83b1D54'
   category: abuse
 - address: '0x74406ffc5C65157F347847CD3745997fbE23b287'
-  category: scam
+  category: abuse
 - address: '0x74413d402A78336945F7eB19E7fef2B0EdBd1390'
   category: abuse
 - address: '0x7447E95D08344C4A0BB57e6B7215b90191Bf5a19'
@@ -10124,7 +10124,7 @@ tags:
 - address: '0x7fD999f778c1867eDa9A4026fE7D4BbB33A45272'
   category: abuse
 - address: '0x7fE37417B727Be5CDe96Fb2EfEefc51EA42DfAD8'
-  category: abuse
+  category: scam
 - address: '0x7fECFaF2a4B2b4FC5A0C7D147ec79b6a8b0b23E7'
   category: abuse
 - address: '0x7fF85a5cde1F986F34AC232bfec3688cf8B02A08'
@@ -11048,7 +11048,7 @@ tags:
 - address: '0x8a23F09406B78d789f9aBB6Bd75B7c84751C8AeC'
   category: abuse
 - address: '0x8a2983f358a03c6DB9c47a70e944368D4De77820'
-  category: phishing
+  category: abuse
 - address: '0x8a2983f358a03c6db9c47a70e944368d4de77820'
   category: abuse
 - address: '0x8a4f03ca00400795119934C2eD458d8dd74a1dAD'
@@ -11958,7 +11958,7 @@ tags:
 - address: '0x9870ff5200287e0453a71dbbfa41ddd9713c1c2d'
   category: abuse
 - address: '0x9872C6eC4d63dda94Ed6c4CD873E88A643aDB433'
-  category: abuse
+  category: phishing
 - address: '0x9884B86e202cb1139D370e2DFf22a815f37a551A'
   category: abuse
 - address: '0x9888A1C3Db24bB288a0ef63bDca086c78C562e0b'
@@ -12088,7 +12088,7 @@ tags:
 - address: '0x9A4Ea4FDC30A24B45691ea15b94108f5e69d342A'
   category: abuse
 - address: '0x9A53B480b809fb0a24CB4605E28737a9D058ECDB'
-  category: abuse
+  category: scam
 - address: '0x9A98813bF0E7520272768eA3c47D88aCA3b88724'
   category: abuse
 - address: '0x9AA06057eC518F988eE0F893502B6D9Ae3B7af0C'
@@ -12724,6 +12724,8 @@ tags:
 - address: '0xA5A023E052243b7cce34Cbd4ba20180e8Dea6Ad6'
   category: abuse
 - address: '0xA5C6239f4Bee9a45C29412ef674d7DB58D9226Dc'
+  category: abuse
+- address: '0xA5Fe22DE797c878777D795887CC132DE27c0722B'
   category: abuse
 - address: '0xA5aBBa963A0ce65E22f9E134244b5343a290944A'
   category: abuse
@@ -15107,6 +15109,8 @@ tags:
   category: abuse
 - address: '0xFAE2A33AC96748a143778469d18CFaa2AEc5B43E'
   category: abuse
+- address: '0xFB0C44b8e56dDE8450D6390a15bd9Fe1E4Cf9fff'
+  category: abuse
 - address: '0xFB1530FB09F88A9aD14468457C607f99F5D2E7b2'
   category: abuse
 - address: '0xFB17145C50c00A215F950Af82f11475Caf3cC77C'
@@ -15220,6 +15224,8 @@ tags:
 - address: '0xFd417d6fB39fb3676392fb9d6c4caE4EF9F31a11'
   category: abuse
 - address: '0xFd4Db62f3CC855872704Ceb624422252bFF5701D'
+  category: abuse
+- address: '0xFd822748202C878998c4b0f6Adea00163874A038'
   category: abuse
 - address: '0xFd88a36d9777aFD6Ef628c68a6eb895bF71a75cb'
   category: abuse
