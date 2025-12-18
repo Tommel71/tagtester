@@ -407,9 +407,3 @@ tags:
 - address: terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm
   currency: LUNA2
   label: LUNA2 cold wallet
-- address: smr1qqvlkc4tyfd6fnfr59c5u3cwt6ryrd2cualw83nlq8zq0wg9tnfpyajpg9v
-  currency: SMR
-  label: SMR hot Wallet
-- address: smr1qz0nluk2fm29c9k74f60j83grt22237esnymel22trzjywtrgrwsve4rtt7
-  currency: SMR
-  label: SMR cold Wallet
