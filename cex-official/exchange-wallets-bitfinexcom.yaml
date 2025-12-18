@@ -3,7 +3,7 @@ creator: GraphSense Core Team
 confidence: service_data
 category: exchange
 source: https://raw.githubusercontent.com/bitfinexcom/pub/refs/heads/main/wallets.txt
-lastmod: 2025-12-01
+lastmod: '2025-12-18'
 is_cluster_definer: true
 actor: bitfinex
 tags:
@@ -407,3 +407,9 @@ tags:
 - address: terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm
   currency: LUNA2
   label: LUNA2 cold wallet
+- address: smr1qqvlkc4tyfd6fnfr59c5u3cwt6ryrd2cualw83nlq8zq0wg9tnfpyajpg9v
+  currency: SMR
+  label: SMR hot Wallet
+- address: smr1qz0nluk2fm29c9k74f60j83grt22237esnymel22trzjywtrgrwsve4rtt7
+  currency: SMR
+  label: SMR cold Wallet
